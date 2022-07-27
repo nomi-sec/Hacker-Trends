@@ -1,10 +1,12 @@
 https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/	18
 https://msft.it/6017j1vJ1	15
+https://www.reuters.com/technology/exclusive-eu-found-evidence-employee-phones-compromised-with-spyware-letter-2022-07-27/	10
 https://www.x86matthew.com/view_post?id=embed_exe_reg	10
 https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure/	9
-https://www.reuters.com/technology/exclusive-eu-found-evidence-employee-phones-compromised-with-spyware-letter-2022-07-27/	9
 https://github.com/AzureAD/AzureADAssessment	9
 https://twitter.com/itm4n/status/1551209957424615426	8
+https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/	8
+https://twitter.com/MsftSecIntel/status/1552294738933547009	7
 https://www.virustotal.com/gui/file/05b1435fe2c0264683a755daa6f26655815482b38ba8fabd781e24ad7eb66c9b	7
 https://github.com/FSecureLABS/physmem2profit	7
 https://www.virustotal.com/gui/file/99472fee5838154a9b9368a76ed799580796beb9270abc46ea42da141e0f490b	7
@@ -12,10 +14,8 @@ https://youtu.be/ScMkuwBxkSA	7
 https://thehackernews.com/2022/07/new-ducktail-infostealer-malware.html	7
 https://blogs.microsoft.com/on-the-issues/2022/07/27/private-sector-cyberweapons-psoas-knotweed/	7
 https://twitter.com/HowellONeill/status/1552031408595648513	7
-https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/	7
 https://intel471.com/blog/cybercrime-telegram-discord-automation-chatbots	6
 https://portswigger.net/research/framing-without-iframes	6
-https://twitter.com/MsftSecIntel/status/1552294738933547009	6
 https://labs.withsecure.com/publications/ducktail	6
 https://bazaar.abuse.ch/sample/3f3c968e423f661628f4da7545572474a8ce3f51e46a1988725b77dccc8d9e2f/	6
 https://cybergeeks.tech/how-to-analyze-linux-malware-a-case-study-of-symbiote/	6
@@ -44,6 +44,7 @@ https://bit.ly/3S7C90v	4
 https://www.newyorker.com/news/news-desk/a-juror-explains-why-a-cia-hacker-was-convicted	4
 https://www.bleepingcomputer.com/news/security/new-android-malware-apps-installed-10-million-times-from-google-play/	4
 https://podcasts.apple.com/us/podcast/apt-attribution-trials-and-tribulations-from-the-field/id1612506550?i=1000571269986	4
+https://threatpost.com/malware-hijacks-facebook/180285/	4
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-07-26%20Remcos%20IOCs	4
 https://www.youtube.com/playlist?list=PLmfJypsykTLV3lIDTiu_t3jVqhoksVe6D	4
 https://www.sans.org/u/1mrT	4
@@ -59,6 +60,7 @@ https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable
 https://trimarc.co/TWRPAN202207tw	3
 https://kymb0.github.io/malwaredev-bypass-av-xml/	3
 https://youtu.be/TfG9lBYCOq8	3
+https://twitter.com/jackrhysider/status/1552342520314707970	3
 https://www.fireeye.com/blog/threat-research/2021/04/abusing-replication-stealing-adfs-secrets-over-the-network.html	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-07-26%20IcedID%20IOCs	3
 https://electrek.co/2022/07/26/tesla-ransom-customer-over-80-miles-battery-range/	3
@@ -68,7 +70,6 @@ https://thehackernews.com/2022/07/experts-find-similarities-between.html	3
 https://github.com/zeronetworks/BloodHound-Tools/tree/main/VulnerabilitiesDataImport	3
 https://twitter.com/pr0xylife/status/1552304209013374979	3
 https://citizenlab.ca/2022/07/john-scott-railton-delivers-testimony-to-house-permanent-select-committee-on-intelligence/	3
-https://threatpost.com/malware-hijacks-facebook/180285/	3
 https://twitter.com/andnxor/status/1552154898438823936	3
 https://www.cyberark.com/resources/threat-research-blog/inside-matanbuchus-a-quirky-loader	3
 https://securereload.tech/Phishing/Lists/Latest/	3
