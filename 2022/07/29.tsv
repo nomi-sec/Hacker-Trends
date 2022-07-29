@@ -1,19 +1,20 @@
 https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealing-browser-extension-sharpext/	15
 https://malicious.link/post/2022/blocking-iso-mounting/	8
+https://github.com/WerWolv/ImHex/releases	8
 https://www.manrs.org/2022/07/for-12-hours-was-part-of-apple-engineerings-network-hijacked-by-russias-rostelecom/	8
 https://unit42.paloaltonetworks.com/dotnetfile/	8
 https://github.com/pan-unit42/dotnetfile/	7
 https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/	7
 https://0xninja.fr/bggp3	7
+https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government	7
 https://github.com/star-sg/CVE/tree/master/CVE-2022-2185	7
 https://msft.it/6011jHJBz	7
-https://github.com/WerWolv/ImHex/releases	7
 https://github.com/WerWolv/ImHex	7
 https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html	6
-https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government	6
 https://thehackernews.com/2022/07/spanish-police-arrest-2-nuclear-power.html	6
 https://thehackernews.com/2022/07/over-dozen-android-apps-on-google-play.html	6
 https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html	6
+https://securelist.com/apt-trends-report-q2-2022/106995/	5
 https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html	5
 https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/	5
 https://blog.sekoia.io/sekoia-io-mid-2022-ransomware-threat-landscape/	5
@@ -27,7 +28,6 @@ http://cisa.gov/small-business	4
 https://www.be-represented.org/	4
 https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world	4
 https://twitter.com/itsreallynick/status/1532519638692667421	4
-https://securelist.com/apt-trends-report-q2-2022/106995/	4
 https://www.sans.org/u/1m54	4
 https://github.com/PortSwigger/oauth-scan	4
 https://riskybiznews.substack.com/p/risky-biz-news-microsoft-puts-the	4
@@ -35,6 +35,7 @@ https://www.federalregister.gov/documents/2022/07/12/2022-13734/nondiscriminatio
 http://StopRansomware.gov	4
 https://gist.github.com/usualsuspect/791fc53a62d9a42836fef5e0412dd686	4
 https://aka.ms/ransomware-as-a-service#DEV-0206-DEV-0243	4
+https://twitter.com/blueteamcon/status/1512127118582468615	4
 https://github.com/0xsyr0/vx-underground-wordlist	4
 https://blogs.blackberry.com/en/2022/07/the-13-deadly-sins-of-apt-incident-response-part-1	4
 https://blueteamcon.com/2022/schedule/	4
@@ -45,6 +46,7 @@ https://twitter.com/MsftSecIntel/status/1552768361603502080	4
 https://github.com/crisprss/magicNetdefs	4
 https://careers.usbank.com/global/en/job/2022-0015100/Sr-Cyber-Threat-Intelligence-CTI-Analyst-Fusion-Center	4
 https://forms.gle/Ggr328rhNNJVxs917	4
+https://twitter.com/CBSNews/status/1552662721124081664	4
 https://github.com/diversenok/TokenUniverse	4
 https://twitter.com/ErinInTheMorn/status/1552656500627189760	4
 https://twitter.com/lee_hedgepeth/status/1552764047291973633	4
@@ -55,6 +57,7 @@ https://www.nextgov.com/cybersecurity/2022/07/ransomware-hackers-will-still-targ
 https://twitter.com/ivanasuzette/status/1552867043984265219	3
 https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/	3
 https://twitter.com/armscontrolwonk/status/816481483804184577	3
+https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/	3
 https://twitter.com/channel4/status/1552655121024053248	3
 https://europa.eu/!MHggbK	3
 https://nostarch.com/black-hat-graphql	3
@@ -65,6 +68,7 @@ https://bazaar.abuse.ch/sample/40b1f5735c2be416c3ddb387b300a0f5912a51a5f69eba9e5
 https://twitter.com/Fhamiltontimes/status/1552959255002636288	3
 https://bit.ly/3OxSdpm	3
 https://bazaar.abuse.ch/sample/7270c888468f0b334dd0bce7524df9b70cf143fbde29b6c2222acc0c7506bd06/	3
+https://fourcore.io/blogs/manipulating-windows-tokens-with-golang	3
 https://www.abc.net.au/news/2022-07-29/police-to-share-coding-of-an0m-app/101281212	3
 https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/	3
 https://securelist.com/lofylife-malicious-npm-packages/107014/	3
@@ -75,9 +79,9 @@ https://nakedsecurity.sophos.com/how-to-celebrate	3
 https://blck.by/3bxPMFn	3
 https://www.justice.gov/opa/pr/flopro-performance-exhaust-and-thunder-diesel-performance-company-halt-sales-illegal-vehicle	3
 https://www.blackhat.com/us-22/briefings/schedule/index.html#keynote-kim-zetter-28933	3
-https://twitter.com/blueteamcon/status/1512127118582468615	3
 https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/	3
 https://thinkst.com/ts	3
+https://threatpost.com/threat-pivot-microsofts-macro/180319/	3
 http://SEKOIA.IO	3
 https://www.virusbulletin.com/conference/vb2022/call-papers1/	3
 https://www.youtube.com/watch?v=U52MQa4W_JA	3
@@ -90,7 +94,6 @@ https://sensepost.com/blog/2022/me-vs-request-smugglingpost/	3
 https://twitter.com/cyberscoopnews/status/1552746212432007169	3
 https://crbug.com/1311820	3
 https://twitter.com/mjs_DC/status/1552743092150800384	3
-https://twitter.com/CBSNews/status/1552662721124081664	3
 https://womenscyberjutsu.org/events/EventDetails.aspx?id=1655432&group=	3
 https://kas.pr/sw65	3
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/want-to-become-a-red-teamer-this-is-what-you-need-to-know/	3
