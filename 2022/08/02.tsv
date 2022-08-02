@@ -1,13 +1,13 @@
 https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html	12
 https://twitter.com/racheltobac/status/1554444909993607170	10
+https://www.mdsec.co.uk/2022/08/fourteen-ways-to-read-the-pid-for-the-local-security-authority-subsystem-service-lsass/	10
 https://twitter.com/RachelTobac/status/1554444909993607170	9
 https://twitter.com/Sh0ckFR/status/1554021948967079936	9
 https://twitter.com/samczsun/status/1554252024723546112	9
 https://www.vmware.com/security/advisories/VMSA-2022-0021.html	9
 https://thehackernews.com/2022/08/chinese-hackers-using-new-manjusaka.html	9
-https://www.mdsec.co.uk/2022/08/fourteen-ways-to-read-the-pid-for-the-local-security-authority-subsystem-service-lsass/	9
 http://cs.co/6014zNHBr	9
-https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-external-attack-surface-audit-tool/	8
+https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-external-attack-surface-audit-tool/	9
 https://twitter.com/tingtingliuTVBS/status/1554436870939242497	7
 https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html	7
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-08-01%20SocGholish%20IOCs	7
@@ -32,6 +32,7 @@ https://ifitssmartitsvulnerable.com	5
 https://0x1337.ninja/2022/07/30/cve-2022-35650-analysis/	5
 http://sans.org/u/1mdH	5
 https://twitter.com/disclosedh1/status/1554486030081970177	5
+https://twitter.com/BlueTeamCon/status/1554482164099698693	4
 https://www.bleepingcomputer.com/news/security/mobile-store-owner-hacked-t-mobile-employees-to-unlock-phones/	4
 https://www.washingtonpost.com/national-security/2022/08/01/zawahiri-al-qaeda-killed/	4
 https://threatfox.abuse.ch/export/	4
@@ -48,12 +49,12 @@ https://www.bleepingcomputer.com/news/security/semiconductor-manufacturer-semikr
 https://github.com/c3rb3ru5d3d53c/mwcfg	4
 https://twitter.com/jaydinbas/status/1553061506740273159	4
 https://twitter.com/redteamvillage_/status/1554119032202301442	4
+https://www.dcppodcast.com/all-episodes/episode-25	4
 https://www.nisc.go.jp/policy/group/general/sbd_sakutei.html	4
 https://twitter.com/JSyversen/status/1554260313444417540	4
 https://twitter.com/fatmanterra/status/1554258880380772352	4
 https://www.corelan-training.com/index.php/training-schedules/	4
 https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/	4
-https://twitter.com/BlueTeamCon/status/1554482164099698693	3
 https://twitter.com/H_Miser/status/1553693687548362754	3
 https://github.com/GossiTheDog/ThreatHunting/blob/master/AdvancedHuntingQueries/Defender-Abuse.ahq	3
 https://vmware.com/security/advisories/VMSA-2022-0021.html	3
@@ -68,8 +69,10 @@ https://github.com/sponsors/psiinon?frequency=one-time	3
 https://h.43z.one/ipconverter/	3
 https://www.cisa.gov/small-business	3
 https://twitter.com/web3isgreat/status/1554253174613106688	3
+https://twitter.com/secureaerospace/status/1554551784739323906	3
 https://www.helpnetsecurity.com/2022/08/02/data-exfiltration-via-bookmarks/	3
 https://github.com/eslam3kl/SQLiDetector	3
+https://www.semperis.com/blog/ad-vulnerability-cve-2022-26923/	3
 https://twitter.com/kusatta_www/status/1554084826650513408	3
 https://pastebin.com/Y5cpGe88	3
 https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-better-at-blocking-ransomware-on-windows-11/	3
@@ -77,7 +80,6 @@ https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-au
 https://twitter.com/HarriHursti/status/1554544997155966980	3
 https://gist.github.com/myrtus0x0/77d4c5980df5f181735873c2ed75e483	3
 https://phish.report/IOK/indicators/okta-5844ad4	3
-https://www.dcppodcast.com/all-episodes/episode-25	3
 https://web3isgoinggreat.com/?id=nomad-bridge-exploit	3
 https://intel471.com/blog/telegram-cybercrime-underground-forums	3
 https://andreaskogler.com/papers/halfdouble.pdf	3
