@@ -1,15 +1,15 @@
 https://www.sentinelone.com/labs/who-needs-macros-threat-actors-pivot-to-abusing-explorer-and-other-lolbins-via-windows-shortcuts/	21
 https://twitter.com/eric_capuano/status/1555407572622000128	11
+https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts	10
 https://github.com/flipperdevices/flipperzero-firmware/blob/dev/lib/subghz/protocols/princeton.c#L11	10
 https://www.inversecos.com/2022/08/detecting-linux-anti-forensics.html	9
-https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts	9
 https://posts.specterops.io/on-detection-tactical-to-functional-37ddcd75234b	8
+https://www.bleepingcomputer.com/news/security/hackers-try-to-extort-survey-firm-questionpro-after-alleged-data-theft/	8
 https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7	8
 https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/	8
 https://aka.ms/CISOWorkshop	7
 https://www.cisa.gov/uscert/ncas/alerts/aa22-216a	7
 https://www.adico.me/post/xss-in-gmail-s-amp4email	7
-https://www.bleepingcomputer.com/news/security/hackers-try-to-extort-survey-firm-questionpro-after-alleged-data-theft/	7
 https://github.com/FortyNorthSecurity/PersistAssist	7
 https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/	7
 https://www.bleepingcomputer.com/news/security/german-chambers-of-industry-and-commerce-hit-by-massive-cyberattack/	6
@@ -43,6 +43,7 @@ https://bazaar.abuse.ch/sample/4d3823da1dc741d7b575341842e7a23b2c4a28265c17b7503
 https://www.virustotal.com/gui/file/6ac45fc83cd9b9184d889369610a866844df0a70cb90739a4698dd81f29c5acb	4
 https://www.bleepingcomputer.com/news/security/critical-rce-vulnerability-impacts-29-models-of-draytek-routers/	4
 https://bit.ly/3Ju9wqq	4
+https://twitter.com/TonyaJoRiley/status/1555635639441301504	4
 https://asec.ahnlab.com/en/37483/	4
 https://jub0bs.com/posts/2022-08-04-scraping-the-bottom-of-the-cors-barrel-part1/	4
 https://www.theguardian.com/politics/2022/aug/05/facial-recognition-smartwatches-to-be-used-to-monitor-foreign-offenders-in-uk	4
@@ -52,6 +53,7 @@ https://www.virustotal.com/gui/file/a386039e7e7a1f39a353173ef61960458da4a2890471
 https://blog.virustotal.com/2022/08/deception-at-scale.html	4
 https://securityaffairs.co/wordpress/134033/hacking/tac-040-ljl-backdoor.html	4
 https://github.com/SigmaHQ/sigma-cli	4
+https://github.com/RomaissaAdjailia/Get-AppLockerEventlog	4
 https://dawnslab.jd.com/linux-5.19-rc2_pbuf_ring_0day/	4
 https://www.virustotal.com/gui/file/2a813e5435dab11b138f4cdf43e8458bace729d677d5befd0774025e5ca0646c	4
 https://thehackernews.com/2022/08/iranian-hackers-likely-behind.html	4
@@ -88,7 +90,7 @@ https://ctf.cloud-village.org	3
 https://github.com/SigmaHQ/sigma/blob/7fb8272f948cc0b528fe7bd36df36449f74b2266/rules/windows/process_access/proc_access_win_lsass_dump_comsvcs_dll.yml	3
 https://nns.ee/blog/2022/08/05/routeros-container-rce.html	3
 https://twitter.com/GossiTheDog/status/1555094285497810944	3
-https://github.com/RomaissaAdjailia/Get-AppLockerEventlog	3
+http://blog.cr.yp.to/20220805-nsa.html	3
 https://twitter.com/ronmknox/status/1555561621744934913	3
 https://twitter.com/hakluke/status/1554035230444363779	3
 https://www.wired.com/story/student-monitoring-software-privacy-in-schools/	3
@@ -99,6 +101,7 @@ https://youtu.be/9FrsVPzqfUE	3
 https://www.bleepingcomputer.com/news/security/thousands-of-hackers-flock-to-dark-utilities-c2-as-a-service/	3
 https://www.bleepingcomputer.com/news/security/hackers-are-actively-exploiting-password-stealing-flaw-in-zimbra/	3
 https://www.bleepingcomputer.com/news/security/dhs-warns-of-critical-flaws-in-emergency-alert-system-devices/	3
+https://github.com/rad9800/VehApiResolve	3
 https://twitter.com/campuscodi/status/1555179129091284992	3
 https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-3-radio-communications/	3
 https://blog.malwarebytes.com/threat-intelligence/2022/08/woody-rat-a-new-feature-rich-malware-spotted-in-the-wild/	3
