@@ -3,7 +3,7 @@ https://msrc-blog.microsoft.com/2022/08/08/microsoft-office-to-publish-symbols-s
 https://zeronetworks.com/blog/bluehound-community-driven-resilience/	14
 https://github.com/zeronetworks/BlueHound	14
 https://thedfirreport.com/2022/08/08/bumblebee-roasts-its-way-to-domain-admin/	13
-https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/	11
+https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/	12
 https://posts.specterops.io/on-detection-tactical-to-functional-45e41fef7af4	10
 https://github.com/rad9800/TamperingSyscalls	10
 https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf	9
@@ -14,6 +14,7 @@ https://n1ght-w0lf.github.io/tutorials/yara-for-config-extraction/	8
 https://thehackernews.com/2022/08/10-credential-stealing-python-libraries.html	8
 https://home.treasury.gov/news/press-releases/jy0916	7
 https://bazaar.abuse.ch/sample/b6322af0749e361f8eeb671e27617051c3f3bfdc4688aa305c250506ec04efef/	7
+http://www.vergiliusproject.com	7
 https://twitter.com/ankit_anubhav/status/1557031483755245568	7
 https://www.kali.org/blog/kali-linux-2022-3-release/	7
 https://gist.github.com/myrtus0x0/0f924e99d0c631a55ae289ff9e0628fe	7
@@ -22,7 +23,6 @@ https://tria.ge/220809-l8jgdsadg4/behavioral1	7
 https://www.virustotal.com/gui/file/89d6b9a0f7d4f30f5021a893925dfbea12051a0d3e5f5845fd1bc45b74eed830	7
 https://twitter.com/NinjaParanoid/status/1554498023455354880	7
 https://www.bleepingcomputer.com/news/security/7-eleven-stores-in-denmark-closed-due-to-a-cyberattack/	7
-http://www.vergiliusproject.com	6
 https://www.virustotal.com/gui/file/3ba9e82575262067725feda9cefac9a6a6350ead5037ae9d85c398a0ecf6c6eb/detection	6
 https://www.bleepingcomputer.com/news/security/cloudflare-employees-also-hit-by-hackers-behind-twilio-breach/	6
 https://bazaar.abuse.ch/sample/e192656ce9c73ac7bcb4cec136378c5843e128b76cd1c021aeec274edecbf869/	6
@@ -44,6 +44,7 @@ https://bazaar.abuse.ch/sample/a4fb8aaffe22c87b7db8a80974ec1182343dd29b90f7e7857
 https://www.wired.com/story/github-code-signing-sigstore/	5
 https://www.bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/	5
 https://bazaar.abuse.ch/sample/9429547d77e6808f190b0d7bdb2ad217c0c31e81670cbd71686e1f7b4b4d4ed7/	5
+https://github.com/VirusTotal/yara/releases/tag/v4.2.3	5
 https://aepicleak.com/	5
 https://securelist.com/andariel-deploys-dtrack-and-maui-ransomware/107063/	5
 https://twitter.com/ASFleischman/status/1556753305291919360	5
@@ -65,7 +66,7 @@ https://thehackernews.com/2022/08/us-sanctions-virtual-currency-mixer.html	4
 https://github.com/trickest/resolvers	4
 https://github.com/vletoux/pingcastle	4
 https://www.linkedin.com/jobs/view/3166076101/	4
-https://github.com/VirusTotal/yara/releases/tag/v4.2.3	4
+https://www.vice.com/en/article/n7zevd/this-is-the-data-facebook-gave-police-to-prosecute-a-teenager-for-abortion	4
 https://ctf.reconvillage.org/	4
 https://www.bleepingcomputer.com/news/security/email-marketing-firm-hacked-to-steal-crypto-focused-mailing-lists/	4
 https://twitter.com/POTUS/status/1557021200982986752	4
@@ -91,6 +92,7 @@ https://thehackernews.com/2022/08/new-orchard-botnet-uses-bitcoin.html	3
 https://www.antiphishing.jp/news/alert/meti_20220809.html	3
 https://bazaar.abuse.ch/browse/tag/Mekotio/	3
 https://ouryahoo.wd5.myworkdayjobs.com/careers/job/US---San-Francisco/Senior-Offensive-Security-Engineer_JR0020466	3
+https://www.sans.org/u/1mel	3
 https://securityintelligence.com/posts/abusing-source-code-management-systems	3
 https://www.washingtonpost.com/opinions/interactive/2022/irs-pipeline-tax-return-delays/	3
 https://pingcastle.com/PingCastleFiles/ad_hc_test.mysmartlogon.com.html	3
@@ -102,8 +104,9 @@ https://twitter.com/Sh1n0g1/status/1556892014494781441	3
 https://github.com/reprise99/Sentinel-Queries/tree/main/Azure%20AD%20Abuse%20Detection	3
 http://abuse.ch	3
 https://podcasts.apple.com/us/podcast/27-exclusive-north-koreas-monster-fake-out/id1225077306?i=1000575488828	3
+https://www.sans.org/u/1meb	3
 https://blog.google/technology/safety-security/meet-the-team-responsible-for-hacking-google/	3
-https://www.vice.com/en/article/n7zevd/this-is-the-data-facebook-gave-police-to-prosecute-a-teenager-for-abortion	3
+https://www.securityweek.com/black-hat-2022-ten-presentations-worth-your-time-and-attention	3
 https://www.malware-traffic-analysis.net/2022/08/08/index.html	3
 https://github.com/m4now4r/VN_daily_samples/tree/main/LokiBot/Customs%20shipping%20documents%20GA07-1110728%20BY%20SEA.xlsx_2022-08-09	3
 https://www.newyorker.com/magazine/2022/08/15/inside-the-war-between-trump-and-his-generals	3
@@ -115,9 +118,11 @@ https://twitter.com/SecBarbie/status/1556768406963109889	3
 https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808	3
 https://outflank.nl/blog/2018/08/14/html-smuggling-explained/	3
 https://www.bleepingcomputer.com/news/security/vmware-warns-of-public-exploit-for-critical-auth-bypass-vulnerability/	3
+https://www.securityweek.com/exploit-code-published-critical-vmware-security-flaw	3
 https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry	3
 https://twitter.com/kaitlancollins/status/1556817634603180035	3
 https://mgeeky.tech/payload-crumbs-in-custom-parts/	3
+https://www.helpnetsecurity.com/2022/08/09/twilio-phished-data-breach/	3
 https://github.com/MISP/MISP/releases/tag/v2.4.160	3
 https://www.fortinet.com/blog/threat-research/smokeloader-using-old-vulnerabilities	3
 https://www.youtube.com/watch?v=Qg1M3jUCPgw	3
