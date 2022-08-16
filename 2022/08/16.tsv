@@ -1,6 +1,6 @@
 https://www.wietzebeukema.nl/blog/save-the-environment-variables	16
+https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e	14
 https://www.microsoft.com/security/blog/2022/08/15/disrupting-seaborgiums-ongoing-phishing-operations/	11
-https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e	11
 https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident	9
 https://windows-internals.com/understanding-a-new-mitigation-module-tampering-protection/	9
 https://github.com/iilegacyyii/ExportDumper	8
@@ -14,6 +14,7 @@ https://share.vx-underground.org/cl0p-thameswater.txt	7
 https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742	7
 https://www.vice.com/en/article/y3pwqx/hackers-took-over-a-commercial-satellite-to-broadcast-hacker-movies	7
 https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a	6
+https://www.usenix.org/system/files/sec22-mantovani.pdf	6
 https://www.technologyreview.com/2022/08/16/1057894/hackers-linked-to-china-have-been-targeting-human-rights-groups-for-years/	6
 https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html	6
 https://www.vice.com/en/article/wxnj49/this-string-of-emojis-is-actually-malware	6
@@ -26,7 +27,6 @@ https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-35742	5
 https://www.bleepingcomputer.com/news/security/cs-go-trading-site-hacked-to-steal-6-million-worth-of-skins/	5
 https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank	5
 https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209	5
-https://www.usenix.org/system/files/sec22-mantovani.pdf	5
 https://mailchimp.com/august-2022-security-incident/	5
 https://pastebin.com/raw/9xuB52tt	5
 https://github.com/Flangvik/TeamFiltration	5
@@ -53,6 +53,7 @@ https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html	4
 https://www.securityweek.com/zoom-patches-serious-macos-app-vulnerabilities-disclosed-def-con	4
 https://github.com/trustedsec/ptf	4
 https://www.bleepingcomputer.com/forums/t/775810/icefire-ransomware-support-topic/	4
+http://HelpAmericaVote.gov	4
 https://systemweakness.com/evade-windows-defender-mimikatz-detection-by-patching-the-amsi-dll-4bd9b3964c03	4
 https://github.com/tyranid/blackhat-usa-2022-demos	4
 https://www.hackread.com/defcon-hacker-jaikbreaks-tractor-play-doom-game/	4
@@ -107,6 +108,7 @@ https://twitter.com/intigriti/status/1559459902745108482	3
 https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/	3
 https://www.youtube.com/playlist?list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ	3
 https://www.helpnetsecurity.com/2022/08/16/signal-twilio-breach/	3
+https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-targeted-almost-7-million-people/	3
 https://prod.support.services.microsoft.com/en-us/topic/microsoft-excel-security-enhancements-in-the-august-2022-update-kb5017166-6f0b9b6a-fb15-49a5-be27-6801f27cb8a2	3
 https://www.youtube.com/watch?v=WVup5tnURoM	3
 https://filesec.io/	3
@@ -116,7 +118,6 @@ https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html	3
 https://twitter.com/BylinesScotland/status/1559212977353547776	3
 https://twitter.com/HuntressLabs/status/1559528741918982146	3
 https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts	3
-http://HelpAmericaVote.gov	3
 https://www.theregister.com/2022/08/16/john_deere_doom/	3
 https://0xrick.github.io/	3
 https://twitter.com/guardiannews/status/1559323048968429568	3
