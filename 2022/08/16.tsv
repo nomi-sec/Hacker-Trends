@@ -3,6 +3,7 @@ https://www.microsoft.com/security/blog/2022/08/15/disrupting-seaborgiums-ongoin
 https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident	8
 https://bit.ly/3AjYIav	8
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-08-15%20NetSupport%20RAT%20IOCs	7
+https://share.vx-underground.org/cl0p-thameswater.txt	7
 https://www.vice.com/en/article/y3pwqx/hackers-took-over-a-commercial-satellite-to-broadcast-hacker-movies	7
 https://posts.specterops.io/on-detection-tactical-to-functional-5ff667af633b	7
 https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a	6
@@ -13,7 +14,6 @@ https://labs.bluefrostsecurity.de/blog.html/2022/08/16/windows-segment-heap-atta
 https://www.vice.com/en/article/wxnj49/this-string-of-emojis-is-actually-malware	6
 https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html	6
 https://www.washingtonpost.com/national-security/interactive/2022/ukraine-road-to-war/	6
-https://share.vx-underground.org/cl0p-thameswater.txt	6
 https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742	6
 https://claroty.com/team82/blog/evil-plc-attack-using-a-controller-as-predator-rather-than-prey	6
 https://twitter.com/signalapp/status/1559221383107854336	5
@@ -44,6 +44,7 @@ https://twitter.com/admford/status/1559341058919583744	4
 https://i5c.us/d28946	4
 https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html	4
 https://www.securityweek.com/zoom-patches-serious-macos-app-vulnerabilities-disclosed-def-con	4
+https://www.bleepingcomputer.com/news/security/new-mailchimp-breach-exposed-digitalocean-customer-email-addresses/	4
 https://www.bleepingcomputer.com/forums/t/775810/icefire-ransomware-support-topic/	4
 https://www.hackread.com/defcon-hacker-jaikbreaks-tractor-play-doom-game/	4
 https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-2.html	4
@@ -59,6 +60,7 @@ https://grugq.substack.com/p/august-16-2022	3
 https://www.trendmicro.com/en_us/research/22/h/irontiger-compromises-chat-app-Mimi-targets-windows-mac-linux-users.html	3
 https://blog.securitybreak.io/security-infographics-9c4d3bd891ef	3
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/russia-ukraine-shuckworm	3
+https://blog.electrovolt.io/posts/element-rce/	3
 https://www.axios.com/newsletters/axios-codebook-5343b0fb-02c1-4f63-ab40-66821645dafd.html	3
 https://github.com/last-byte/PersistenceSniper	3
 https://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/#Spoofing_Loads	3
@@ -67,6 +69,7 @@ https://twitter.com/owasp/status/1559274317208231936	3
 https://research.nccgroup.com/2021/07/15/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-1/	3
 https://zeronetworks.com/blog/bluehound-community-driven-resilience/	3
 https://msft.it/6018jVwFO	3
+https://www.reddit.com/r/programmerhumor/comments/wp4zs2	3
 https://github.com/XenoKovah/IntelTXE-PoC/blob/master/README.md	3
 https://www.theatlantic.com/magazine/archive/2022/09/afghanistan-evacuation-sisters-fall-of-kabul-taliban/670602/	3
 https://censys.io/cve-2022-31793-arris-routers-and-muhttpd/	3
@@ -81,9 +84,9 @@ https://research.nccgroup.com/2021/08/17/cve-2021-31956-exploiting-the-windows-k
 https://twitter.com/intigriti/status/1559459902745108482	3
 https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/	3
 https://www.youtube.com/playlist?list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ	3
-https://www.bleepingcomputer.com/news/security/new-mailchimp-breach-exposed-digitalocean-customer-email-addresses/	3
 https://prod.support.services.microsoft.com/en-us/topic/microsoft-excel-security-enhancements-in-the-august-2022-update-kb5017166-6f0b9b6a-fb15-49a5-be27-6801f27cb8a2	3
 https://www.youtube.com/watch?v=WVup5tnURoM	3
+https://filesec.io/	3
 https://github.com/trustedsec/ptf	3
 https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/	3
 https://twitter.com/mrsorokaa/status/1559445666463727616	3
@@ -97,6 +100,7 @@ https://twitter.com/guardiannews/status/1559323048968429568	3
 https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html	3
 https://github.com/tyranid/blackhat-usa-2022-demos	3
 https://www.canadaland.com/bell-executive-who-fired-lisa-laflamme-interfered-with-ctv-news-coverage-says-colleague/	3
+http://filesec.io	3
 https://hijacklibs.net/	3
 https://securelist.com/threat-in-your-browser-extensions/107181/	3
 https://twitter.com/matthewdfuller/status/1559254966006693889	3
