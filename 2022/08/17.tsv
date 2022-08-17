@@ -1,6 +1,8 @@
 https://www.cobaltstrike.com/blog/cobalt-strike-4-7-the-10th-anniversary-edition/	15
+https://techcrunch.com/2022/08/17/thetruthspy-spyware-lookup-tool/	13
 https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html	11
-https://techcrunch.com/2022/08/17/thetruthspy-spyware-lookup-tool/	11
+https://twitter.com/JGamblin/status/1560016175265972224	10
+https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts	10
 https://www.securityweek.com/google-patches-fifth-exploited-chrome-zero-day-2022	10
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e	10
 https://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/	9
@@ -15,6 +17,7 @@ https://thehackernews.com/2022/08/new-google-chrome-zero-day.html	6
 https://github.com/projectdiscovery/nuclei-templates/pull/5134/files	6
 https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html	5
 https://thehackernews.com/2022/08/cybercriminals-developing-bugdrop.html	5
+https://twitter.com/lorenzofb/status/1559987660839682050	5
 https://github.com/infobyte/cve-2022-27255	5
 https://www.willsroot.io/2022/08/reviving-exploits-against-cred-struct.html	5
 https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html	5
@@ -33,12 +36,10 @@ https://www.hackmageddon.com/2022/08/16/july-2022-cyber-attack-statistics/	4
 https://www.sans.org/u/1mpt	4
 https://twitter.com/ryanaraine/status/1559966513930518528	4
 https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank	4
-https://twitter.com/lorenzofb/status/1559987660839682050	4
 https://twitter.com/benjuang/status/1559597305434542080	4
 https://jub0bs.com/posts/2022-08-04-scraping-the-bottom-of-the-cors-barrel-part1/	4
 https://twitter.com/WeldPond/status/1559622824578486272	4
 https://tria.ge/220817-kpvjwagca8/behavioral1	4
-https://twitter.com/JGamblin/status/1560016175265972224	4
 https://twitter.com/halvarflake/status/1559913554119213059	4
 https://portswigger.net/research/browser-powered-desync-attacks#connection-locked	4
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-08-17%20SocGholish%20IOCs	4
@@ -51,6 +52,7 @@ https://blog.sucuri.net/2022/08/socgholish-5-years-of-massive-website-infections
 https://github.com/0xToxin/Malware-IOCs/blob/main/Agent%20Tesla/AgentTesla-%2017082022	4
 https://www.youtube.com/playlist?list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ	4
 https://www.youtube.com/watch?v=X-vgG5zAd9M	4
+https://i.blackhat.com/USA-22/Wednesday/US-22-Rubin-AAD-Joined-Machines-New-Lateral-Movement.pdf	4
 https://www.securityweek.com/apple-patches-new-macos-ios-zero-days	4
 https://twitter.com/gregdarwin/status/1559897343247503360	4
 https://www.theverge.com/23308394/usb-rubber-ducky-review-hack5-defcon-duckyscript	4
@@ -84,10 +86,12 @@ https://github.com/ANSSI-FR/DFIR4vSphere	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-08-17%20Remcos%20IOCs	3
 https://twitter.com/wimremes/status/1552952327207878656	3
 https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app	3
+https://securityaffairs.co/wordpress/134491/malware/north-korea-mac-malware-m1.html	3
 https://rusi.org/explore-our-research/publications/commentary/ransomware-now-threatens-global-south	3
 http://YSoSerial.Net	3
 https://twitter.com/ESETresearch/status/1559553324998955010	3
 https://github.com/pwntester/ysoserial.net/actions	3
+https://labs.bluefrostsecurity.de/blog.html/2022/08/16/windows-segment-heap-attacking-the-vs-allocator/	3
 https://www.vice.com/en/article/wxnj49/this-string-of-emojis-is-actually-malware	3
 https://english.ncsc.nl/latest/weblog/weblog/2022/how-the-cloud-act-works-in-data-storage-in-europe	3
 https://www.maltego.com/blog/identify-and-understand-malware-with-maltego-and-urlhaus-by-abuse-ch/	3
@@ -98,12 +102,11 @@ https://zeifan.my/siemens_jt2go_oob/	3
 https://twitter.com/makesmysoulhapy/status/1559851068015517696	3
 https://www.helpnetsecurity.com/2022/08/17/incident-response-cloud/	3
 https://twitter.com/iacr_news/status/1559709628023414786	3
-https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts	3
+https://www.blackhat.com/us-22/briefings/schedule/#new-memory-forensics-techniques-to-defeat-device-monitoring-malware-27403	3
 https://www.softbanktech.co.jp/news/topics/info/2022/017/	3
 https://twitter.com/BlueTeamCon/status/1559917985157877760	3
 https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-ocr-tool-will-let-you-copy-text-from-images/	3
 https://nakedsecurity.sophos.com/2022/08/17/chrome-browser-gets-11-security-fixes-with-1-zero-day-update-now/	3
-https://i.blackhat.com/USA-22/Wednesday/US-22-Rubin-AAD-Joined-Machines-New-Lateral-Movement.pdf	3
 https://cert.gov.ua/article/1229152	3
 https://www.eventbrite.com/e/the-evolution-of-network-scanning-with-hd-moore-and-gordon-lyon-tickets-403570037847	3
 https://www.blueteamsacademy.com/mitre-pre/	3
@@ -113,3 +116,4 @@ https://hijacklibs.net/	3
 https://twitter.com/_RastaMouse/status/1559911178251517953	3
 https://posts.specterops.io/on-detection-tactical-to-functional-5ff667af633b	3
 http://defcon.org	3
+https://twitter.com/Volexity/status/1554815253908787201	3
