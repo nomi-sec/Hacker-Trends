@@ -1,7 +1,8 @@
-https://twitter.com/JGamblin/status/1560016175265972224	33
+https://twitter.com/JGamblin/status/1560016175265972224	34
 https://github.com/target/strelka-ui	10
 https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html	9
 https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts	9
+https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	9
 https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii	9
 https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release	8
 https://rez0.blog/hacking/cybersecurity/2022/08/18/unpredictable-idors.html	8
@@ -11,10 +12,10 @@ https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_	8
 https://blog.bushidotoken.net/2022/08/analysis-of-emerging-darth-maul-ecrime.html	7
 https://github.com/ConsciousHacker/WFH	7
 https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel	7
-https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	7
 https://github.com/Neo23x0/sysmon-config	7
 https://twitter.com/visegrad24/status/1560015797367488517	6
 https://saaramar.github.io/ipc_kmsg_vuln_blogpost/	6
+https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1	6
 https://www.thedailystar.net/toggle/news/hackers-launch-targeted-malware-campaign-the-guise-bangladeshi-critical-service-websites-2046413	6
 https://threatpost.com/apt-lazarus-macos-malware/180426/	6
 https://blog.group-ib.com/apt41-world-tour-2021	6
@@ -32,7 +33,6 @@ https://portswigger.net/research/browser-powered-desync-attacks	5
 https://support.apple.com/en-us/HT201222	5
 https://research.checkpoint.com/2022/researching-xiaomis-tee/	5
 https://www.sans.org/u/1m54	5
-https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1	5
 https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/	5
 https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html	5
 https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf	5
@@ -41,6 +41,7 @@ https://gist.github.com/myrtus0x0/2faa5d7211b87328ffd878e6531e6b24	5
 https://docs.microsoft.com/en-us/microsoft-365/admin/misc/password-policy-recommendations	4
 https://twitter.com/ARosenmund/status/1560080049180753920	4
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392	4
+https://www.sans.org/u/1mpt	4
 https://twitter.com/zeropointsecltd/status/1560185480699957248	4
 https://twitter.com/_mattata/status/1560097304954241024	4
 http://WScript.Shell	4
@@ -85,6 +86,7 @@ https://www.reuters.com/world/europe/estonia-says-it-repelled-major-cyber-attack
 https://www.joesandbox.com/analysis/686317/0/html	3
 https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-netherlands-us	3
 https://www.helpnetsecurity.com/2022/08/18/government-digital-transformation/	3
+https://www.bleepingcomputer.com/news/security/janet-jacksons-music-video-is-now-a-vulnerability-for-crashing-hard-disks/	3
 https://www.virustotal.com/gui/file/6b5f70369a894fe033b349546cfe3cdf41e9fe5a247cf5d7a243de7163e9cea6	3
 https://www.bleepingcomputer.com/news/security/winnti-hackers-splits-cobalt-strike-into-154-pieces-to-evade-detection/	3
 https://twitter.com/AustinSturm/status/1527391283265687562	3
@@ -119,4 +121,5 @@ https://www.cyberscoop.com/military-rotation-norms-challenge-cyber-command/	3
 https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/	3
 https://bruteratel.com/release/2022/08/18/Release-Scandinavian-Defense/	3
 https://www.praetorian.com/blog/red-team-local-privilege-escalation-writable-system-path-privilege-escalation-part-1/	3
+https://www.bleepingcomputer.com/news/security/winnti-hackers-split-cobalt-strike-into-154-pieces-to-evade-detection/	3
 https://therecord.media/cyber-command-deployed-hunt-forward-defenders-to-croatia-to-help-secure-systems/	3
