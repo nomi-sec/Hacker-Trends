@@ -11,6 +11,7 @@ https://blog.bushidotoken.net/2022/08/analysis-of-emerging-darth-maul-ecrime.htm
 https://github.com/ConsciousHacker/WFH	7
 https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel	7
 https://github.com/Neo23x0/sysmon-config	7
+https://saaramar.github.io/ipc_kmsg_vuln_blogpost/	6
 https://www.thedailystar.net/toggle/news/hackers-launch-targeted-malware-campaign-the-guise-bangladeshi-critical-service-websites-2046413	6
 https://blog.group-ib.com/apt41-world-tour-2021	6
 https://www.cobaltstrike.com/blog/cobalt-strike-4-7-the-10th-anniversary-edition/	6
@@ -26,9 +27,9 @@ https://github.com/pr0xylife/IcedID/blob/main/icedID_18.08.2022.txt	6
 https://portswigger.net/research/browser-powered-desync-attacks	5
 https://support.apple.com/en-us/HT201222	5
 https://research.checkpoint.com/2022/researching-xiaomis-tee/	5
-https://saaramar.github.io/ipc_kmsg_vuln_blogpost/	5
 https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1	5
 https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/	5
+https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html	5
 https://threatpost.com/apt-lazarus-macos-malware/180426/	5
 https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf	5
 https://twitter.com/c_APT_ure/status/1560248952414502912	5
@@ -37,6 +38,7 @@ https://twitter.com/ARosenmund/status/1560080049180753920	4
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392	4
 https://twitter.com/zeropointsecltd/status/1560185480699957248	4
 https://twitter.com/_mattata/status/1560097304954241024	4
+http://WScript.Shell	4
 https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit#gid=1662223764	4
 https://www.secureworks.com/research/darktortilla-malware-analysis	4
 https://www.bleepingcomputer.com/news/security/malware-devs-already-bypassed-android-13s-new-security-feature/	4
@@ -46,7 +48,6 @@ https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html	4
 https://www.scip.ch/en/?labs.20220217	4
 https://twitter.com/austinsturm/status/1527391283265687562	4
 https://i.blackhat.com/USA-22/Wednesday/US-22-Wu-Devils-Are-in-the-File.pdf	4
-https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html	4
 https://www.cybercom.mil/Media/News/Article/3131961/partnership-in-action-croatian-us-cyber-defenders-hunting-for-malicious-actors/	4
 https://www.courtlistener.com/docket/64866230/1/hadnagy-v-moss/	4
 https://sites.google.com/covered6.com/osint-ctf/	4
@@ -68,7 +69,6 @@ https://twitter.com/ChrisO_wiki/status/1560022545356791810	3
 https://youtu.be/ViWLMfSwGVA	3
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/overview-of-the-cyber-weapons-used-in-the-ukraine-russia-war/	3
 https://github.com/dozernz/bugstropics	3
-http://WScript.Shell	3
 https://www.reuters.com/world/europe/estonia-says-it-repelled-major-cyber-attack-after-removing-soviet-monuments-2022-08-18/	3
 https://vector-park.jp/contents/images/attention/park_credit_20220818.pdf	3
 https://www.joesandbox.com/analysis/686317/0/html	3
@@ -102,8 +102,10 @@ https://twitter.com/alvierid/status/1560240348848443394	3
 https://twitter.com/edwardgluce/status/1557984573354565633	3
 https://twitter.com/Fox0x01/status/1560034672356237330	3
 https://academy.tcm-sec.com/p/linux-101	3
+https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	3
 https://bruteratel.com/release/2022/08/18/Release-Scandinavian-Defense/	3
 https://twitter.com/autobahn/status/1560049297370013702	3
+https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/	3
 https://www.praetorian.com/blog/red-team-local-privilege-escalation-writable-system-path-privilege-escalation-part-1/	3
 https://twitter.com/menscher/status/1560296840100098048	3
 https://therecord.media/cyber-command-deployed-hunt-forward-defenders-to-croatia-to-help-secure-systems/	3
