@@ -1,8 +1,8 @@
 https://twitter.com/JGamblin/status/1560016175265972224	34
+https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	11
 https://github.com/target/strelka-ui	10
 https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html	9
 https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts	9
-https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	9
 https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii	9
 https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release	8
 https://rez0.blog/hacking/cybersecurity/2022/08/18/unpredictable-idors.html	8
@@ -14,6 +14,7 @@ https://github.com/ConsciousHacker/WFH	7
 https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel	7
 https://github.com/Neo23x0/sysmon-config	7
 https://twitter.com/visegrad24/status/1560015797367488517	6
+https://portswigger.net/research/browser-powered-desync-attacks	6
 https://saaramar.github.io/ipc_kmsg_vuln_blogpost/	6
 https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1	6
 https://www.thedailystar.net/toggle/news/hackers-launch-targeted-malware-campaign-the-guise-bangladeshi-critical-service-websites-2046413	6
@@ -29,15 +30,16 @@ https://thehackernews.com/2022/08/apple-releases-security-updates-to.html	6
 https://twitter.com/autobahn/status/1560049297370013702	6
 https://bazaar.abuse.ch/sample/01c14f491a773e6a8c6223997318631d8105533a282e6380d94706df5d620d7b/	6
 https://github.com/pr0xylife/IcedID/blob/main/icedID_18.08.2022.txt	6
-https://portswigger.net/research/browser-powered-desync-attacks	5
 https://support.apple.com/en-us/HT201222	5
 https://research.checkpoint.com/2022/researching-xiaomis-tee/	5
 https://www.sans.org/u/1m54	5
+http://amazon.com	5
 https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/	5
 https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html	5
 https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf	5
 https://twitter.com/c_APT_ure/status/1560248952414502912	5
 https://gist.github.com/myrtus0x0/2faa5d7211b87328ffd878e6531e6b24	5
+https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf	5
 https://docs.microsoft.com/en-us/microsoft-365/admin/misc/password-policy-recommendations	4
 https://twitter.com/ARosenmund/status/1560080049180753920	4
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392	4
@@ -50,7 +52,6 @@ https://www.secureworks.com/research/darktortilla-malware-analysis	4
 https://vector-park.jp/contents/images/attention/park_credit_20220818.pdf	4
 https://www.bleepingcomputer.com/news/security/malware-devs-already-bypassed-android-13s-new-security-feature/	4
 https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html	4
-http://amazon.com	4
 https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994	4
 https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation	4
 http://KrebsOnSecurity.com	4
@@ -64,7 +65,6 @@ https://sites.google.com/covered6.com/osint-ctf/	4
 https://www.congress.gov/bill/117th-congress/house-bill/7900/text	4
 https://www.courtlistener.com/docket/64866230/hadnagy-v-moss/	4
 https://www.errno.fr/JenkinsTokens.html	4
-https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf	4
 https://twitter.com/CyberNe79425560/status/1560184955308838912	4
 https://ift.tt/vnwiukq	4
 https://i.blackhat.com/USA-22/Wednesday/US-22-Rubin-AAD-Joined-Machines-New-Lateral-Movement.pdf	4
@@ -98,10 +98,12 @@ http://cs.co/6013zCmFT	3
 https://blueteamcon.com/2022/villages/	3
 https://www.theregister.com/2022/08/18/janet_jackson_video_crashes_laptops/	3
 https://forms.gle/QpJ1L9ihn6XUAp3X6	3
+https://twitter.com/ESETresearch/status/1559553324998955010	3
 https://twitter.com/rez0__/status/1560272803546673152	3
 https://twitter.com/TalBeerySec/status/1559470438748758016	3
 https://www.praetorian.com/blog/red-team-privilege-escalation-rbcd-based-privilege-escalation-part-2/	3
 https://twitter.com/CVEnew/status/1559989757744189442	3
+https://www.vice.com/en/article/dy73n7/ehallpass-1000-thousand-schools-monitor-bathroom	3
 https://teldat.com/enterprise-sd-wan-products/en/sd-wan-security-cloud-solutions-malware-firewall-ngfw-swg-nta/	3
 https://twitter.com/corintxt/status/1560087014447501312	3
 https://grapheneos.org/install/web	3
