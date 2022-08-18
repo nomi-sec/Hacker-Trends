@@ -6,11 +6,12 @@ https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii	9
 https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release	8
 https://rez0.blog/hacking/cybersecurity/2022/08/18/unpredictable-idors.html	8
 https://twitter.com/AlyssaM_InfoSec/status/1560035887421046800	8
+https://posts.specterops.io/on-detection-tactical-to-functional-fef1e09d3174	8
 https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_	8
 https://blog.bushidotoken.net/2022/08/analysis-of-emerging-darth-maul-ecrime.html	7
 https://github.com/ConsciousHacker/WFH	7
 https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel	7
-https://posts.specterops.io/on-detection-tactical-to-functional-fef1e09d3174	7
+https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	7
 https://github.com/Neo23x0/sysmon-config	7
 https://twitter.com/visegrad24/status/1560015797367488517	6
 https://saaramar.github.io/ipc_kmsg_vuln_blogpost/	6
@@ -24,6 +25,7 @@ https://twitter.com/alyssam_infosec/status/1560035887421046800	6
 https://twitter.com/steved3/status/1560025494594224133	6
 https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/	6
 https://thehackernews.com/2022/08/apple-releases-security-updates-to.html	6
+https://twitter.com/autobahn/status/1560049297370013702	6
 https://bazaar.abuse.ch/sample/01c14f491a773e6a8c6223997318631d8105533a282e6380d94706df5d620d7b/	6
 https://github.com/pr0xylife/IcedID/blob/main/icedID_18.08.2022.txt	6
 https://portswigger.net/research/browser-powered-desync-attacks	5
@@ -35,8 +37,7 @@ https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back
 https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html	5
 https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf	5
 https://twitter.com/c_APT_ure/status/1560248952414502912	5
-https://malwarebytes.com/blog/threat-intelligence/2022/08/jssloader-the-shellcode-edition	5
-https://twitter.com/autobahn/status/1560049297370013702	5
+https://gist.github.com/myrtus0x0/2faa5d7211b87328ffd878e6531e6b24	5
 https://docs.microsoft.com/en-us/microsoft-365/admin/misc/password-policy-recommendations	4
 https://twitter.com/ARosenmund/status/1560080049180753920	4
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392	4
@@ -47,7 +48,9 @@ https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajn
 https://www.secureworks.com/research/darktortilla-malware-analysis	4
 https://vector-park.jp/contents/images/attention/park_credit_20220818.pdf	4
 https://www.bleepingcomputer.com/news/security/malware-devs-already-bypassed-android-13s-new-security-feature/	4
+https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html	4
 http://amazon.com	4
+https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994	4
 https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation	4
 http://KrebsOnSecurity.com	4
 https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html	4
@@ -60,11 +63,11 @@ https://sites.google.com/covered6.com/osint-ctf/	4
 https://www.congress.gov/bill/117th-congress/house-bill/7900/text	4
 https://www.courtlistener.com/docket/64866230/hadnagy-v-moss/	4
 https://www.errno.fr/JenkinsTokens.html	4
-https://gist.github.com/myrtus0x0/2faa5d7211b87328ffd878e6531e6b24	4
 https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf	4
 https://twitter.com/CyberNe79425560/status/1560184955308838912	4
 https://ift.tt/vnwiukq	4
 https://i.blackhat.com/USA-22/Wednesday/US-22-Rubin-AAD-Joined-Machines-New-Lateral-Movement.pdf	4
+https://academy.tcm-sec.com/p/linux-101	4
 https://twitter.com/brendancarrfcc/status/1559896054514028546	4
 https://twitter.com/binarly_io/status/1559963100983353346	4
 https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/	4
@@ -82,8 +85,6 @@ https://www.reuters.com/world/europe/estonia-says-it-repelled-major-cyber-attack
 https://www.joesandbox.com/analysis/686317/0/html	3
 https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-netherlands-us	3
 https://www.helpnetsecurity.com/2022/08/18/government-digital-transformation/	3
-https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html	3
-https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994	3
 https://www.virustotal.com/gui/file/6b5f70369a894fe033b349546cfe3cdf41e9fe5a247cf5d7a243de7163e9cea6	3
 https://www.bleepingcomputer.com/news/security/winnti-hackers-splits-cobalt-strike-into-154-pieces-to-evade-detection/	3
 https://twitter.com/AustinSturm/status/1527391283265687562	3
@@ -113,7 +114,8 @@ https://twitter.com/pwneip/status/1560074409028620289	3
 https://twitter.com/alvierid/status/1560240348848443394	3
 https://twitter.com/edwardgluce/status/1557984573354565633	3
 https://twitter.com/Fox0x01/status/1560034672356237330	3
-https://academy.tcm-sec.com/p/linux-101	3
+https://www.metacareers.com/jobs/737047314258160/	3
+https://www.cyberscoop.com/military-rotation-norms-challenge-cyber-command/	3
 https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/	3
 https://bruteratel.com/release/2022/08/18/Release-Scandinavian-Defense/	3
 https://www.praetorian.com/blog/red-team-local-privilege-escalation-writable-system-path-privilege-escalation-part-1/	3
