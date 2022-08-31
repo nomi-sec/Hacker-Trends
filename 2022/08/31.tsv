@@ -8,19 +8,19 @@ https://twitter.com/SemperisTech/status/1564744534508060674	8
 https://blogs.jpcert.or.jp/ja/2022/08/phishurl-list.html	8
 https://www.mandiant.com/resources/announcing-ninth-flareon-challenge	8
 https://www.bleepingcomputer.com/news/security/hackers-hide-malware-in-james-webb-telescope-images/	8
+https://github.com/p0dalirius/MSSQL-Analysis-Coerce	8
 https://posts.specterops.io/automating-azure-abuse-research-part-2-3e5bbe7a20c0	8
 https://www.praetorian.com/blog/ntlmv1-vs-ntlmv2/	7
+https://github.com/dr4k0nia/Origami	7
 https://twitter.com/dangoodin001/status/1565009426376888320	7
 https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/	7
 https://gist.github.com/myrtus0x0/c025d1e7feacc403cbb6923dd43b86a5	7
-https://github.com/p0dalirius/MSSQL-Analysis-Coerce	7
 https://twitter.com/kyledcheney/status/1564817161528692737	6
 https://github.com/pr0xylife/IcedID/blob/main/icedID_31.08.2022.txt	6
 https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html	6
 https://security.googleblog.com/2023/08/Announcing-Googles-Open-Source-Software-Vulnerability-Rewards-Program%20.html	6
 https://twitter.com/gossithedog/status/1564644686828130305	6
 https://blog.badsectorlabs.com/last-week-in-security-lwis-2022-08-30.html	6
-https://github.com/dr4k0nia/Origami	6
 https://thehackernews.com/2022/08/chinese-hackers-used-scanbox-framework.html	6
 https://dojo.pwn.college/cse466/challenges/asm	6
 https://github.com/olafhartong/MDE-AuditCheck	6
@@ -46,6 +46,7 @@ https://labs.nettitude.com/blog/network-relaying-abuse-windows-domain/	4
 https://blog.solidityscan.com	4
 https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/	4
 https://bazaar.abuse.ch/sample/f8021011ef39af216a5901f153ca53749a8c1c45b7e507a53d86329fd61bac32/	4
+https://twitter.com/rapid7/status/1565044286231650305	4
 https://i5c.us/d29002	4
 https://bit.ly/3e7KLF1	4
 https://bazaar.abuse.ch/sample/c8e23948a553cc3d7bed2a44a54ac54a5ae85800ce720826b6c224ba53ceb18e/	4
@@ -82,7 +83,6 @@ https://twitter.com/OptifiLabs/status/1564367455220219904	3
 https://blog.solidityscan.com/integer-overflow-and-underflow-in-smart-contracts-9598032b5a99	3
 https://breakdev.org/hacked-discord-bookmarklet-attacks/	3
 https://twitter.com/_mg_/status/1565003970535247872	3
-https://twitter.com/rapid7/status/1565044286231650305	3
 https://twitter.com/i/spaces/1YqxoAezRRZGv	3
 https://web.archive.org/web/20220202030639/https://brutelogic.com.br/gym.php?p05=%3CSvg+OnLoad=import(%27//X55.is%27)%3E#alert(document.domain)//	3
 https://twitter.com/LunaSecIO/status/1564859354729562113	3
@@ -107,6 +107,7 @@ https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/	3
 https://www.bleepingcomputer.com/news/security/russian-streaming-platform-confirms-data-breach-affecting-75m-users/	3
 https://www.vice.com/en/article/4axaeq/ransomware-gang-accessed-water-suppliers-control-system	3
 https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/	3
+http://www.stopransomware.gov	3
 https://www.vice.com/en/article/wxnxmb/cloudflare-wont-cut-off-kiwi-farms-stalking-forum	3
 https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/	3
 https://github.com/post-cyberlabs/Offensive_tools/tree/main/PostDump	3
