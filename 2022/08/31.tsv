@@ -1,12 +1,13 @@
 https://twitter.com/cloudflare/status/1564964203542315010	15
 https://drive.google.com/drive/mobile/folders/1KHx2rKUEdb53flGUN0mFHRdSdB5PUT4B?fbclid=IwAR1C2Fk3XDPU-ky-4B57ZmKtEKgjB6Yg-9m2c6MTxyJd779yPV7MCCHCvWo&fs=e&s=c	14
+https://msft.it/6015jYUfD	10
 https://research.nccgroup.com/2022/08/30/ncc-con-europe-2022-pwn2own-austin-presentations/	10
-https://msft.it/6015jYUfD	9
 https://twitter.com/SemperisTech/status/1564744534508060674	8
 https://github.com/ps1337/reinschauer	8
 https://www.bleepingcomputer.com/news/security/hackers-hide-malware-in-james-webb-telescope-images/	8
 https://blogs.jpcert.or.jp/ja/2022/08/phishurl-list.html	7
 https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/	7
+https://gist.github.com/myrtus0x0/c025d1e7feacc403cbb6923dd43b86a5	7
 https://twitter.com/Cloudflare/status/1564964203542315010	7
 https://twitter.com/kyledcheney/status/1564817161528692737	6
 https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html	6
@@ -16,14 +17,16 @@ https://www.praetorian.com/blog/ntlmv1-vs-ntlmv2/	6
 https://github.com/dr4k0nia/Origami	6
 https://thehackernews.com/2022/08/chinese-hackers-used-scanbox-framework.html	6
 https://dojo.pwn.college/cse466/challenges/asm	6
-https://gist.github.com/myrtus0x0/c025d1e7feacc403cbb6923dd43b86a5	6
 https://www.vice.com/en/article/akek8e/walmart-30tb-ssd-hard-drive-scam-sd-cards	6
 https://thehackernews.com/2022/08/hackers-hide-malware-in-stunning-images.html	6
 https://posts.specterops.io/automating-azure-abuse-research-part-2-3e5bbe7a20c0	6
+https://github.com/pr0xylife/IcedID/blob/main/icedID_31.08.2022.txt	5
 https://twitter.com/HaoZhixiang/status/1564544325987356672	5
+https://twitter.com/gossithedog/status/1564644686828130305	5
 https://twitter.com/dangoodin001/status/1565009426376888320	5
 https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/	5
 https://github.com/olafhartong/MDE-AuditCheck	5
+https://bazaar.abuse.ch/sample/e785dc7389084a775373d02a861bab1e75582570363cd6773ef2b986a0a1857a/	5
 https://twitter.com/ekoparty/status/1564719004421349376	5
 https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/	5
 https://www.proofpoint.com/us/blog/threat-insight/chasing-currents-espionage-south-china-sea	5
@@ -36,7 +39,7 @@ https://twitter.com/scottaniol/status/1564614207026389007	4
 https://twitter.com/jschauma/status/1564771742895296512	4
 https://www.wired.com/story/russia-ukraine-cyberwar-cyberinsurance/	4
 https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems/	4
-https://twitter.com/gossithedog/status/1564644686828130305	4
+https://labs.nettitude.com/blog/network-relaying-abuse-windows-domain/	4
 https://blog.solidityscan.com	4
 https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/	4
 https://bazaar.abuse.ch/sample/f8021011ef39af216a5901f153ca53749a8c1c45b7e507a53d86329fd61bac32/	4
@@ -46,6 +49,7 @@ https://secret.club/2022/08/29/bootkitting-windows-sandbox.html	4
 https://www.virustotal.com/gui/file/eb0fbbd1d7528d5e26f53f6c909d4360e5dd660e1aadec1d9b193764232e1419	4
 https://sans.org/u/1lm4	4
 https://therecord.media/an-interview-with-initial-access-broker-wazawaka-there-is-no-such-money-anywhere-as-there-is-in-ransomware/	4
+https://www.mandiant.com/resources/announcing-ninth-flareon-challenge	4
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history	4
 https://synzack.github.io/Blinding-EDR-On-Windows/#patching-the-edr-process-notify-callback	4
 https://www.malwarebytes.com/blog/news/2022/08/chromium-browsers-can-write-to-the-system-clipboard	4
@@ -58,10 +62,10 @@ https://is.gd/bDWdc0	3
 https://twitter.com/vxunderground/status/1564195531353726977	3
 https://twitter.com/PyroTek3/status/1517145703935451138	3
 https://twitter.com/artaggi/status/1564964599086174211	3
+https://tldrsec.com/blog/appsec-cali-2019/	3
 https://arstechnica.com/information-technology/2022/08/newfangled-edr-malware-detection-generates-billions-but-is-easy-to-bypass/	3
 https://nakedsecurity.sophos.com/2022/08/29/lastpass-source-code-breach-do-we-still-recommend-password-managers/	3
 https://www.youtube.com/watch?v=bcnV1dbfKcE	3
-https://labs.nettitude.com/blog/network-relaying-abuse-windows-domain/	3
 https://twitter.com/OptifiLabs/status/1564367455220219904	3
 https://breakdev.org/hacked-discord-bookmarklet-attacks/	3
 https://twitter.com/i/spaces/1YqxoAezRRZGv	3
@@ -79,7 +83,6 @@ https://bazaar.abuse.ch/sample/683fb58ed87ad8bafeac143c69fa5b09aa40cf02b3fb7c111
 https://backdoorsandbreaches.com/	3
 https://bazaar.abuse.ch/sample/274f50756eae9c356cd50c5d9101e4fbff8cad0cbb748500d1dac9bc845ad43d/	3
 https://twitter.com/AMythicWitch/status/1564264861357449221	3
-https://www.mandiant.com/resources/announcing-ninth-flareon-challenge	3
 https://web3isgoinggreat.com/?id=russian-authorities-arrest-journalist-who-donated-16-to-dissident-group-via-crypto	3
 https://bazaar.abuse.ch/sample/938b0b8074db906112a6567f4f0a22229ca344e338eb23586b2f560bff1f770f/	3
 https://www.bleepingcomputer.com/news/security/russian-streaming-platform-confirms-data-breach-affecting-75m-users/	3
@@ -94,6 +97,7 @@ https://www.hackread.com/nitrokod-crypto-miner-microsoft-google-translate/	3
 https://www.youtube.com/watch?v=rk8Qp0D8HkI	3
 https://twitter.com/morganbroadcast/status/1564178676874448896	3
 https://www.bleepingcomputer.com/news/security/microsoft-found-tiktok-android-flaw-that-let-hackers-hijack-accounts/	3
+https://www3.nhk.or.jp/news/html/20220831/k10013796451000.html	3
 https://twitter.com/thezdi/status/1564269282627837952	3
 https://github.com/microsoft/SymCrypt-OpenSSL	3
 https://www.cyberscoop.com/cyberscoop50/vote/	3
