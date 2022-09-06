@@ -3,6 +3,7 @@ https://www.welivesecurity.com/2022/09/06/worok-big-picture/	12
 https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html	10
 https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf	9
 https://github.com/daem0nc0re/TangledWinExec/commit/f898bf157ad993f900985d78b8d8fdc22df0163c	9
+https://www.cisa.gov/uscert/ncas/alerts/aa22-249a	8
 https://www.bleepingcomputer.com/news/security/second-largest-us-school-district-lausd-hit-by-ransomware/	8
 https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/	7
 https://portswigger.net/research/how-to-turn-security-research-into-profit	7
@@ -20,7 +21,6 @@ https://sans.org/u/1mJo	5
 https://bazaar.abuse.ch/sample/b91c8f5adb81a262b2b95e2bf85fd7170e100885600af1f9bde322f10ac0e800/	5
 https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution	5
 https://www.prodaft.com/resource/detail/ta505-ta505-groups-tesla-gun-depth-analysis	5
-https://www.cisa.gov/uscert/ncas/alerts/aa22-249a	5
 https://github.com/hasherezade/pe-bear-releases/releases/	5
 https://loyaltylobby.com/2022/09/06/ihgs-total-system-outage-continues-for-the-second-day/	5
 https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html	5
@@ -28,6 +28,7 @@ https://github.com/hackerhouse-opensource/MsSettingsDelegateExecute	5
 https://twitter.com/LASchools/status/1567019506299727872	5
 https://www.databreachtoday.com/cybercriminal-service-evilproxy-seeks-to-hijack-accounts-a-19993	5
 https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux	5
+https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html	5
 https://tria.ge/220906-sqkeasehh4	5
 https://blog.thinkst.com/2022/09/sensitive-command-token-so-much-offense.html	5
 https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html	5
@@ -50,7 +51,7 @@ https://www.bleepingcomputer.com/news/security/new-evilproxy-service-lets-all-ha
 https://twitter.com/Doggie777Moon/status/1567092160897449984	4
 https://thehackernews.com/2022/09/what-is-your-security-team-profile.html	4
 https://bazaar.abuse.ch/sample/2f395fb0f4f00c131d6755b8c8c223b5d5b263c2bd2a43f4fe0f079264a414ba/	4
-https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html	4
+https://www.bleepingcomputer.com/news/security/new-linux-malware-evades-detection-using-multi-stage-deployment/	4
 https://bazaar.abuse.ch/sample/feb498d81e295a04e354d87936f1f3f6c6537f15fc51e3d83bcbf4980c73a7c9/	4
 https://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/	4
 https://signal.org/blog/announcing-signal-president/	4
@@ -85,6 +86,7 @@ https://twitter.com/signalapp/status/1567109727867510784	3
 https://twitter.com/yarden_shafir/status/1567195153802166272	3
 https://www.helpnetsecurity.com/2022/09/06/consumers-concerned-fraud/	3
 https://twitter.com/USCERT_gov/status/1567201590137831425	3
+https://team-cymru.com/blog/2022/09/06/mythic-case-study-assessing-common-offensive-security-tools/	3
 https://darknetdiaries.com/episode/123	3
 https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk	3
 https://mr-koanti.github.io/shodan	3
@@ -94,7 +96,6 @@ https://i5c.us/d29014	3
 https://github.com/Necrosys/x86-JTAG-Information	3
 https://www.nytimes.com/2022/09/06/technology/joe-sullivan-uber-security-trial-ciso.html	3
 https://github.com/Sanakan8472/copy-dialog-lunar-lander	3
-https://www.bleepingcomputer.com/news/security/new-linux-malware-evades-detection-using-multi-stage-deployment/	3
 https://twitter.com/julianbarnes/status/1566965700308131846	3
 https://www.sandiegouniontribune.com/news/courts/story/2022-09-05/fat-leonard-fugitive	3
 https://bit.ly/3TKd7We	3
