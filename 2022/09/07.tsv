@@ -3,12 +3,13 @@ https://gist.github.com/awakecoding/5fda938a5fd2d29ebffb31eb023fe51c	11
 https://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/	10
 https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises	9
 https://blog.thinkst.com/2022/09/sensitive-command-token-so-much-offense.html	9
-https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux	7
+https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux	8
+https://www.washingtonpost.com/national-security/2022/09/06/trump-nuclear-documents/	7
 https://twitter.com/JasonMBrodsky/status/1567465232083165184	6
 https://www.cisa.gov/uscert/ncas/alerts/aa22-249a	6
 https://gist.github.com/myrtus0x0/26855fd256af1dedc728583512f138e2	6
+https://posts.specterops.io/get-your-socks-on-with-gtunnel-4a70a9b82b24	6
 https://disc.bklynlibrary.org/card/	6
-https://www.washingtonpost.com/national-security/2022/09/06/trump-nuclear-documents/	6
 https://twitter.com/maddiestone/status/1565102095824326656	6
 https://www.bleepingcomputer.com/news/security/new-linux-malware-evades-detection-using-multi-stage-deployment/	6
 https://portswigger.net/burp/documentation/desktop/http2	6
@@ -20,15 +21,17 @@ https://github.com/viniciuspereiras/CVE-2022-35405	5
 https://taggart-tech.com/quasar-electron/	5
 https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/	5
 https://bazaar.abuse.ch/sample/ee37c95d10c93066599d6de775cc3b91503feff1509d12257fa5c83e7875e0f1/	5
+https://www.reuters.com/world/albania-cuts-iran-ties-orders-diplomats-go-after-cyber-attack-pm-says-2022-09-07/	5
 https://blogs.jpcert.or.jp/en/2022/09/phishurl-list.html	5
 https://github.com/fin3ss3g0d/evilgophish	5
-https://posts.specterops.io/get-your-socks-on-with-gtunnel-4a70a9b82b24	5
 https://github.com/mgeeky/PackMyPayload	5
 http://www.shmoocon.org	5
 https://www.welivesecurity.com/2022/09/06/worok-big-picture/	5
 https://twitter.com/EHaeghebaert/status/1567527122838716416	4
+https://www.vice.com/en/article/qjk3wb/facebook-engineers-admit-they-dont-know-what-they-do-with-your-data	4
 https://cepa.org/event/russian-cyberwarfare/	4
 https://www.mandiant.com/resources/blog/likely-iranian-threat-actor-conducts-politically-motivated-disruptive-activity-against	4
+https://twitter.com/JasonMBrodsky/status/1567477301071192064	4
 https://github.com/RealityNet/Android-Forensics-References	4
 https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html	4
 https://github.com/thinkst/canarytokens	4
@@ -36,7 +39,6 @@ https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-se
 https://www.youtube.com/watch?v=j2AJDaFDRro	4
 https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html	4
 https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html	4
-https://www.reuters.com/world/albania-cuts-iran-ties-orders-diplomats-go-after-cyber-attack-pm-says-2022-09-07/	4
 https://da22le.github.io/zoho-manageengine-opmanager-%E4%B8%A4%E4%B8%AArce/	4
 https://y4er.com/posts/cve-2022-36923-manageengine-opmanager-getuserapikey-authentication-bypass/	4
 https://bit.ly/3CZQYgv	4
@@ -51,7 +53,6 @@ https://github.com/usbarmory/GoTEE/tree/development	3
 https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/	3
 https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html	3
 https://twitter.com/lisaforteuk/status/1567116486984040448	3
-https://www.vice.com/en/article/qjk3wb/facebook-engineers-admit-they-dont-know-what-they-do-with-your-data	3
 https://posts.specterops.io/learning-machine-learning-part-1-introduction-and-revoke-obfuscation-c73033184f0	3
 https://twitter.com/JohnHultquist/status/1567468286715088896	3
 https://blog.digital-forensics.it/2022/09/android-forensics-references-curated.html	3
@@ -61,7 +62,6 @@ https://www.bleepingcomputer.com/news/security/google-former-conti-cybercrime-ga
 https://tria.ge/220907-h97ntsbce4/behavioral5	3
 https://twitter.com/hacks4pancakes/status/1567206921240723466	3
 https://twitter.com/ericgeller/status/1567494230095925250	3
-https://twitter.com/JasonMBrodsky/status/1567477301071192064	3
 https://twitter.com/VickiTurk/status/1567140056393031682	3
 https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution	3
 https://docs.canarytokens.org/guide/sensitive-cmd-token.html	3
@@ -79,6 +79,7 @@ https://www.virustotal.com/gui/file/5524c462b6db9ad108ac207d8f1cbdaa67e84e576f4e
 https://www.pcmag.com/news/wtf-just-happened-why-your-org-needs-a-cybersecurity-incident-review-board	3
 https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html	3
 https://twitter.com/strandjs/status/1567592745987985417	3
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3148990/nsa-releases-future-quantum-resistant-qr-algorithm-requirements-for-national-se/	3
 https://www.woprsummit.org/0x01-event-info.html	3
 https://twitter.com/chrisgeidner/status/1567523876451614720	3
 https://www.gov.uk/government/news/uk-condemns-iran-for-reckless-cyber-attack-against-albania	3
@@ -91,6 +92,7 @@ https://www.bleepingcomputer.com/news/security/intercontinental-hotels-group-cyb
 https://www.youtube.com/watch?v=q2MkddLujog	3
 https://github.com/mdsecresearch/BurpSuiteSharpener	3
 https://securityandtechnology.org/blog/ist-builds-technical-expertise-with-addition-of-silas-cutler/	3
+https://blog.cyble.com/2022/09/07/bumblebee-returns-with-new-infection-technique/	3
 http://cs.co/6019M38rT	3
 https://twitter.com/razoessergio/status/1567465346361163776	3
 https://zoom.us/webinar/register/WN_Uw7nBVZNSP6bPxj7qXZpuA	3
