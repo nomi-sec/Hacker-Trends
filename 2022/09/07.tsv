@@ -1,4 +1,4 @@
-https://blog.google/threat-analysis-group/initial-access-broker-repurposing-techniques-in-targeted-attacks-against-ukraine/	16
+https://blog.google/threat-analysis-group/initial-access-broker-repurposing-techniques-in-targeted-attacks-against-ukraine/	17
 https://gist.github.com/awakecoding/5fda938a5fd2d29ebffb31eb023fe51c	11
 https://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/	10
 https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises	9
@@ -22,6 +22,7 @@ https://bazaar.abuse.ch/sample/ee37c95d10c93066599d6de775cc3b91503feff1509d12257
 https://blogs.jpcert.or.jp/en/2022/09/phishurl-list.html	5
 https://posts.specterops.io/get-your-socks-on-with-gtunnel-4a70a9b82b24	5
 https://github.com/mgeeky/PackMyPayload	5
+http://www.shmoocon.org	5
 https://www.welivesecurity.com/2022/09/06/worok-big-picture/	5
 https://twitter.com/EHaeghebaert/status/1567527122838716416	4
 http://cs.co/6010MM7ng	4
@@ -40,8 +41,8 @@ https://y4er.com/posts/cve-2022-36923-manageengine-opmanager-getuserapikey-authe
 https://bit.ly/3CZQYgv	4
 https://mndt.info/3R6Qs4z	4
 https://www.bigous.me/2022/09/06/CVE-2022-35405.html	4
-http://www.shmoocon.org	4
 https://www.justice.gov/usao-md/pr/website-selling-stolen-login-credentials-and-other-personally-identifying-information	4
+https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/	4
 https://twitter.com/johnhultquist/status/1567514936674336769	4
 https://riskybiznews.substack.com/p/risky-biz-news-china-does-its-best	3
 https://github.com/usbarmory/GoTEE/tree/development	3
@@ -57,6 +58,7 @@ https://bhconsulting.ie/nine-security-lessons-from-the-conti-cyber-attack-on-the
 https://www.bleepingcomputer.com/news/security/google-former-conti-cybercrime-gang-members-now-targeting-ukraine/	3
 https://tria.ge/220907-h97ntsbce4/behavioral5	3
 https://twitter.com/hacks4pancakes/status/1567206921240723466	3
+https://twitter.com/ericgeller/status/1567494230095925250	3
 https://twitter.com/JasonMBrodsky/status/1567477301071192064	3
 https://twitter.com/VickiTurk/status/1567140056393031682	3
 https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution	3
@@ -75,6 +77,7 @@ https://www.virustotal.com/gui/file/5524c462b6db9ad108ac207d8f1cbdaa67e84e576f4e
 https://github.com/fin3ss3g0d/evilgophish	3
 https://www.pcmag.com/news/wtf-just-happened-why-your-org-needs-a-cybersecurity-incident-review-board	3
 https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html	3
+https://twitter.com/strandjs/status/1567592745987985417	3
 https://www.woprsummit.org/0x01-event-info.html	3
 https://twitter.com/chrisgeidner/status/1567523876451614720	3
 https://twitter.com/supercomposite/status/1567162288087470081	3
@@ -92,7 +95,6 @@ https://bazaar.abuse.ch/sample/401893d409c8453d7b0a4b7cd4ed000e61b32aa48a9e25a14
 https://twitter.com/awakecoding/status/1567323609189736451	3
 https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/	3
 https://redblueteam.wordpress.com/2022/04/10/quick-note-on-active-directory-attacks-by-relaying-and-spoofing/	3
-https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/	3
 https://twitter.com/brutelogic/status/1495769940615442434?lang=en	3
 https://www.youtube.com/watch?v=v-Os34bfJlU&list=PL7ZDZo2Xu332DOLSQlWlJPWRRAlpsLZQ-&index=2	3
 https://twitter.com/washingtonpost/status/1567300631836205057	3
