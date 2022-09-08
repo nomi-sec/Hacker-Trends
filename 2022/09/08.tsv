@@ -1,6 +1,6 @@
-http://www.graplsecurity.com/post/attacking-firecracker	19
+http://www.graplsecurity.com/post/attacking-firecracker	20
+https://www.microsoft.com/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/	13
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2306	13
-https://www.microsoft.com/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/	12
 https://twitter.com/tiraniddo/status/1535506402600357889	12
 https://twitter.com/wbm312/status/1567974063578185728	11
 https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-servers-ddosed-with-anti-russia-messages/	9
@@ -8,19 +8,19 @@ https://www.microsoft.com/security/blog/2022/09/07/profiling-dev-0270-phosphorus
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2313	9
 https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises	9
 https://blog.google/threat-analysis-group/initial-access-broker-repurposing-techniques-in-targeted-attacks-against-ukraine/	8
+https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/	8
 https://github.com/HavocFramework/Modules	7
 https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html	7
 https://github.com/thinkst/canarytokens-docker	7
 https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html	7
+https://posts.specterops.io/on-detection-tactical-to-function-810c14798f63	7
 https://github.com/CodeXTF2/cobaltstrike-headless	7
-https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/	7
 https://bbc.in/3ewsh18	6
 https://grugq.substack.com/p/albanian-cyber-war	6
 https://www.antisyphontraining.com/soc-core-skills-w-john-strand/	6
 https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html	6
 https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger	6
 https://www.courtlistener.com/docket/64866230/hadnagy-v-moss/	6
-https://posts.specterops.io/on-detection-tactical-to-function-810c14798f63	6
 https://blog.joshlemon.com.au/cybersecurity-alert-priority-matrix-92a20fe8d955	6
 https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html	5
 https://www.vice.com/en/article/qjk3wb/facebook-engineers-admit-they-dont-know-what-they-do-with-your-data	5
@@ -75,6 +75,7 @@ https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-o
 https://bbc.co.uk/news/uk-61585886	3
 https://www.prodaft.com/resource/detail/ta505-ta505-groups-tesla-gun-depth-analysis	3
 https://app.intigriti.com/researcher/programs/visma/1337up1122lhecopenhagen/preview/detail	3
+https://buff.ly/37sSeXf	3
 https://www.ft.com/content/cfa2e2be-8871-4b56-b7bf-c5d2c55e8ed5	3
 https://www.tripwire.com/state-of-security/security-data-protection/warning-issued-vice-society-ransomware-gang/	3
 https://github.com/CravateRouge/bloodyAD/commit/54babd733aad477f3099b8e9db50b6436918d858	3
@@ -84,6 +85,7 @@ https://twitter.com/Eliza_MayAustin/status/1567844223407235072	3
 https://www.microsoft.com/security/blog/2022/09/08/part-1-the-art-and-science-of-threat-hunting/	3
 https://twitter.com/FirePhotoGirl/status/1567665774835433474	3
 https://twitter.com/brianjliston/status/1567887004976791552	3
+https://zoom.us/webinar/register/9816626658148/WN_FodVOjZPT4-dXxj4nkW9tw	3
 http://cyberiqs.com/latestnews	3
 https://gist.github.com/whichbuffer/0c109be7b8b01d13178c07d66cdf82d5	3
 https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html	3
@@ -96,7 +98,9 @@ https://www.reviewjournal.com/crime/homicides/police-arrest-county-official-in-r
 https://events.sophos.com/securitysosweek2022	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-09-07%20IcedID%20IOCs	3
 https://lore.kernel.org/all/?q=%22detected+field-spanning+write%22	3
+https://twitter.com/chiefmi6/status/1567959980606689283	3
 https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/	3
+https://twitter.com/GossiTheDog/status/1126833629236215808	3
 http://intelligencecareers.gov/nsa	3
 https://www.sans.org/cyber-security-training-events/cyberthreat-2022/	3
 https://github.com/CodeXTF2/cobaltstrike-sleepmask-yara	3
