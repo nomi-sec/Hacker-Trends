@@ -1,11 +1,11 @@
 https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone	15
+https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/	13
 https://institute.sektor7.net/rto-maldev-adv1	12
 https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html	11
 https://www.bleepingcomputer.com/news/security/new-psexec-spinoff-lets-hackers-bypass-network-security-defenses/	10
 https://github.com/BishopFox/cloudfox	10
 https://bishopfox.com/blog/introducing-cloudfox	10
 https://www.bleepingcomputer.com/news/security/zero-day-in-wpgateway-wordpress-plugin-actively-exploited-in-attacks/	9
-https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/	9
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37969	9
 https://home.treasury.gov/news/press-releases/jy0948	8
 https://secjoes-reports.s3.eu-central-1.amazonaws.com/Dissecting+PlugX+to+Extract+Its+Crown+Jewels.pdf	8
@@ -21,6 +21,7 @@ https://www.virustotal.com/gui/file/e0dba262d018d907cb5cc298984f5a68053495e1e400
 https://github.com/b23r0/Heroinn	5
 https://twitter.com/samwcyo/status/1569897392560050178	5
 https://twitter.com/StopMalvertisin/status/1566341153003565059	5
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3157562/iranian-cyber-actors-exploit-known-vulnerabilities-to-extort-us-critical-infras/	5
 https://www.bleepingcomputer.com/news/security/hackers-now-use-sock-puppets-for-more-realistic-phishing-attacks/	5
 https://twitter.com/soundmigration/status/1569933839434235904	5
 https://www.justice.gov/opa/pr/three-iranian-nationals-charged-engaging-computer-intrusions-and-ransomware-style-extortion	5
@@ -28,6 +29,7 @@ https://twitter.com/duncanyoudaho/status/1569800108568637441	5
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_14.09.2022.txt	5
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama202_14.09.2022.txt	5
 https://twitter.com/REKCAHComics/status/1537871057859792896	5
+https://github.com/Accenture/Codecepticon	5
 https://twitter.com/tannenbaumr/status/1569145065783574530	4
 https://www.bleepingcomputer.com/news/security/trickbot-malware-uses-obfuscated-windows-batch-script-to-evade-detection/	4
 https://www.advintel.io/post/advintel-s-state-of-emotet-aka-spmtools-displays-over-million-compromised-machines-through-2022	4
@@ -37,20 +39,21 @@ https://twitter.com/cnni/status/1569853452167122944	4
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments	4
 https://slate.com/news-and-politics/2022/09/twitter-whistleblower-mudge-hearing-dirt-nope.html	4
 https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html?m=1	4
-https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3157562/iranian-cyber-actors-exploit-known-vulnerabilities-to-extort-us-critical-infras/	4
 https://www.tripwire.com/state-of-security/ics-security/cybersecurity-threats-to-the-us-water-industry/	4
 https://www.forbes.com/sites/daveywinder/2022/09/14/new-microsoft-windows-zero-day-attack-confirmed-update-now/	4
+https://twitter.com/potatopolitics/status/1570019814898278404	4
 https://twitter.com/bettersafetynet/status/1569873647514386432	4
 https://thehackernews.com/2022/09/researchers-detail-originlogger-rat.html	4
 https://twitter.com/Threatlabz/status/1569807855238402048	4
 https://tria.ge/220914-alyr1sghd7	4
 https://techcrunch.com/2022/09/14/twilio-lays-off-11-of-its-staff-as-it-aims-for-profitability-in-2023/	4
+https://gist.github.com/myrtus0x0/da43fbcf5303a32dfe35a9e415da4ffe	4
 https://www.bleepingcomputer.com/news/security/us-govt-sanctions-ten-iranians-linked-to-ransomware-attacks/	4
+https://boards.greenhouse.io/tallpoppy/jobs/5297808003	4
 https://www.dailydot.com/debug/flipper-zero-paypal/	4
 https://thehackernews.com/2022/09/microsofts-latest-security-update-fixes.html	4
 https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html	4
 https://i.blackhat.com/USA-22/Thursday/us-22-Jin-The-Journey-Of-Hunting-ITW-Windows-LPE-0day.pdf	4
-https://github.com/Accenture/Codecepticon	4
 https://app.any.run/tasks/e7fa707b-31f1-4c9a-909e-a49e841df764	4
 https://sansec.io/research/rekoobe-fishpig-magento	4
 https://blog.p6.is/AST-Injection/	4
@@ -61,6 +64,7 @@ https://twitter.com/jessicammoss/status/1569793371371339777	3
 https://twitter.com/Mandiant/status/1569426374645157888	3
 https://www.eventbrite.ie/e/irisscert-annual-cybercrime-conference-2022-tickets-383323269217	3
 https://twitter.com/thegrugq/status/246450097364275201	3
+https://www.blackhillsinfosec.com/for-web-content-discovery-who-you-gonna-call-gobuster/	3
 https://us06web.zoom.us/webinar/register/WN_LloW37FJSiqT0Du2fpUcWQ	3
 https://thestack.technology/windows-tcp-ip-vuln-clfs-eop-flaw-patch-tuesday/	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-09-12%20Qakbot%20(BB)%20IOCs	3
@@ -84,7 +88,7 @@ https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-34718	3
 https://exploitreversing.com/2022/09/14/malware-analysis-series-mas-article-5/	3
 https://arstechnica.com/information-technology/2022/09/breach-of-software-maker-used-to-backdoor-as-many-as-200000-servers/	3
 https://app.any.run/tasks/3af3d4dc-cd23-42ef-ac60-bc672ae03350	3
-https://twitter.com/potatopolitics/status/1570019814898278404	3
+http://ow.ly/4NzM50KHhC1	3
 https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721	3
 https://twitter.com/ReedAlbergotti/status/1569872722955759616	3
 https://twitter.com/BHinfoSecurity/status/1569772577794424832	3
@@ -93,7 +97,6 @@ https://twitter.com/silascutler/status/1569842174606430209	3
 https://www.politico.com/news/2022/09/14/iranian-hackers-00056627	3
 https://www.washingtonpost.com/national-security/2022/09/13/united-states-russia-political-campaign/	3
 https://www.bigous.me/2022/09/06/CVE-2022-35405.html	3
-https://gist.github.com/myrtus0x0/da43fbcf5303a32dfe35a9e415da4ffe	3
 https://mad.mitre-engenuity.org/	3
 https://twitter.com/christogrozev/status/1570087287643414528	3
 https://unit42.paloaltonetworks.com/originlogger/	3
