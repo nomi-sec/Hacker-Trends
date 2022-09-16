@@ -12,6 +12,7 @@ https://twitter.com/vxunderground/status/1570605064003420160	8
 https://trends.shodan.io/search?query=%22watermark%3A+666666%22#facet/overview	7
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_16.09.2022.txt	7
 https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses	7
+https://twitter.com/jsrailton/status/1570803548501446661	7
 https://twitter.com/Uber_Comms/status/1570829232246509569	6
 https://blog.talosintelligence.com/2022/09/gamaredon-apt-targets-ukrainian-agencies.html	6
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34718	6
@@ -25,7 +26,6 @@ https://portswigger.net/research/widespread-prototype-pollution-gadgets	6
 https://www.theregister.com/2022/09/16/uber_security_incident/	6
 https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak	6
 https://twitter.com/vxunderground/status/1570611979169202179	6
-https://twitter.com/jsrailton/status/1570803548501446661	6
 https://thehackernews.com/2022/09/hackers-targeting-weblogic-servers-and.html	6
 https://twitter.com/iancoldwater/status/1570706570794897409	5
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama204_16.09.2022.txt	5
@@ -36,6 +36,7 @@ https://blog.sekoia.io/privateloader-the-loader-of-the-prevalent-ruzki-ppi-servi
 https://twitter.com/samwcyo/status/1570583182726266883	5
 https://twitter.com/HackedPlanet/status/1570261123756064768	5
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/webworm-espionage-rats	5
+https://twitter.com/BleepinComputer/status/1570857732634189829	5
 https://medium.com/@balqurneh/bypass-crowdstrike-falcon-edr-protection-against-process-dump-like-lsass-exe-3c163e1b8a3e	4
 https://www.pangulab.cn/en/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group_ii/	4
 https://seguranca-informatica.pt/ursa-trojan-is-back-with-a-new-dance/#.YyRHLHbMIQ	4
@@ -43,6 +44,7 @@ https://twitter.com/vxunderground/status/1570626503947485188	4
 https://alperovitch.sais.jhu.edu/our-team/	4
 https://twitter.com/sirhacksalittle/status/1570768172697153537	4
 https://twitter.com/amasad/status/1570598156160897024	4
+https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/	4
 https://riskybiznews.substack.com/p/risky-biz-news-poland-refuses-to	4
 https://twitter.com/BillDemirkapi/status/1570602097640607744	4
 https://www.govcert.ch/blog/unflattening-confuserex-code-in-ida/	4
@@ -56,7 +58,10 @@ https://github.com/awslabs/aws-security-assessment-solution	4
 https://twitter.com/_wald0/status/1526292570497753091	4
 https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721	4
 https://twitter.com/TheRegister/status/1570612196459126787	4
+https://twitter.com/SeanWrightSec/status/1570782173900439553	4
 https://cocomelonc.github.io/tutorial/2022/04/20/malware-pers-1.html	4
+https://simonwillison.net/2022/Sep/12/prompt-injection/	4
+https://www.bleepingcomputer.com/news/security/hacker-sells-stolen-starbucks-data-of-219-000-singapore-customers/	4
 https://www.mandiant.com/resources/blog/dprk-whatsapp-phishing	4
 https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-info-stealer-malware-against-ukrainian-orgs/	4
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match	4
@@ -81,7 +86,6 @@ https://twitter.com/dakacki/status/1570595815777005568	3
 https://twitter.com/AlvieriD/status/1570774079946526727	3
 https://connormcgarr.github.io/x64-Kernel-Shellcode-Revisited-and-SMEP-Bypass/	3
 https://twitter.com/samwcyo/status/1570581007044317184	3
-https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/	3
 https://twitter.com/reggblinker/status/1570732550351654918	3
 http://virustotal-search.py	3
 https://bit.ly/cwCISA091522	3
@@ -90,6 +94,7 @@ https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-i
 https://twitter.com/DeptofDefense/status/1570744310769020934	3
 https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam	3
 https://twitter.com/Kevin2600/status/1570712463976570884	3
+https://socon2022-mac.eventbrite.com	3
 https://exploitreversing.com/2022/09/14/malware-analysis-series-mas-article-5/	3
 https://twitter.com/ColtonSeal/status/1570596125924794368	3
 https://twitter.com/i/spaces/1kvKpmPXnvDGE	3
@@ -99,19 +104,16 @@ https://twitter.com/gentilkiwi/status/1570525137962930176	3
 https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/	3
 https://mndt.info/3pZvhWp	3
 https://twitter.com/malwaretechblog/status/1570600059909345280	3
-https://twitter.com/SeanWrightSec/status/1570782173900439553	3
 https://twitter.com/_mg_/status/1570626240499032065	3
 https://www.theregister.com/2022/09/16/eu_cyber_resilience_act/	3
 https://research.nccgroup.com/2022/09/07/tool-release-monkey365/	3
 https://twitter.com/riskybusiness/status/1570634545552297984	3
 https://blog.didierstevens.com/2022/09/15/update-virustotal-search-py-version-0-1-7/	3
-https://www.bleepingcomputer.com/news/security/hacker-sells-stolen-starbucks-data-of-219-000-singapore-customers/	3
 https://bazaar.abuse.ch/sample/548a9d790d8d54baf1faf9c67133398a96fad5add7daa35e89aad9d777bd103d/	3
 https://www.youtube.com/watch?v=EgY8R7Ri6vw	3
 https://youtu.be/wrOpBQcCvAY	3
 https://www.ipa.go.jp/security/vuln/10threats2022.html	3
 https://docs.google.com/presentation/d/1qA8fqRDHKX_WM_ZdDN37EQQZwSTNJ4FFws82tbUSKxY/edit?usp=sharing	3
-https://twitter.com/BleepinComputer/status/1570857732634189829	3
 https://www.ipa.go.jp/files/000100431.pdf	3
 https://twitter.com/rysannikov/status/1570841376488570882	3
 https://www.bleepingcomputer.com/news/security/webworm-hackers-modify-old-malware-in-new-attacks-to-evade-attribution/	3
