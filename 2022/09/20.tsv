@@ -1,10 +1,10 @@
+https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/	13
 https://blog.projectdiscovery.io/guide-to-dns-takeovers/	13
-https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/	12
 https://github.com/Markakd/CVE-2022-2588	12
+https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/	11
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks	9
-https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/	9
+https://www.anquanke.com/post/id/280193	9
 https://www.youtube.com/watch?v=beJaOTQnn0s	8
-https://www.anquanke.com/post/id/280193	8
 https://www.bleepingcomputer.com/news/security/mfa-fatigue-hackers-new-favorite-tactic-in-high-profile-breaches/	7
 https://o365blog.com/post/pta/	7
 https://blog.badsectorlabs.com/last-week-in-security-lwis-2022-09-19.html	6
@@ -22,6 +22,7 @@ https://m365internals.com/2022/09/19/practical-guidance-for-it-admins-to-respond
 https://wildwesthackinfest.com/the-roundup-red-blue-purple/	5
 https://nasbench.medium.com/demystifying-the-svchost-exe-process-and-its-command-line-options-508e9114e747	5
 https://twitter.com/mcbazza/status/1572207628742430721	5
+https://www.x86matthew.com/view_post?id=windows_seagate_lpe	5
 https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-impersonate-us-govt-agencies/	5
 https://speakerdeck.com/0xbharath/an-attackers-guide-to-aws-access-keys	5
 https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-will-turn-on-tamper-protection-by-default/	5
@@ -42,6 +43,7 @@ https://twitter.com/1ZRR4H/status/1557192921023143936	4
 https://s.gitguardian.com/uber-breach-2022-thn	4
 https://github.com/ORCx41/Syscallslib	4
 https://www.sans.org/u/1n2b	4
+https://www.helpnetsecurity.com/2022/09/20/revolut-data-breach-phishing/	4
 https://tria.ge/220920-v3wdfahfcp	4
 https://www.sans.org/u/1n2F	4
 https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=FREESEPTEMBER22	4
@@ -63,6 +65,7 @@ https://blog.sunggwanchoi.com/recreating-a-msi-payload-for-fun-and-no-profit/	4
 https://bazaar.abuse.ch/sample/49c54e18e22e5c82d591ff5345a4c660f2c80e14fcbe4c3a7d1df43654e40e86/	4
 https://thehackernews.com/2022/09/microsoft-teams-gifshell-attack-what-is.html	4
 https://www.washingtonpost.com/politics/2022/09/20/our-survey-experts-it-okay-expose-government/	4
+https://twitter.com/shortxstack/status/1572206117559865345	4
 https://blog.thinkst.com/2022/09/sensitive-command-token-so-much-offense.html	4
 https://www.youtube.com/watch?v=Jd2yLBfg8xE	4
 https://thehackernews.com/2022/09/russian-sandworm-hackers-impersonate.html	4
@@ -74,7 +77,6 @@ https://bazaar.abuse.ch/browse/tag/craftandskewers-co-uk/	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-09-19%20Qakbot%20(BB)%20IOCs	3
 https://www.nitorihd.co.jp/news/items/2cdbc59fa4c3ffe4da790cc1cfe85200.pdf	3
 https://twitter.com/illegalFawn/status/1569684491647467526	3
-https://www.helpnetsecurity.com/2022/09/20/revolut-data-breach-phishing/	3
 https://asec.ahnlab.com/en/37483/	3
 https://support.google.com/code/contact/cloud_platform_report?hl=en	3
 https://arstechnica.com/information-technology/2022/09/kiwi-farms-has-been-breached-assume-passwords-and-emails-have-been-leaked/	3
@@ -83,6 +85,7 @@ https://www.eurogamer.net/fbi-investigating-hacker-who-claimed-to-have-breached-
 https://notes.huskyhacks.dev/notes/ms-interloper-on-the-subject-of-malicious-msis	3
 https://www.bleepingcomputer.com/news/security/game-dev-2k-s-support-site-hacked-to-push-malware-via-fake-tickets/	3
 https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/	3
+https://www.helpnetsecurity.com/2022/09/20/open-source-security-concerns/	3
 https://www.fortinet.com/blog/threat-research/excel-document-delivers-malware-by-exploiting-cve-2017-11882	3
 https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-is-released-here-are-the-new-features/	3
 https://bazaar.abuse.ch/sample/e9efc70902ce62e382550ff4d57ead16860cf743a6275fa65a489b3c485e517f/	3
@@ -94,6 +97,7 @@ https://www.reuters.com/world/asia-pacific/indonesia-parliament-passes-long-awai
 https://venturebeat.com/security/report-password-fatigue-compromises-employee-productivity-security-and-well-being/	3
 https://docs.velociraptor.app/blog/2022/2022-08-15-release-notes/	3
 https://exploitpack.com	3
+http://youtu.be/7BTPf55CHiw	3
 https://www.trendmicro.com/vinfo/us/security/news/online-privacy/pii-leaks-and-other-risks-from-unsecure-e-commerce-apis	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-09-19%20Bumblebee%20Loader%20IOCs	3
 https://bazaar.abuse.ch/sample/8d45e73238b129a3d6193856d12a30d2e845dbf408fd3cd81460a401751d845a/	3
@@ -111,9 +115,9 @@ https://youtu.be/gJGbS8UELGw	3
 https://github.com/johguse/profanity/issues/61	3
 https://bazaar.abuse.ch/browse/tag/fyyv4-top-f21-svg/	3
 https://www.govcert.ch/whitepapers/unflattening-confuserex-code-in-ida/	3
-https://twitter.com/shortxstack/status/1572206117559865345	3
 https://bazaar.abuse.ch/sample/577aba56645abdb7d6c2287e3874bdfca7ccfe08e24c73644d2ff44390f45ddc/	3
 https://podcasts.apple.com/us/podcast/33-throwing-bricks-for-$$$-violence-as-a-service-comes-of-age/id1225077306?i=1000580057197	3
 https://bazaar.abuse.ch/sample/cb149f5680fed4db0a4f04d7fe1785061284ccc832c4bd97b4ddb3d50233a107/	3
+https://www.helpnetsecurity.com/2022/09/20/uber-data-breach-lapsus/	3
 https://bazaar.abuse.ch/sample/12a8f07682d6f12127d2868488b3c1484e495c36603e4cc4dad1097a52a6af20/	3
 https://github.com/BishopFox/sliver/wiki/Community-Guides	3
