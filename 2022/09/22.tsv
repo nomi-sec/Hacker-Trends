@@ -1,11 +1,12 @@
-https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/	13
+https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/	14
 https://asec.ahnlab.com/en/38993/	12
 https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/	12
-https://samcurry.net/universal-xss-on-netlifys-next-js-library	11
+https://samcurry.net/universal-xss-on-netlifys-next-js-library	12
+https://bit.ly/3BE4zbj	10
+https://www.nytimes.com/interactive/2022/09/22/technology/russia-putin-surveillance-spying.html	10
 https://asec.ahnlab.com/wp-content/uploads/2022/09/Analysis-Report-on-Lazarus-Groups-Rootkit-Attack-Using-BYOVD_Sep-22-2022.pdf	10
 https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning	10
-https://bit.ly/3BE4zbj	9
-https://www.nytimes.com/interactive/2022/09/22/technology/russia-putin-surveillance-spying.html	8
+https://www.microsoft.com/security/blog/2022/09/22/malicious-oauth-applications-used-to-compromise-email-servers-and-spread-spam/	8
 https://urlhaus.abuse.ch/url/2308917/	8
 https://bazaar.abuse.ch/sample/3a00998d6a6c0d3db7d06cca0be5ae39b9c1884dda9f4dc4190bf0debc18da3d/	8
 https://www.bleepingcomputer.com/news/security/lockbit-ransomware-builder-leaked-online-by-angry-developer-/	8
@@ -13,7 +14,6 @@ https://www.huntandhackett.com/blog/bypassing-sysmon	8
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_22.09.2022.txt	8
 https://www.microsoft.com/security/blog/2022/09/21/rewards-plus-fake-mobile-banking-rewards-apps-lure-users-to-install-info-stealing-rat-on-android-devices/	7
-https://www.microsoft.com/security/blog/2022/09/22/malicious-oauth-applications-used-to-compromise-email-servers-and-spread-spam/	7
 https://thehackernews.com/2022/09/researchers-disclose-critical.html	7
 https://samcurry.net/universal-xss-on-netlifys-next-js-library/	7
 https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/	7
@@ -56,6 +56,7 @@ https://twitter.com/eu_edps/status/1572860045569695744	3
 https://www.cisa.gov/uscert/ncas/alerts/aa22-264a	3
 https://twitter.com/blenster/status/1572612545705541632	3
 https://twitter.com/paulmozur/status/1572936470192852992	3
+https://twitter.com/sarahintampa/status/1573006039343337474	3
 https://thehackernews.com/2022/09/15-year-old-unpatched-python.html	3
 https://umbrella.cisco.com/blog/muddywater-majusaka-socgholish	3
 https://medium.com/@chaim_sanders/dissecting-and-mitming-duo-device-health-app-6a405c4442fb	3
@@ -72,6 +73,7 @@ https://hackerone.com/reports/1340942	3
 https://twitter.com/defenceu/status/1572947574016933888	3
 https://www.govcert.ch/blog/unflattening-confuserex-code-in-ida/	3
 https://gist.github.com/tothi/2809d548f7407de781892c4f840fdee1	3
+https://www.bostonglobe.com/2022/09/22/sports/bruins-jerseys-feature-rapid7-patches/	3
 https://link.medium.com/Jg6YcNzvwtb	3
 https://twitter.com/jakluge/status/1572149243791691776	3
 https://research.nccgroup.com/2022/09/22/tool-release-project-kubescout-adding-kubernetes-support-to-scout-suite/	3
@@ -85,6 +87,7 @@ https://twitter.com/ArijitDSen/status/1572206819920969730	3
 https://www.hackmageddon.com/2022/09/22/august-2022-cyber-attacks-statistics/	3
 https://twitter.com/smithsam/status/1572982650792742913	3
 http://iwcon.live	3
+https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming/AMSITools	3
 https://www.youtube.com/watch?v=CR5YAwkGJQo&list=PL7ZDZo2Xu332DOLSQlWlJPWRRAlpsLZQ-&index=14	3
 https://github.com/BishopFox/sliver/releases/tag/v1.5.27	3
 https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/	3
