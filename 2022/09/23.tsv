@@ -17,6 +17,7 @@ https://github.com/memN0ps/mordor-rs	7
 https://www.virustotal.com/gui/file/65c35eb1cdf21f4a503d6817bceb419f9c2765d8d7361f4fa18a86ade5578e24/content	7
 https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html	6
 https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/	6
+https://medium.com/@in9uz/cisco-nightmare-pentesting-cisco-networks-like-a-devil-f4032eb437b9	6
 https://www.virustotal.com/gui/file/de87c8713fac002b0b0a0f9b02c4e3ebcccf65282a22f5ab5912a9da00f35c2a	6
 https://www.virustotal.com/gui/file/9639eebcf3b5e89a4a179e86cb365b02ab279961530283006cfb6fc3f7a8d826	6
 https://www.virustotal.com/gui/file/65a08bcf5f98500a3870786cbd0688e6dc5317b440648d10cfe8a80189f26198	6
@@ -24,7 +25,6 @@ https://www.mandiant.com/resources/blog/gru-rise-telegram-minions	6
 https://assets.sentinelone.com/sentinellabs22/metador	6
 https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/	5
 https://www.virustotal.com/gui/file/2e787991136f65498110b52209ac9db1e31a02aecf050675e043284ab3396021	5
-https://medium.com/@in9uz/cisco-nightmare-pentesting-cisco-networks-like-a-devil-f4032eb437b9	5
 https://cloudbrothers.info/azure-attack-paths/	5
 https://www.virustotal.com/gui/file/7c78698f578118ba6da7dae3dc1556d01cd6cfb00e093398f6b0a5292dd35e5c/relations	5
 https://www.vice.com/en/article/v7vz58/signal-is-asking-people-around-the-world-to-help-iranians-access-the-encrypted-app	5
@@ -44,17 +44,21 @@ https://thehackernews.com/2022/09/hackers-using-fake-circleci.html	4
 https://www.washingtonpost.com/national-security/2022/09/22/russia-nuclear-threat-us-options/	4
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/	4
 https://www.virustotal.com/gui/file/ca9e5e49a42f4b7e2bf8770290d891398d0882c2516905180b279473afeffe5d	4
+https://github.com/elastic/detection-rules/blob/main/rules/windows/credential_access_saved_creds_vault_winlog.toml	4
 https://thehackernews.com/2022/09/hackers-using-malicious-oauth-apps-to.html	4
 https://github.com/D1rkMtr/FilelessRemotePE	4
 https://twitter.com/oneraindrop/status/1572967640674537474	4
 https://github.com/dydxprotocol/solo/issues/521	4
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-used-in-attacks/	4
 https://thehackernews.com/2022/09/void-balaur-hackers-for-hire-group-now.html	4
+https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack#:~:text=specialWordlists.py.-,Command%20line%20usage,-From%20time%20to	4
+https://gist.github.com/Samirbous/c3c4122493ea5076adea9c895d2340ea	4
 https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/	4
 https://my.diffend.io/npm/@dydxprotocol/solo/0.41.0/0.41.1	4
 https://rez0.blog/cybersecurity/2022/09/22/prevent-info-disclosures.html	4
 https://youtu.be/7T_ajYpRWJw	4
 https://blog.securityonion.net/2022/09/quick-malware-analysis-astaroth-guildma.html	4
+https://twitter.com/ActuallyEmerson/status/1573107117254639616	4
 https://hatching.io/blog/tt-2022-09-22/	3
 https://www.microsoft.com/security/blog/2022/09/21/rewards-plus-fake-mobile-banking-rewards-apps-lure-users-to-install-info-stealing-rat-on-android-devices/	3
 https://twitter.com/eric_capuano/status/1573158001741021184	3
@@ -103,5 +107,4 @@ http://th4ts3cur1ty.company	3
 https://speakerdeck.com/aszx87410/attacking-web-without-js-css-injection	3
 https://ed.gr/d6zuu	3
 https://twitter.com/signalapp/status/1573095143384952832	3
-https://twitter.com/ActuallyEmerson/status/1573107117254639616	3
 https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/	3
