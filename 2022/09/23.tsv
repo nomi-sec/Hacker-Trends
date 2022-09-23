@@ -10,12 +10,12 @@ https://bazaar.abuse.ch/browse/tag/verifica%20spid/	8
 https://twitter.com/JohnHultquist/status/1573277725787586560	8
 https://github.com/memN0ps/mordor-rs	8
 https://www.virustotal.com/gui/file/baafd4f1903f80a473facbf3889ee98823fa560c3eecf3fb232e67c78b0c3a80	7
+https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html	7
 https://www.virustotal.com/gui/file/1f0617725b2a0b0c3bb1067f0b77da049da0545710d9743813969b3bbcc563f4	7
 https://www.virustotal.com/gui/file/f019495a1d4feecc07769dc1fbecccb871634cc707c43befe1ea7aa2c629e337	7
 https://bazaar.abuse.ch/sample/935032c463328efc58dd11f5edb092a06556fa6a194dcac8f3bb2bc0e8c49dbe/	7
 https://bazaar.abuse.ch/sample/7ae6589d067580a09ee6cc0c8ee067c4ea83769297141b796f6bf42e9f6d3fdd/	7
 https://www.virustotal.com/gui/file/65c35eb1cdf21f4a503d6817bceb419f9c2765d8d7361f4fa18a86ade5578e24/content	7
-https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html	6
 https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/	6
 https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/	6
 https://medium.com/@in9uz/cisco-nightmare-pentesting-cisco-networks-like-a-devil-f4032eb437b9	6
@@ -44,6 +44,7 @@ https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming/AMSI
 https://techcommunity.microsoft.com/t5/storage-at-microsoft/smb-authentication-rate-limiter-now-on-by-default-in-windows/ba-p/3634244	5
 https://asec.ahnlab.com/en/39152/	4
 https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-via-oauth-apps-for-phishing/	4
+https://youtu.be/b0lLxLJKaRs	4
 https://twitter.com/i/lists/1380244569485406209	4
 https://www.huntandhackett.com/blog/bypassing-sysmon	4
 https://thehackernews.com/2022/09/hackers-using-fake-circleci.html	4
@@ -52,6 +53,7 @@ https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-i
 https://www.virustotal.com/gui/file/ca9e5e49a42f4b7e2bf8770290d891398d0882c2516905180b279473afeffe5d	4
 https://github.com/elastic/detection-rules/blob/main/rules/windows/credential_access_saved_creds_vault_winlog.toml	4
 https://thehackernews.com/2022/09/hackers-using-malicious-oauth-apps-to.html	4
+https://mrd0x.com/spoofing-calendar-invites-using-ics-files/	4
 https://github.com/D1rkMtr/FilelessRemotePE	4
 https://twitter.com/oneraindrop/status/1572967640674537474	4
 https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/	4
@@ -63,6 +65,7 @@ https://gist.github.com/Samirbous/c3c4122493ea5076adea9c895d2340ea	4
 https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/	4
 https://my.diffend.io/npm/@dydxprotocol/solo/0.41.0/0.41.1	4
 https://rez0.blog/cybersecurity/2022/09/22/prevent-info-disclosures.html	4
+https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware	4
 https://youtu.be/7T_ajYpRWJw	4
 https://blog.securityonion.net/2022/09/quick-malware-analysis-astaroth-guildma.html	4
 https://twitter.com/signalapp/status/1573095143384952832	4
@@ -74,7 +77,6 @@ https://hubs.la/Q01n3ZSm0	3
 https://twitter.com/eric_capuano/status/1573158001741021184	3
 https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/	3
 https://asec.ahnlab.com/en/38993/	3
-https://youtu.be/b0lLxLJKaRs	3
 https://securereload.tech/Phishing/Lists/Latest/	3
 https://www.youtube.com/watch?v=gVblb-QhZa4	3
 https://samcurry.net/universal-xss-on-netlifys-next-js-library/	3
@@ -90,8 +92,8 @@ https://decoder.cloud/2022/09/21/giving-juicypotato-a-second-chance-juicypotaton
 https://jeffreyappel.nl/how-to-prevent-mfa-fatigue-and-learn-from-the-uber-breach-for-additional-protection/	3
 https://bazaar.abuse.ch/browse/tag/morpheus/	3
 https://twitter.com/statecdp/status/1573037575924850689	3
-https://mrd0x.com/spoofing-calendar-invites-using-ics-files/	3
 https://link.medium.com/jLSGOEudytb	3
+https://krebsonsecurity.com/2022/09/accused-russian-rsocks-botmaster-arrested-requests-extradition-to-u-s/	3
 https://twitter.com/maksymeristavi/status/1573356436091969536	3
 https://www.motherjones.com/politics/2022/09/john-strand-simone-gold-insurrectionist-underwear-model-january-6	3
 https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0	3
@@ -108,7 +110,6 @@ https://www.bleepingcomputer.com/news/security/hackers-stealing-github-accounts-
 https://github.com/h4wkst3r/SharPersist/releases/tag/v1.1	3
 https://forum.torproject.net/t/iran-circumventing-censorship-with-tor/4590	3
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps	3
-https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware	3
 http://H4CK1NG.GOOGLE	3
 https://otterhacker.github.io/Pentest/Services/Kerberos.html	3
 http://th4ts3cur1ty.company	3
@@ -116,3 +117,4 @@ https://speakerdeck.com/aszx87410/attacking-web-without-js-css-injection	3
 https://ed.gr/d6zuu	3
 https://github.com/zxgio/ghidra_stack_strings	3
 https://omar0x01.medium.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498	3
+https://twitter.com/i/spaces/1ZkKzXPyjWRJv	3
