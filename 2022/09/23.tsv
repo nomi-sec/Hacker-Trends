@@ -1,4 +1,4 @@
-https://twitter.com/citypolice/status/1573281533665972225	31
+https://twitter.com/citypolice/status/1573281533665972225	32
 https://twitter.com/CityPolice/status/1573281533665972225	23
 https://twitter.com/0xabad1dea/status/365863999520251906	21
 https://signal.org/blog/run-a-proxy/	17
@@ -17,13 +17,13 @@ https://github.com/memN0ps/mordor-rs	7
 https://www.virustotal.com/gui/file/65c35eb1cdf21f4a503d6817bceb419f9c2765d8d7361f4fa18a86ade5578e24/content	7
 https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html	6
 https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/	6
+https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/	6
 https://medium.com/@in9uz/cisco-nightmare-pentesting-cisco-networks-like-a-devil-f4032eb437b9	6
 https://www.virustotal.com/gui/file/de87c8713fac002b0b0a0f9b02c4e3ebcccf65282a22f5ab5912a9da00f35c2a	6
 https://www.virustotal.com/gui/file/9639eebcf3b5e89a4a179e86cb365b02ab279961530283006cfb6fc3f7a8d826	6
 https://www.virustotal.com/gui/file/65a08bcf5f98500a3870786cbd0688e6dc5317b440648d10cfe8a80189f26198	6
 https://www.mandiant.com/resources/blog/gru-rise-telegram-minions	6
 https://assets.sentinelone.com/sentinellabs22/metador	6
-https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/	5
 https://www.virustotal.com/gui/file/2e787991136f65498110b52209ac9db1e31a02aecf050675e043284ab3396021	5
 https://cloudbrothers.info/azure-attack-paths/	5
 https://www.virustotal.com/gui/file/7c78698f578118ba6da7dae3dc1556d01cd6cfb00e093398f6b0a5292dd35e5c/relations	5
@@ -37,11 +37,13 @@ https://thehackernews.com/2022/09/cisa-warns-of-hackers-exploiting-recent.html	5
 https://www.sentinelone.com/labs/the-sprawling-infrastructure-of-a-careless-mercenary/	5
 https://www.bleepingcomputer.com/news/security/npm-packages-used-by-crypto-exchanges-compromised/	5
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/protect-passwords-with-enhanced-phishing-protection/ba-p/3631881	5
+https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack#:~:text=specialWordlists.py.-,Command%20line%20usage,-From%20time%20to	5
 https://raw.githubusercontent.com/jonaslyk/temp/main/dgdri.bat	5
 https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming/AMSITools	5
 https://techcommunity.microsoft.com/t5/storage-at-microsoft/smb-authentication-rate-limiter-now-on-by-default-in-windows/ba-p/3634244	5
 https://asec.ahnlab.com/en/39152/	4
 https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-via-oauth-apps-for-phishing/	4
+https://www.huntandhackett.com/blog/bypassing-sysmon	4
 https://thehackernews.com/2022/09/hackers-using-fake-circleci.html	4
 https://www.washingtonpost.com/national-security/2022/09/22/russia-nuclear-threat-us-options/	4
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/	4
@@ -50,11 +52,12 @@ https://github.com/elastic/detection-rules/blob/main/rules/windows/credential_ac
 https://thehackernews.com/2022/09/hackers-using-malicious-oauth-apps-to.html	4
 https://github.com/D1rkMtr/FilelessRemotePE	4
 https://twitter.com/oneraindrop/status/1572967640674537474	4
+https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/	4
 https://github.com/dydxprotocol/solo/issues/521	4
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-used-in-attacks/	4
 https://twitter.com/DnDSesame/status/1573110825094909953	4
 https://thehackernews.com/2022/09/void-balaur-hackers-for-hire-group-now.html	4
-https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack#:~:text=specialWordlists.py.-,Command%20line%20usage,-From%20time%20to	4
+https://tria.ge/220923-tqtteaahbm	4
 https://gist.github.com/Samirbous/c3c4122493ea5076adea9c895d2340ea	4
 https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/	4
 https://my.diffend.io/npm/@dydxprotocol/solo/0.41.0/0.41.1	4
@@ -77,7 +80,6 @@ https://asec.ahnlab.com/wp-content/uploads/2022/09/Analysis-Report-on-Lazarus-Gr
 https://github.com/trustedsec/CS-Remote-OPs-BOF/commit/ef1690915d288069658d0f15cd26b1d9738d7dae	3
 https://therecord.media/7-year-android-malware-campaign-targeted-uyghurs-report/	3
 https://github.com/OtterHacker/LabS4U2Self	3
-https://www.huntandhackett.com/blog/bypassing-sysmon	3
 https://twitter.com/bing_chris/status/1573331833139363840	3
 https://o5wald.github.io/posts/binary_exploitation_basics/	3
 https://mndt.info/3SsC9HX	3
@@ -87,7 +89,6 @@ https://bazaar.abuse.ch/browse/tag/morpheus/	3
 https://twitter.com/statecdp/status/1573037575924850689	3
 https://link.medium.com/jLSGOEudytb	3
 https://www.motherjones.com/politics/2022/09/john-strand-simone-gold-insurrectionist-underwear-model-january-6	3
-https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/	3
 https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0	3
 https://cset.georgetown.edu/publication/downrange-a-survey-of-chinas-cyber-ranges/	3
 https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/	3
@@ -95,7 +96,6 @@ https://twitter.com/cvenew/status/1573126299282989058	3
 https://twitter.com/vxunderground/status/1573294842649911298	3
 https://github.com/Kudaes/RustChain	3
 https://twitter.com/malwarejake/status/1572917416966983680	3
-https://tria.ge/220923-tqtteaahbm	3
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3167259/nsa-cisa-how-cyber-actors-compromise-otics-and-how-to-defend-against-it/	3
 https://github.com/Sh0ckFR/DLLirant	3
 https://www.securityweek.com/cyberattack-steals-passenger-data-portuguese-airline	3
