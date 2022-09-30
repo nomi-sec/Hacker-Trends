@@ -7,19 +7,20 @@ https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html	12
 https://www.mandiant.com/resources/blog/esxi-hypervisors-malware-persistence	11
 https://twitter.com/GossiTheDog/status/1575865934429900801	10
 https://www.trellix.com/en-us/about/newsroom/stories/research/dismantling-a-prolific-cybercriminal-empire.html	10
+https://bazaar.abuse.ch/sample/b9a1328f3107582e58d4fef064f2d3998b658ccc513f9e98a513f5606400d9be/	9
 https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b	9
+https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_30.09.2022.txt	9
 https://www.rapid7.com/blog/post/2022/09/29/suspected-post-authentication-zero-day-vulnerabilities-in-microsoft-exchange-server/	9
-https://bazaar.abuse.ch/sample/b9a1328f3107582e58d4fef064f2d3998b658ccc513f9e98a513f5606400d9be/	8
+https://bazaar.abuse.ch/sample/af1692ced38f5fda305b35be66774822900a0b9617102db4b3da5f7c97f70e3e/	9
 https://twitter.com/gossithedog/status/1575865934429900801	8
-https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_30.09.2022.txt	8
 https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html	8
-https://bazaar.abuse.ch/sample/af1692ced38f5fda305b35be66774822900a0b9617102db4b3da5f7c97f70e3e/	8
 https://research.nccgroup.com/2022/09/30/a-glimpse-into-the-shadowy-realm-of-a-chinese-apt-detailed-analysis-of-a-shadowpad-intrusion/	7
 https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/	6
 https://krebsonsecurity.com/2022/09/microsoft-two-new-0-day-flaws-in-exchange-server/	6
 https://www.bleepingcomputer.com/news/security/germany-arrests-hacker-for-stealing-4-million-via-phishing-attacks/	6
 https://twitter.com/GossiTheDog/status/1575762721353916417	6
 https://github.com/jsa2/caOptics#ca-optics---azure-ad-conditional-access-gap-analyzer	6
+https://www.greynoise.io/blog/microsoft-exchange-proxynotshell-vulnerability	6
 https://core.vmware.com/vsphere-esxi-mandiant-malware-persistence	6
 https://www.purplecloud.network	6
 https://viz.greynoise.io/tag/exchange-proxynotshell-vuln-check?days=3	6
@@ -27,13 +28,15 @@ https://www.pwndefend.com/2022/09/30/exploitation-of-microsoft-exchange-servers-
 https://github.com/carbonblack/active_c2_ioc_public	5
 https://www.cyberwarcon.com/brunchcon	5
 https://twitter.com/FBIWFO/status/1575564846644568065	5
-https://www.greynoise.io/blog/microsoft-exchange-proxynotshell-vulnerability	5
+https://bazaar.abuse.ch/sample/0ab12d65800f3e7e6089fe3c534911f0b42d9175bcf955e937edd39e8bb2c13a/	5
 https://twitter.com/abcnews/status/1575677610192867328	5
 https://www.reuters.com/technology/exclusive-suspected-chinese-hackers-tampered-with-widely-used-canadian-chat-2022-09-30/	5
 https://api.greynoise.io/v3/tags/8bf9b766-bf0f-452f-80bf-1d0903847793/ips?format=txt&token=rYZCpLOTf6UnUbBoUpF3Q	5
 https://www.washingtonpost.com/politics/2022/09/30/lawmakers-want-biden-administration-do-more-about-spyware/	5
+https://github.com/pr0xylife/IcedID/blob/main/icedID_30.09.2022.txt	5
 https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-days-reportedly-exploited-in-attacks/	5
 https://www.reuters.com/investigates/special-report/usa-spies-iran/	5
+https://www.youtube.com/watch?v=bzLvOu1awKM	5
 https://app.any.run/tasks/aaede6ea-37a7-42ea-8085-1bf1dc02895d	4
 https://twitter.com/GossiTheDog/status/1575580072961982464	4
 https://dashboard.shadowserver.org	4
@@ -51,7 +54,7 @@ https://keepassxc.org/download	4
 https://twitter.com/elonmusk/status/1575508498430820352	4
 https://twitter.com/1njection/status/1575589248094261248	4
 https://twitter.com/andriinb/status/1524407421887647744	4
-https://bazaar.abuse.ch/sample/0ab12d65800f3e7e6089fe3c534911f0b42d9175bcf955e937edd39e8bb2c13a/	4
+https://github.com/HackmichNet/AzTokenFinder	4
 https://twitter.com/clareoneilmp/status/1575694226314395648	4
 https://blog.nviso.eu/2017/06/07/malicious-powerpoint-documents-abusing-mouse-over-actions/	4
 https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/	4
@@ -60,8 +63,8 @@ https://webhook.site/f9f270f7-f	4
 https://blog.hacktivesecurity.com/index.php/2022/09/17/http/	4
 https://crwdstr.ke/6013MwhjF	4
 http://cybersecuritymonth.eu	4
+https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts	4
 https://sensepost.com/blog/2022/wiresocks-for-easy-proxied-routing/	4
-https://github.com/pr0xylife/IcedID/blob/main/icedID_30.09.2022.txt	4
 http://H4CK1NG.GOOGLE	4
 https://twitter.com/mcfaul/status/1575911859609210880	4
 https://github.com/projectdiscovery/nuclei	4
@@ -69,7 +72,6 @@ https://fleetdm.com/podcasts/the-future-of-device-management-ep6	4
 https://ghst.ly/so-con2022-swag	4
 https://www.abc.net.au/news/2022-09-30/food-delivery-drone-lands-on-power-lines-qld-browns-plains/101489670	4
 https://www.patreon.com/5pider	4
-https://www.youtube.com/watch?v=bzLvOu1awKM	4
 https://twitter.com/asi/status/1575764091872108544	4
 https://twitter.com/atrupar/status/1575108483984277504	3
 https://www.bleepingcomputer.com/news/security/cisa-hackers-exploit-critical-bitbucket-server-flaw-in-attacks/	3
@@ -87,6 +89,7 @@ https://www.bleepingcomputer.com/news/security/fired-admin-cripples-former-emplo
 https://twitter.com/GossiTheDog/status/1575813395835547651	3
 https://twitter.com/EFF/status/1575565254850842624	3
 https://therecord.media/semiconductor-industry-faced-eight-attacks-from-ransomware-groups-extortion-gangs-in-2022/	3
+https://github.com/VNCERT-CC/0dayex-checker	3
 https://learn.microsoft.com/en-us/sysinternals/	3
 https://thehackernews.com/2022/09/researchers-uncover-covert-attack.html	3
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2310	3
@@ -95,7 +98,6 @@ https://twitter.com/certbe/status/1575781903285747718	3
 https://www.virustotal.com/gui/file-analysis/ZGFhZGU5ZWIzNjcxNzA4ODhkNzdmZDljNjViODY4MzU6MTY2NDU0NTE2Mw==	3
 https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/	3
 https://infosecwriteups.com/multi-factor-authentication-vulnerabilities-7a4b647a7b09	3
-https://github.com/HackmichNet/AzTokenFinder	3
 https://github.com/ion-storm/sysmon-config/blob/master/sysmonconfig-export.xml	3
 https://0x434b.dev/learning-linux-kernel-exploitation-part-2-cve-2022-0847/	3
 https://ghst.ly/socon2022workshops	3
@@ -104,6 +106,7 @@ https://sector.ca/sessions/new-memory-forensics-techniques-to-defeat-device-moni
 https://twitter.com/0xToxin/status/1574677346421862401	3
 https://twitter.com/SkrzSecurity/status/1575861160569884673	3
 https://bitbucket.org/tinypro/workspace/snippets/	3
+https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Phoenix-Arizona/Senior-Incident-Response-Consultant--Remote-_20221380	3
 https://arstechnica.com/information-technology/2022/09/north-korean-threat-actors-are-weaponizing-all-kinds-of-open-source-apps/	3
 https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/	3
 https://go.dhs.gov/Z3Q	3
@@ -112,7 +115,6 @@ https://www.bleepingcomputer.com/news/security/new-royal-ransomware-emerges-in-m
 https://codex-7.gitbook.io/codexs-terminal-window/red-team/red-team-dev/extending-havoc-c2/third-party-agents	3
 https://arstechnica.com/?post_type=post&p=1885478	3
 https://youtu.be/jcyiSHul06Y	3
-https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts	3
 https://www.virustotal.com/gui/file/56d507046eaf1fcfbdaa5491679c4f7244c9ad5cc9da4a03332c6ccb2f69ee2d	3
 https://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7	3
 https://www.reddit.com/r/nyc/comments/xs0el6/russian_consulate_this_morning/	3
@@ -122,6 +124,7 @@ https://github.com/CodeXTF2/PyHmmm	3
 https://www.bleepingcomputer.com/news/security/hacking-group-hides-backdoor-malware-inside-windows-logo-image/	3
 https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in	3
 https://thehackernews.com/2022/09/new-malware-campaign-targeting-job.html	3
+https://www.bleepingcomputer.com/news/security/fake-us-govt-job-offers-push-cobalt-strike-in-phishing-attacks/	3
 https://www.securityweek.com/microsoft-confirms-exploitation-two-exchange-server-zero-days	3
 https://youtu.be/5LpJIORWaYE	3
 https://www.bleepingcomputer.com/news/security/hackers-now-sharing-cracked-brute-ratel-post-exploitation-kit-online/#.Yzby_q3s3u0.twitter	3
