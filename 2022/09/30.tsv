@@ -1,5 +1,5 @@
 https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/	37
-https://github.com/HavocFramework/Havoc	23
+https://github.com/HavocFramework/Havoc	25
 https://doublepulsar.com/proxynotshell-the-story-of-the-claimed-zero-day-in-microsoft-exchange-5c63d963a9e9	14
 https://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html	13
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html	13
@@ -12,9 +12,10 @@ https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-a
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB_30.09.2022.txt	9
 https://www.rapid7.com/blog/post/2022/09/29/suspected-post-authentication-zero-day-vulnerabilities-in-microsoft-exchange-server/	9
 https://bazaar.abuse.ch/sample/af1692ced38f5fda305b35be66774822900a0b9617102db4b3da5f7c97f70e3e/	9
+https://research.nccgroup.com/2022/09/30/a-glimpse-into-the-shadowy-realm-of-a-chinese-apt-detailed-analysis-of-a-shadowpad-intrusion/	8
 https://twitter.com/gossithedog/status/1575865934429900801	8
 https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html	8
-https://research.nccgroup.com/2022/09/30/a-glimpse-into-the-shadowy-realm-of-a-chinese-apt-detailed-analysis-of-a-shadowpad-intrusion/	7
+https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts	7
 https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/	6
 https://krebsonsecurity.com/2022/09/microsoft-two-new-0-day-flaws-in-exchange-server/	6
 https://www.bleepingcomputer.com/news/security/germany-arrests-hacker-for-stealing-4-million-via-phishing-attacks/	6
@@ -52,6 +53,7 @@ https://github.com/Velocidex/velociraptor/blob/master/artifacts/definitions/Wind
 https://www.microsoft.com/security/blog/2022/09/29/zinc-weaponizing-open-source-software/	4
 https://keepassxc.org/download	4
 https://twitter.com/elonmusk/status/1575508498430820352	4
+https://github.com/VNCERT-CC/0dayex-checker	4
 https://twitter.com/1njection/status/1575589248094261248	4
 https://twitter.com/andriinb/status/1524407421887647744	4
 https://github.com/HackmichNet/AzTokenFinder	4
@@ -63,7 +65,6 @@ https://webhook.site/f9f270f7-f	4
 https://blog.hacktivesecurity.com/index.php/2022/09/17/http/	4
 https://crwdstr.ke/6013MwhjF	4
 http://cybersecuritymonth.eu	4
-https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts	4
 https://sensepost.com/blog/2022/wiresocks-for-easy-proxied-routing/	4
 http://H4CK1NG.GOOGLE	4
 https://twitter.com/mcfaul/status/1575911859609210880	4
@@ -74,6 +75,7 @@ https://www.abc.net.au/news/2022-09-30/food-delivery-drone-lands-on-power-lines-
 https://www.patreon.com/5pider	4
 https://twitter.com/asi/status/1575764091872108544	4
 https://twitter.com/atrupar/status/1575108483984277504	3
+https://www.crowdstrike.com/blog/new-supply-chain-attack-leverages-comm100-chat-installer/	3
 https://www.bleepingcomputer.com/news/security/cisa-hackers-exploit-critical-bitbucket-server-flaw-in-attacks/	3
 https://www.virustotal.com/gui/file/ec6896542e726997e4e01d11f4fce88cb97ec59243f291966fb3ce48308041d8	3
 https://bit.ly/3r6IZY2	3
@@ -89,7 +91,6 @@ https://www.bleepingcomputer.com/news/security/fired-admin-cripples-former-emplo
 https://twitter.com/GossiTheDog/status/1575813395835547651	3
 https://twitter.com/EFF/status/1575565254850842624	3
 https://therecord.media/semiconductor-industry-faced-eight-attacks-from-ransomware-groups-extortion-gangs-in-2022/	3
-https://github.com/VNCERT-CC/0dayex-checker	3
 https://learn.microsoft.com/en-us/sysinternals/	3
 https://thehackernews.com/2022/09/researchers-uncover-covert-attack.html	3
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2310	3
@@ -121,6 +122,7 @@ https://www.reddit.com/r/nyc/comments/xs0el6/russian_consulate_this_morning/	3
 https://signal.tube/#talk.eff-activist-tools.com	3
 https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/hurricane-related-scams	3
 https://github.com/CodeXTF2/PyHmmm	3
+https://twitter.com/jwgoerlich/status/1575969626080825344	3
 https://www.bleepingcomputer.com/news/security/hacking-group-hides-backdoor-malware-inside-windows-logo-image/	3
 https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in	3
 https://thehackernews.com/2022/09/new-malware-campaign-targeting-job.html	3
