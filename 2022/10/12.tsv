@@ -5,10 +5,10 @@ https://www.bleepingcomputer.com/news/microsoft/all-windows-versions-can-now-blo
 https://gist.github.com/myrtus0x0/30eeaeb9cd051ba9250600cf69eff36f	9
 https://github.com/ORCx41/AtomPePacker	9
 https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/	8
+https://github.com/node-saml/passport-saml/security/advisories/GHSA-m974-647v-whv7	8
 https://thorcert.notion.site/ENG-TTPs-8-Operation-GWISIN-Analysis-on-Fully-Customized-Ransomware-Attack-Strategies-d17281d2de6143b18aa070e424122ef5	8
 https://www.horizon3.ai/fortinet-iocs-cve-2022-40684/	7
 https://twitter.com/MDSecLabs/status/1580128835336445952	7
-https://github.com/node-saml/passport-saml/security/advisories/GHSA-m974-647v-whv7	7
 https://rhynorater.github.io/postMessage-Braindump	7
 https://thehackernews.com/2022/10/critical-bug-in-siemens-simatic-plcs.html	6
 https://gynvael.coldwind.pl/?lang=en&id=754	6
@@ -44,6 +44,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-command-
 https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-lockbit-ransomware/	4
 https://twitter.com/metahorizon/status/1579947568372404226	4
 https://github.com/darkquasar/AzureHunter	4
+https://www.bleepingcomputer.com/news/technology/signal-will-remove-support-for-sms-text-messages-on-android/	4
 https://blog.intigriti.com/2022/10/12/bug-bytes-177/	4
 https://thehackernews.com/2022/10/hackers-using-vishing-tactics-to-trick.html	4
 https://twitter.com/StaySafeOnline/status/1579895613549748224	4
@@ -56,10 +57,13 @@ https://www.fortinet.com/blog/threat-research/ukrainian-excel-file-delivers-mult
 https://twitter.com/bailey_bickley/status/1579850135013822465	4
 https://www.darkreading.com/application-security/critical-open-source-vm2-sandbox-escape-bug-affects-millions	3
 https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys	3
+https://twitter.com/FortaliceLLC/status/1580233317869580288	3
 https://bit.ly/3MoIK4c	3
 https://chromereleases.googleblog.com/2022/10/stable-channel-update-for-desktop_11.html	3
+https://www.bleepingcomputer.com/news/security/critical-vm2-flaw-lets-attackers-run-code-outside-the-sandbox/	3
 https://www.securityweek.com/microsoft-warns-new-zero-day-no-fix-yet-exploited-exchange-server-flaws	3
 https://support.microsoft.com/en-us/topic/kb5020282-account-lockout-available-for-local-administrators-bce45c4d-f28d-43ad-b6fe-70156cb2dc00	3
+https://1password.com/for-journalism/	3
 https://www.theregister.com/2022/10/11/october_patch_tuesday/	3
 https://riskybiznews.substack.com/p/risky-biz-news-white-house-working	3
 https://r-7.co/3rPDuxd	3
@@ -73,6 +77,7 @@ https://www.axios.com/2022/10/11/google-mandiant-acquisition-plans	3
 https://thehackernews.com/2022/10/64000-additional-patients-impacted-by.html	3
 https://twitter.com/kylegriffin1/status/1580181494684794880	3
 https://twitter.com/StaySafeOnline/status/1580258296455303170	3
+https://www.bleepingcomputer.com/news/security/unofficial-whatsapp-android-app-caught-stealing-users-accounts/	3
 https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/?utm_campaign=Targeted%20Operations&utm_content=207458893&utm_medium=social&utm_source=linkedin&hss_channel=lcp-9478538	3
 https://www.fnn.jp/articles/-/423616	3
 https://github.com/xforcered/SQLRecon	3
@@ -95,6 +100,7 @@ https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-
 https://helpx.adobe.com/security/products/magento/apsb22-48.html	3
 https://twitter.com/defcon/status/1580053789503287296	3
 https://www.mandiant.com/resources/blog/attacker-visibility-threat-campaigns	3
+https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2022-patch-tuesday-fixes-zero-day-used-in-attacks-84-flaws/	3
 https://medium.com/@maldr0id/jonathan-scott-is-becoming-the-alex-jones-of-cybersecurity-4f6f79857905	3
 https://twitter.com/StaySafeOnline/status/1580266016134680576	3
 https://bbre.dev/39/2	3
@@ -104,7 +110,9 @@ http://cisa.gov/mfa	3
 https://github.com/Yamato-Security/EnableWindowsLogSettings/blob/main/ConfiguringSecurityLogAuditPolicies.md	3
 https://github.com/Yamato-Security/EnableWindowsLogSettings	3
 https://therecord.media/nsa-cisa-chiefs-warn-of-foreign-disinformation-threat-ahead-of-midterms/	3
+https://blog.xpnsec.com/unobfuscating-network-access-accounts/	3
 https://github.com/Yamato-Security/EnableWindowsLogSettings/blob/main/README-Japanese.md	3
+https://twitter.com/StaySafeOnline/status/1580268341608218624	3
 https://twitter.com/StaySafeOnline/status/1580263301602500610	3
 https://www.rapid7.com/blog/post/2022/10/07/cve-2022-40684-remote-authentication-bypass-vulnerability-in-fortinet-firewalls-web-proxies/	3
 https://ventureinsecurity.substack.com/p/open-source-in-cybersecurity-a-deep	3
