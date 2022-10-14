@@ -5,14 +5,15 @@ https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-i
 https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684	10
 https://twitter.com/chick3nman512/status/1580712040179826688	10
 https://www.boozallen.com/insights/cyber/chinas-cyberattack-strategy-explained.html	9
+https://www.microsoft.com/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/	9
 https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml	9
 https://security.macnica.co.jp/blog/2022/10/fortinetcve-2022-40684.html	9
+https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/	8
 https://www.intruder.io/research/in-guid-we-trust	8
 https://thehackernews.com/2022/10/poc-exploit-released-for-critical.html	7
 https://twitter.com/MarquardtA/status/1580700679810666496	7
 https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html	7
 https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/	7
-https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/	7
 https://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html	7
 https://airbus-seclab.github.io/netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf	6
 https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/	6
@@ -26,6 +27,7 @@ https://jobs.lever.co/redcanary/8831469a-7468-407a-bce4-64ce263c64ab	5
 http://docs.velociraptor.app/exchange/artifacts/pages/brc4/	5
 https://bitbucket.org/pro2pro/workspace/snippets/	5
 https://www.abc.net.au/news/2022-10-14/afp-data-leak-hackers-expose-drug-cartel-information/101535312	5
+https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html	5
 https://www.openwall.com/lists/oss-security/2022/10/13/5	5
 https://www.avira.com/en/blog/anatomy-of-an-exploit-in-windows-win32k-cve-2022-21882	5
 https://twitter.com/marquardta/status/1580700679810666496	5
@@ -36,14 +38,15 @@ https://github.com/DarkCoderSc/PsyloDbg	4
 https://posts.bluraven.io/detecting-dll-hijacking-attacks-part-1-bdb354685164	4
 https://github.com/embee-research/IcedID	4
 https://www.bleepingcomputer.com/news/security/new-alchimist-attack-framework-targets-windows-macos-linux/	4
+https://bazaar.abuse.ch/sample/3b409b4b2e9fd7777c918e0af108766a16d6fc5adfd604f879d6136c1eb01c68/	4
 https://www.phoenixbooks.biz/book/9781982157357	4
 https://satellitemap.space	4
 https://twitter.com/vermontgmg/status/1580949199151325184	4
 https://m.youtube.com/watch?v=mgFlSUr9a2M	4
 https://github.com/malwarejake-public/conference-presentations/blob/main/Equilateral%20of%20Exclusion%20Risk%20Whitepaper.pdf	4
 https://twitter.com/MsftSecIntel/status/1580998124721823745	4
-https://www.microsoft.com/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/	4
 https://posts.bluraven.io/hunting-for-the-behavior-scheduled-tasks-9efe0b8ade40	4
+https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB02_14.10.2022.txt	4
 https://www.inversecos.com/2022/10/how-to-investigate-insider-threats.html	4
 https://thehackernews.com/2022/10/mirai-botnet-hits-wynncraft-minecraft.html	4
 https://posts.bluraven.io/threat-hunting-with-data-science-registry-run-keys-9ae329d1ad85	4
@@ -74,6 +77,7 @@ https://twitter.com/dim0kq/status/1580827171903635456	3
 https://twitter.com/malcomvetter/status/1580895768885743616	3
 https://www.bleepingcomputer.com/news/security/unofficial-whatsapp-android-app-caught-stealing-users-accounts/	3
 https://github.com/ANSSI-FR/DFIR4vSphere	3
+https://app.netlas.io/responses/?q=tag.name%3A(fortinet%20OR%20fortigate_vpn)&page=1&indices=	3
 https://arstechnica.com/information-technology/2022/10/how-a-microsoft-blunder-opened-millions-of-pcs-to-potent-malware-attacks/	3
 https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/?td=rt-3a	3
 https://twitter.com/d0nutptr/status/1581009580561047552	3
@@ -84,7 +88,6 @@ https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-record-ddos-
 http://www.kitploit.com/2022/10/fud-uuid-shellcode-another-shellcode.html	3
 https://twitter.com/disclosetv/status/1580871986795843584	3
 https://www.eventbrite.co.uk/e/430209075927	3
-https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html	3
 https://github.com/zaproxy/zaproxy	3
 https://www.eventbrite.co.uk/e/429692661317	3
 https://twitter.com/kimzetter/status/1580905565043032065	3
@@ -93,6 +96,7 @@ https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm	3
 https://www.businessinsider.com/elon-musk-blocks-starlink-in-crimea-amid-nuclear-fears-report-2022-10?utm_source=reddit.com&r=US&IR=T	3
 https://github.com/Philesiv/XSLeaker	3
 https://www.1011now.com/2022/10/13/chi-health-announces-system-outages-due-ransomware-attack/	3
+https://github.com/zyn3rgy/ClickonceHunter	3
 https://thehackernews.com/2022/10/new-chinese-malware-attack-framework.html	3
 https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0	3
 https://www.washingtonpost.com/politics/2022/10/14/here-next-phase-biden-plan-fortify-industry-cyberdefenses/	3
@@ -106,6 +110,7 @@ https://twitter.com/dcuthbert/status/1580558022576726017	3
 https://www.eventbrite.co.uk/e/429553485037	3
 https://twitter.com/fo0_/status/1580146963579740160	3
 https://www.nisc.go.jp/pdf/press/20221014NISC_press.pdf	3
+https://msft.it/6013duZQz	3
 https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop	3
 https://twitter.com/cyberwarcon/status/1579851800290922496	3
 https://twitter.com/MalwareJake/status/1580954162614763520	3
