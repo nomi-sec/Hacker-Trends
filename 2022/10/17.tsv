@@ -1,7 +1,7 @@
+https://blog.xpnsec.com/wam-bam/	12
 http://demo.yubico.com	11
 https://cube0x0.github.io/Relaying-YubiKeys-Part-2/	11
 https://nvd.nist.gov/vuln/detail/CVE-2022-42889	10
-https://blog.xpnsec.com/wam-bam/	10
 https://cramppet.github.io/regulator/index.html	9
 https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-2/	9
 https://github.com/embee-research/Yara	8
@@ -20,6 +20,7 @@ https://microsoft.com/security/blog/2022/10/14/new-prestige-ransomware-impacts-o
 https://twitter.com/dee__see/status/1497595534638522374	5
 https://github.com/silverhack/monkey365	5
 https://tria.ge/221017-rtlabsccck/behavioral6	5
+https://www.malwarebytes.com/blog/threat-intelligence/2022/10/winnti-apt-group-docks-in-sri-lanka-for-new-campaign	5
 https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html	5
 https://bazaar.abuse.ch/browse/tag/obama213/	5
 https://bazaar.abuse.ch/sample/c4973576e98f03801bb6f61a09bc7704b1589b5c1fb795f73e8c4d473a8f2217/	5
@@ -27,6 +28,7 @@ https://fortinet.com/blog/threat-research/ransomware-roundup-royal-ransomware	5
 https://cloudsek.com/technical-analysis-of-bluesky-ransomware/	5
 https://twitter.com/wimremes/status/1580968085145546762	5
 https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-the-blink-of-an-eye	5
+https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/	5
 https://www.itmedia.co.jp/news/articles/2210/17/news035.html	4
 https://attack.mitre.org/techniques/T1531/	4
 https://www.docomo.ne.jp/info/news_release/2022/10/17_00.html	4
@@ -35,7 +37,6 @@ https://securitylab.github.com/advisories/GHSL-2022-018_Apache_Commons_Text/	4
 https://github.com/daem0nc0re/AtomicSyscall#syscallpocs	4
 https://securityaffairs.co/wordpress/137230/hacking/bulgaria-hit-cyber-attack-russia.html	4
 https://github.com/RansomLook/RansomLook	4
-https://www.malwarebytes.com/blog/threat-intelligence/2022/10/winnti-apt-group-docks-in-sri-lanka-for-new-campaign	4
 https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html	4
 https://mrd0x.com/phishing-with-chromium-application-mode	4
 https://www.microsoft.com/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/	4
@@ -43,8 +44,8 @@ https://www.cyberscoop.com/2022-cyberscoop-50-award-winners/	4
 https://buff.ly/3APetra	4
 https://attack.mitre.org/techniques/T1485/	4
 https://www.corellium.com/blog/debugging-ios-code-corellium	4
+https://www.wsj.com/articles/u-s-has-made-dramatic-change-in-technology-used-for-nuclear-code-system-11665758981	4
 https://github.com/shieldfy/API-Security-Checklist	4
-https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/	4
 https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/	4
 https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/	4
 https://twitter.com/selenalarson/status/1579934325692592129	4
@@ -97,7 +98,6 @@ https://www.washingtonpost.com/washington-post-live/2022/10/19/rep-langevin-dmit
 https://www.trustedsec.com/blog/practical-attacks-against-ntlmv1/	3
 https://securityaffairs.co/wordpress/137252/malware/black-lotus-uefi-rootkit.html	3
 http://cisa.gov/mfa	3
-https://www.wsj.com/articles/u-s-has-made-dramatic-change-in-technology-used-for-nuclear-code-system-11665758981	3
 https://ezrabuckingham.com/blog/containerizing-red-team-infra/	3
 https://twitter.com/stoerchl/status/1580811573072777217	3
 https://youtu.be/yffOjRhvhZw	3
