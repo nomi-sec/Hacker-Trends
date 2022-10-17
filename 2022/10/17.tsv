@@ -1,7 +1,8 @@
 http://demo.yubico.com	11
 https://cube0x0.github.io/Relaying-YubiKeys-Part-2/	11
+https://nvd.nist.gov/vuln/detail/CVE-2022-42889	10
+https://blog.xpnsec.com/wam-bam/	10
 https://cramppet.github.io/regulator/index.html	9
-https://nvd.nist.gov/vuln/detail/CVE-2022-42889	9
 https://www.cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-2/	9
 https://github.com/embee-research/Yara	8
 https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/	8
@@ -10,7 +11,6 @@ https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attac
 https://saajanbhujel.medium.com/how-i-got-10-000-from-github-for-bypassing-filtration-of-html-tags-db31173c8b37	7
 https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2022_10_Hexacon/Hexacon22_Hunting_For_Cloudy_SSRFs.pptx?raw=true	7
 https://www.washingtonpost.com/politics/2022/10/17/chinese-hackers-are-scanning-state-political-party-headquarters-fbi-says/	7
-https://blog.xpnsec.com/wam-bam/	7
 https://drive.google.com/file/d/1HEaQ3o1kSnrzMCec1aiYMkWYQZg7Vjb3/view?usp=sharing	7
 https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html	7
 https://unit42.paloaltonetworks.com/ransom-cartel-ransomware/	6
@@ -28,7 +28,9 @@ https://cloudsek.com/technical-analysis-of-bluesky-ransomware/	5
 https://twitter.com/wimremes/status/1580968085145546762	5
 https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-the-blink-of-an-eye	5
 https://www.itmedia.co.jp/news/articles/2210/17/news035.html	4
+https://attack.mitre.org/techniques/T1531/	4
 https://www.docomo.ne.jp/info/news_release/2022/10/17_00.html	4
+https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/	4
 https://securitylab.github.com/advisories/GHSL-2022-018_Apache_Commons_Text/	4
 https://github.com/daem0nc0re/AtomicSyscall#syscallpocs	4
 https://securityaffairs.co/wordpress/137230/hacking/bulgaria-hit-cyber-attack-russia.html	4
@@ -39,8 +41,11 @@ https://mrd0x.com/phishing-with-chromium-application-mode	4
 https://www.microsoft.com/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/	4
 https://www.cyberscoop.com/2022-cyberscoop-50-award-winners/	4
 https://buff.ly/3APetra	4
+https://attack.mitre.org/techniques/T1485/	4
 https://www.corellium.com/blog/debugging-ios-code-corellium	4
+https://github.com/shieldfy/API-Security-Checklist	4
 https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/	4
+https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/	4
 https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/	4
 https://twitter.com/selenalarson/status/1579934325692592129	4
 https://twitter.com/KimZetter/status/1582036647343841280	4
@@ -51,12 +56,11 @@ https://www.jpcert.or.jp/at/2022/at220025.html	3
 https://github.com/Static-Flow/BurpSuite-Team-Extension	3
 https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md	3
 https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html	3
-https://attack.mitre.org/techniques/T1531/	3
 https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2022/	3
 https://twitter.com/malwrhunterteam/status/1581214412261982209	3
 http://cisa.gov/cybersecurity-awareness-month	3
 https://www.coindesk.com/business/2022/10/15/114m-mango-markets-exploiter-outs-himself-returns-most-of-the-money/	3
-https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/	3
+https://www.cyberscoop.com/inglis-previews-national-cyber-strategy/	3
 https://www.sans.org/u/1n6x	3
 https://bazaar.abuse.ch/browse/tag/Npinmclaugh11-com/	3
 https://twitter.com/jorgeorchilles/status/1582025000541859840	3
@@ -88,7 +92,6 @@ https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Studien/SiSyPHuS_Win10/TMF
 https://www.securityweek.com/fortinet-admits-many-devices-still-unprotected-against-exploited-vulnerability	3
 https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/	3
 https://hubs.la/Q01pV_9f0	3
-https://attack.mitre.org/techniques/T1485/	3
 https://www.helpnetsecurity.com/2022/10/17/security-stack-consolidation-video/	3
 https://www.washingtonpost.com/washington-post-live/2022/10/19/rep-langevin-dmitri-alperovitch-cybersecurity-national-economy/	3
 https://www.trustedsec.com/blog/practical-attacks-against-ntlmv1/	3
@@ -96,12 +99,10 @@ https://securityaffairs.co/wordpress/137252/malware/black-lotus-uefi-rootkit.htm
 http://cisa.gov/mfa	3
 https://www.wsj.com/articles/u-s-has-made-dramatic-change-in-technology-used-for-nuclear-code-system-11665758981	3
 https://ezrabuckingham.com/blog/containerizing-red-team-infra/	3
-https://github.com/shieldfy/API-Security-Checklist	3
 https://twitter.com/stoerchl/status/1580811573072777217	3
 https://youtu.be/yffOjRhvhZw	3
 https://urlhaus.abuse.ch/url/2376490/	3
 http://forensicitguy.github.io/pecheck-malware-weight-loss	3
-https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/	3
 https://twitter.com/58_158_177_102/status/1580834308398673925	3
 https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html	3
 https://www.sentinelone.com/labs/wip19-espionage-new-chinese-apt-targets-it-service-providers-and-telcos-with-signed-malware/	3
