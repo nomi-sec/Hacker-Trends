@@ -10,11 +10,11 @@ https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c5
 https://www.microsoft.com/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/	7
 https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/	7
 https://www.welivesecurity.com/2022/10/20/domestic-kitten-campaign-spying-iranian-citizens-furball-malware/	7
+https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/	6
 https://buckets.grayhatwarfare.com/bucket/507619/0	6
 https://blog.gigamon.com/2022/10/19/an-osint-analysis-of-x509-certificates-part-one-something-seems-phishy/	6
 https://thehackernews.com/2022/10/latest-ursnif-variant-shifts-focus-from.html	6
 https://bazaar.abuse.ch/sample/9ffd782dc0ff611a67170546287213e7ff90f9eff32faa573493c0b1d28b980b/	5
-https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/	5
 https://bazaar.abuse.ch/sample/19ff7eb3e2f7eef435ef2ed4b2c5a45dcd3ae218ae7b1f52b528a0c7d383ce6b/	5
 https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-1	5
 https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/	5
@@ -26,6 +26,7 @@ https://blog.orange.tw/2022/10/proxyrelay-a-new-attack-surface-on-ms-exchange-pa
 https://thehackernews.com/2022/10/these-16-clicker-malware-infected.html	5
 https://twitter.com/wimremes/status/1580968085145546762	5
 https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/	5
+https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/	5
 https://thehackernews.com/2022/10/hackers-using-new-version-of-furball.html	5
 https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html	5
 https://bazaar.abuse.ch/browse/tag/95-216-170-17/	4
@@ -34,11 +35,13 @@ https://thehackernews.com/2022/10/google-launches-guac-open-source.html	4
 http://media.defcon.org	4
 https://mouha.be/sha-3-buffer-overflow/	4
 https://twitter.com/UK_Daniel_Card/status/1582985128384819200	4
+https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/	4
 https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8	4
 https://securityconversations.com/episode/charlie-miller-on-hacking-iphones-macbooks-jeep-and-self-driving-cars/	4
 https://twitter.com/SCHIZO_FREQ/status/1582883834626203649	4
 https://hubs.la/Q01qgVGd0	4
 https://twitter.com/ryanaraine/status/1583133238263808011	4
+https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/	4
 https://isc2japanchapter.connpass.com/event/263662/	4
 https://securityaffairs.co/wordpress/137371/security/millions-git-folders-exposed-public.html	4
 https://twitter.com/renniepak/status/1582310177390223360	4
@@ -46,7 +49,6 @@ https://twitter.com/CNN/status/1185873576391577600	4
 https://powerofcommunity.net/schedule.htm	4
 https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage?tabs=azure-portal	4
 https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/	4
-https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/	4
 https://www.darkreading.com/cloud/microsoft-customer-data-exposed-by-misconfigured-server	3
 https://github.com/SigmaHQ/sigma/blob/11164849b3595a427c4ee9c5fe8ccfa3d78aa989/rules/windows/process_creation/win_trust_discovery.yml	3
 https://github.com/Porchetta-Industries/CrackMapExec/pull/654	3
@@ -62,7 +64,6 @@ http://github.com/cisagov/ScubaGear	3
 https://gist.github.com/mpgn/100ae809fde94ac58f4bc610580f705b	3
 https://www.cyberscoop.com/rob-joyce-nsa-cyber-intel-sharing/	3
 https://twitter.com/0xToxin/status/1570501991306231808	3
-https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/	3
 https://twitter.com/AdamCBanks	3
 https://twitter.com/TechSpective/status/1583109552966246400	3
 https://www.bleepingcomputer.com/news/security/microsoft-leaked-customer-data-from-misconfigured-azure-storage/	3
@@ -72,7 +73,6 @@ https://kas.pr/qf1t	3
 https://twitter.com/LindseyBresnick	3
 https://tria.ge/221020-wgjcesgce6/behavioral2	3
 https://youtu.be/MH5dxa5Tu4Y	3
-https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/	3
 https://twitter.com/ky1ebot/status/1582869767097970688	3
 https://2022.hexacon.fr/conference/speakers/	3
 https://www.enisa.europa.eu/publications/coordinated-vulnerability-disclosure-policies-in-the-eu	3
