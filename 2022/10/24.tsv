@@ -1,6 +1,6 @@
 https://medium.com/csis-techblog/chapter-1-from-gozi-to-isfb-the-history-of-a-mythical-malware-family-82e592577fef	20
 https://blog.kylebot.net/2022/10/22/angry-FSROP/	14
-https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/	9
+https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/	10
 https://www.x86matthew.com/view_post?id=shared_mem_utils	9
 https://www.intrinsec.com/apt27-analysis/	8
 https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html	7
@@ -13,6 +13,7 @@ https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/	6
 https://bazaar.abuse.ch/sample/4df936e24707cbb9332c99488a20f5fa0f9e0ac5cc3a2ea4d509f3539ea79200/	6
 https://www.sans.org/u/1nf5	6
 https://www.bleepingcomputer.com/news/security/pendragon-car-dealer-refuses-60-million-lockbit-ransomware-demand/	6
+https://twitter.com/j_opdenakker/status/1584607173211959296	6
 https://youtu.be/NvS67qiq8bw?t=1	6
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB04_24.10.2022.txt	6
 https://twitter.com/0xDISREL/status/1544482838279585794	6
@@ -22,7 +23,6 @@ https://twitter.com/EliotHiggins/status/1584607815968395264	5
 https://portswigger.net/research/browser-powered-desync-attacks	5
 https://www.bellingcat.com/news/uk-and-europe/2022/10/24/the-remote-control-killers-behind-russias-cruise-missile-strikes-on-ukraine/	5
 https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html	5
-https://twitter.com/j_opdenakker/status/1584607173211959296	5
 https://www.bloomberg.com/news/articles/2022-10-24/chinese-spies-tried-to-obstruct-probe-of-a-telecom-us-alleges	5
 https://blogs.blackberry.com/en/2022/10/unattributed-romcom-threat-actor-spoofing-popular-apps-now-hits-ukrainian-militaries	5
 https://www.virusbulletin.com/uploads/pdf/conference/vb2022/papers/VB2022-Exploit-archaeology-a-forensic-history-of-in-the-wild-NSO-Group-exploits.pdf	5
@@ -51,6 +51,7 @@ https://tria.ge/221024-qc6n9sgfg6	4
 http://www.whsgwl.net/images/NtosKrnl_ALPC_UAF_AlpcpMapLegacyPortView.pdf	4
 https://app.any.run/tasks/14067504-3ad7-49b3-add5-d8bf09d3077a	4
 https://tria.ge/221024-qlx4gsggc8	4
+https://www.zscaler.com/blogs/security-research/warhawk-new-backdoor-arsenal-sidewinder-apt-group-0	4
 https://tria.ge/221024-qb9pjaghbm	4
 https://twitter.com/FatManTerra/status/1583861384114483200	4
 https://bazaar.abuse.ch/sample/932d7ae8482eee2509bdecb13ad9f11c4ad3441b4a149e514a78f0553c5c7fc4/	4
@@ -64,11 +65,13 @@ https://bazaar.abuse.ch/browse/tag/bitone9090-duckdns-org/	3
 https://twitter.com/GossiTheDog/status/1584562549231865858	3
 https://github.com/six2dez/reconftw/releases/tag/v2.5	3
 http://slowroads.io	3
+https://www.vx-underground.org/malware_defense.html#malware_analysis	3
 https://www.sans.org/u/1n4w	3
 https://twitter.com/AgidCert/status/1584544319821996036	3
 https://blck.by/3SpBerf	3
 https://bazaar.abuse.ch/browse/tag/agenziaentrate/	3
 https://github.com/3sjay/sploits/blob/main/aukey-wr-01-RCE-0day.py	3
+https://app.any.run/tasks/c0ecc5af-e4b5-440f-92ea-38eadb9d7d37	3
 https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/	3
 https://app.any.run/tasks/da3eded9-e734-4d0a-ab91-9cf504e38f54	3
 https://www.justice.gov/opa/pr/two-arrested-and-13-charged-three-separate-cases-alleged-participation-malign-schemes-united	3
@@ -89,9 +92,9 @@ https://s3.documentcloud.org/documents/23178959/govuscourtsnyed48750610_1.pdf	3
 https://www.justice.gov/live	3
 https://twitter.com/idclickthat/status/1583092393665961985	3
 https://twitter.com/campuscodi/status/1584402553780969473	3
+https://twitter.com/bbqsec/status/1584218433566040064	3
 https://twitter.com/appltrack/status/1584249350989164544	3
 https://risky.biz/RBNEWS72/	3
-https://www.zscaler.com/blogs/security-research/warhawk-new-backdoor-arsenal-sidewinder-apt-group-0	3
 https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/	3
 https://github.com/ReCryptLLC/CVE-2022-42045	3
 https://www.youtube.com/watch?v=9hC15PzcQgc	3
