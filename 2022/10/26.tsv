@@ -3,9 +3,9 @@ https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-a
 https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections	15
 https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html	13
 https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/	9
+https://www.blackhat.com/html/webcast/11102022-backdooring-and-hijacking-azure-ad-accounts.html	9
 https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/	9
 https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html	9
-https://www.blackhat.com/html/webcast/11102022-backdooring-and-hijacking-azure-ad-accounts.html	8
 https://www.inversecos.com/2022/10/recovering-cleared-browser-history.html	8
 https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html	8
 https://tria.ge/221026-sf581sgad4	8
@@ -19,6 +19,7 @@ https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-mi
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-vulnerable-driver-blocklist-sync-issue/	6
 https://medium.com/s2wblog/unveil-the-evolution-of-kimsuky-targeting-android-devices-with-newly-discovered-mobile-malware-280dae5a650f	6
 https://app.any.run/tasks/6026bff8-0cdb-4a86-a856-c8dc01983214	6
+https://twitter.com/pr0xylife/status/1584913021364838400	5
 https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/	5
 https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html	5
 https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/	5
@@ -30,7 +31,6 @@ https://www.justice.gov/usao-ndga/pr/hacker-and-dark-market-operator-arraigned-f
 https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/	5
 https://www.reuters.com/markets/deals/musk-expected-close-twitter-deal-by-friday-bloomberg-news-2022-10-25/	5
 https://threatfox.abuse.ch/browse/	5
-https://twitter.com/pr0xylife/status/1584913021364838400	4
 https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf	4
 https://twitter.com/idclickthat/status/1581331170406432769	4
 https://www.bleepingcomputer.com/news/security/hive-claims-ransomware-attack-on-tata-power-begins-leaking-data/	4
@@ -64,12 +64,15 @@ https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accesse
 https://raccoon.ic3.gov/home	3
 https://www.infosecurity-magazine.com/news/see-tickets-discloses-major-card/	3
 https://github.com/NozomiNetworks/upx-recovery-tool	3
+https://boschko.ca/glinet-router/	3
 https://programmingwithstyle.com/posts/howihackedmycar/	3
 https://twitter.com/Kostastsale/status/1585000374628659200	3
 https://www.fujifilm.com/ffis/ja/news/116	3
 https://www.sans.org/u/1m1Q	3
 https://youtu.be/0GxsUS1P5xs	3
+https://support.apple.com/en-us/HT213489	3
 https://go.shr.lc/3f0k2ex	3
+https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB04_26.10.2022.txt	3
 https://alyssa.link/podcast	3
 https://github.com/blackorbird/APT_REPORT/blob/master/NSOGroup/VB2022-Exploit-archaeology-a-forensic-history-of-in-the-wild-NSO-Group-exploits.pdf	3
 https://www.justice.gov/opa/pr/attorney-general-garland-announces-revised-justice-department-news-media-policy	3
@@ -77,6 +80,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-server-manager-disk-re
 https://bazaar.abuse.ch/browse/tag/allsoftware-cloud/	3
 https://twitter.com/sheasecurity/status/1585176011049959424	3
 https://redsiege.com/wedoff	3
+https://twitter.com/morningbrew/status/1584976046197071873	3
 https://github.com/pr0xylife/IcedID/blob/main/icedID_25.10.2022.txt	3
 https://twitter.com/brotaminz/status/1584848278478524416	3
 https://www.youtube.com/watch?v=CKfjLnEMfvI	3
@@ -85,6 +89,7 @@ https://www.cyberscoop.com/china-midterms-elections-influence-nord-hacking/	3
 https://www.helpnetsecurity.com/2022/10/26/irisscert-conference-2022-dublin/	3
 https://twitter.com/HillebrandMax/status/1585021052899700736	3
 https://www.washingtonpost.com/politics/2022/10/26/ftc-is-doing-more-protect-data-some-its-still-not-enough/	3
+https://www.bleepingcomputer.com/news/security/linkedins-new-security-features-combat-fake-profiles-threat-actors/	3
 https://twitter.com/blackorbird/status/1509795869218205696	3
 https://bazaar.abuse.ch/sample/bf57c2fa6f6c71786b18a43c2e0979c305d21a7dba7b206d6eca29dbe3c49799/	3
 https://twitter.com/daytechhistory/status/1584877443193614336	3
@@ -96,12 +101,14 @@ https://programmingwithstyle.com/posts/howihackedmycarpart3/	3
 https://www.tarlogic.com/blog/token-handles-abuse-one-shell-to-handle-them-all/	3
 http://ow.ly/k9kP50Lj4uw	3
 https://twitter.com/ednas/status/1585073090857299969	3
+https://bazaar.abuse.ch/sample/0c2daa1e8963899e94fc82739ab9334c50101d94ddf46621a682c544bacf5225/	3
 https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html	3
 https://therecord.media/internet-is-shut-down-in-sudan-on-anniversary-of-military-coup/	3
 https://twitter.com/sourceincite/status/1585054720078794752	3
 https://www.instagram.com/p/CkLsYr3jli5/	3
 https://msft.it/6011dwHL5	3
 http://cisa.gov/mfa	3
+https://bazaar.abuse.ch/sample/972a961e826745cfd530e9d409a603ebfefd4cc687354868847cdbe785a91bc8/	3
 https://www.justice.gov/usao-wdtx/pr/newly-unsealed-indictment-charges-ukrainian-national-international-cybercrime-operation	3
 https://programmingwithstyle.com/posts/howihackedmycarpart2/	3
 https://ift.tt/j4EiyFd	3
