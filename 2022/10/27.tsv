@@ -1,13 +1,13 @@
 https://www.youtube.com/channel/UCtzuVwPhBVFAQnes0NrqxBA/videos	19
 https://twitter.com/nypost/status/1585629621521100801	18
 https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits	17
-https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/	12
+https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/	13
 https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop	12
 https://learn.microsoft.com/en-us/sysinternals/	11
 https://msft.it/6011djXFR	11
 https://twitter.com/MsftSecIntel/status/1585663867178434560	11
+https://security.apple.com	10
 https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf	10
-https://security.apple.com	9
 https://twitter.com/msftsecintel/status/1585663867178434560	9
 https://security.apple.com/blog/apple-security-bounty-upgraded/	9
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/	8
@@ -21,6 +21,7 @@ https://boschko.ca/glinet-router/	6
 https://www.immunit.ch/blog/2022/10/26/ethernet-ghosting-nac-bypass/	6
 https://github.com/secureworks/TokenMan	6
 https://www.washingtonpost.com/politics/2022/10/27/china-strives-ramp-up-election-influence-this-year/	6
+https://twitter.com/Malwarebytes/status/1585748974862061570	6
 https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html	6
 https://bazaar.abuse.ch/sample/91bd47bc55fc258b74303067c506b578ecb57d0c709aea354d83c83391e3925d/	6
 https://youtu.be/MK7N7uQTUNY	6
@@ -29,9 +30,10 @@ https://bazaar.abuse.ch/browse/tag/1666776497/	6
 https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html	5
 https://www.sans.org/u/1m1L	5
 https://gritdaily.com/pr-crisis-paypal/	5
+https://www.cisa.gov/uscert/ncas/tips/ST04-002	5
 https://thehackernews.com/2022/10/apple-ios-and-macos-flaw-couldve-let.html	5
-https://twitter.com/Malwarebytes/status/1585748974862061570	5
 https://thehackernews.com/2022/10/australian-health-insurer-medibank.html	5
+https://twitter.com/rawsalerts/status/1585046090742890497	5
 http://sysinternals.com	5
 https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html	5
 https://techcommunity.microsoft.com/t5/sysinternals-blog/process-explorer-v17-0-handle-v5-0-process-monitor-v3-92-and/ba-p/3663465	5
@@ -49,12 +51,11 @@ https://www.sans.org/u/1mpt	4
 http://cisa.gov/cpgs	4
 https://www.pepperclipp.com/other-articles/dump-lsass-when-debug-privilege-is-disabled	4
 https://youtu.be/0GxsUS1P5xs	4
-https://www.cisa.gov/uscert/ncas/tips/ST04-002	4
 https://threatfox.abuse.ch/ioc/950935/	4
-https://twitter.com/rawsalerts/status/1585046090742890497	4
 https://speakerdeck.com/takahiro_haruyama/tracking-the-entire-iceberg-long-term-apt-malware-c2-protocol-emulation-and-scanning	4
 https://www.bleepingcomputer.com/news/security/linkedins-new-security-features-combat-fake-profiles-threat-actors/	4
 https://thehackernews.com/2022/10/researchers-expose-over-80-shadowpad.html	4
+https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673	4
 https://bazaar.abuse.ch/sample/21e31f41cf14aa72f835b7698ef7284dae89c3d1113e81a1fe1ccd0e474bbd76/	4
 https://threatfox.abuse.ch/ioc/950910/	4
 https://twitter.com/elonmusk/status/1585619322239561728	4
@@ -93,7 +94,6 @@ https://securityaffairs.co/wordpress/137673/data-breach/see-tickets-data-breach.
 https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/	3
 https://www.nature.com/articles/d41586-022-00403-0	3
 https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/	3
-https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673	3
 https://twitter.com/ValerieComplex/status/1585316881371525121	3
 https://cyberknow.substack.com/p/australia-cyber-landscape-24-september	3
 https://misp.github.io/misp-modules/expansion/#variotdbs	3
@@ -107,6 +107,7 @@ https://twitter.com/pr0xylife/status/1585364758836150272	3
 https://twitter.com/hackerxbella/status/1585285671022989312	3
 https://thehackernews.com/2022/10/new-cryptojacking-campaign-targeting.html	3
 https://www.reconinfosec.com/thursday-defensive/	3
+http://sans.org/u/1n4w	3
 https://twitter.com/elonmusk/status/1585341984679469056	3
 https://therecord.media/major-german-energy-supplier-hit-by-cyberattack/	3
 https://www.trustedsec.com/blog/practical-attacks-against-ntlmv1/	3
@@ -117,4 +118,5 @@ https://github.com/epi052/feroxfuzz	3
 https://therecord.media/google-backs-senate-bill-on-securing-open-source-software/	3
 https://www.cnn.com/videos/politics/2022/10/26/voting-machine-election-clerk-griffin-pkg-ac360-contd-vpx.cnn	3
 https://www.smh.com.au/technology/medical-lab-took-five-months-to-disclose-data-breach-20221027-p5btfu.html	3
+https://github.com/apple/darwin-xnu/blob/a1babec6b135d1f35b2590a1990af3c5c5393479/bsd/miscfs/specfs/spec_vnops.c#L865	3
 https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction	3
