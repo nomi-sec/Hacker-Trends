@@ -11,12 +11,13 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cranefl
 https://twitter.com/funwithstuff/status/1585850262656143360	8
 https://cybernews.com/security/thomson-reuters-leaked-terabytes-sensitive-data/	7
 https://medium.com/@numencyberlabs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf	7
+https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis	7
 https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html	7
 https://security.apple.com/blog/apple-security-bounty-upgraded/	7
 https://www.twilio.com/blog/august-2022-social-engineering-attack	6
 https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html	6
 https://github.com/numencyber/VulnerabilityPoC	6
-https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis	6
+https://twitter.com/KyleHanslovan/status/1586070009532522496	6
 https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits	6
 https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation	6
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part	5
@@ -24,7 +25,6 @@ https://specterops.io/news/new-training-course-announcement-active-directory-sec
 https://www.virustotal.com/gui/file/21779c0cbd36798d3dbaf1efb1bf0897a8404aaad77f7512892070d2d717a413/detection	5
 https://tria.ge/221028-cwl73sefdl/behavioral1	5
 https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/	5
-https://twitter.com/KyleHanslovan/status/1586070009532522496	5
 https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html	5
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-domain-joins-may-fail-after-october-updates/	5
 https://tria.ge/221028-cwl73sefdl	5
@@ -60,6 +60,7 @@ https://github.com/shieldfy/API-Security-Checklist	4
 https://thehackernews.com/2022/10/these-dropper-apps-on-play-store.html	4
 https://www.bleepingcomputer.com/news/security/largest-eu-copper-producer-aurubis-suffers-cyberattack-it-outage/	4
 https://github.com/apple/darwin-xnu/blob/a1babec6b135d1f35b2590a1990af3c5c5393479/bsd/miscfs/specfs/spec_vnops.c#L865	4
+https://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/	3
 https://bazaar.abuse.ch/browse/tag/bitone9090-duckdns-org/	3
 https://www.youtube.com/channel/UCtzuVwPhBVFAQnes0NrqxBA/videos	3
 https://techcrunch.com/2022/10/27/amazon-prime-video-server-exposed/	3
@@ -99,6 +100,7 @@ https://www.youtube.com/playlist?list=PLiEHUFG7koLsvukxg6wI1yaXRl_pmh3PZ	3
 https://www.bleepingcomputer.com/news/microsoft/microsoft-onedrive-crashes-because-of-recent-windows-10-updates/	3
 https://www.hub.trimarcsecurity.com/post/wild-west-hackin-fest-toolshed-talk-locksmith	3
 https://twitter.com/0xToxin/status/1584611253481533440	3
+https://twitter.com/jilltwiss/status/1585845328372273152	3
 https://security.apple.com/bounty/	3
 https://netblocks.org/reports/internet-disrupted-in-iran-amid-protests-over-death-of-mahsa-amini-X8qVEwAD	3
 https://dashboard.shadowserver.org/statistics/combined/tree/?day=2022-10-26&source=population&tag=teamviewer&geo=all&data_set=count&scale=log	3
