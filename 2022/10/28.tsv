@@ -2,10 +2,10 @@ https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulner
 https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html	15
 https://twitter.com/elonmusk/status/1585841080431321088	9
 https://www.washingtonpost.com/technology/2022/10/27/twitter-elon-musk/	9
+https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/	9
 https://www.zdnet.com/article/openssl-warns-of-critical-security-vulnerability-with-upcoming-patch/	9
 https://security.apple.com	8
 https://github.com/Accenture/Spartacus	8
-https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/	8
 https://twitter.com/malwarebytes/status/1585748974862061570	8
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cranefly-new-tools-technique-geppei-danfuan	8
 https://twitter.com/funwithstuff/status/1585850262656143360	8
@@ -17,6 +17,7 @@ https://www.twilio.com/blog/august-2022-social-engineering-attack	6
 https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html	6
 https://github.com/numencyber/VulnerabilityPoC	6
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis	6
+https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits	6
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part	5
 https://specterops.io/news/new-training-course-announcement-active-directory-security-fundamentals/	5
 https://www.virustotal.com/gui/file/21779c0cbd36798d3dbaf1efb1bf0897a8404aaad77f7512892070d2d717a413/detection	5
@@ -24,7 +25,6 @@ https://tria.ge/221028-cwl73sefdl/behavioral1	5
 https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/	5
 https://twitter.com/KyleHanslovan/status/1586070009532522496	5
 https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html	5
-https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits	5
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-domain-joins-may-fail-after-october-updates/	5
 https://tria.ge/221028-cwl73sefdl	5
 https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation	5
@@ -37,6 +37,7 @@ https://poliisi.fi/en/-/one-person-remanded-in-absentia-for-vastaamo-hacking-inc
 https://www.jc3.or.jp/threats/topics/article-462.html	4
 https://www.avtokyo.org/avtokyo2022/registration	4
 https://www.virustotal.com/gui/file/5c5945344f52ab9a2b1ca0a89c6da8a0c44e0435382286f6fabcd6eb92d4956b/detection	4
+https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module	4
 https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/	4
 https://portswigger.net/blog/coming-very-soon-dastardly-from-burp-suite	4
 https://github.com/D1rkMtr/IORI_Loader	4
@@ -45,9 +46,11 @@ https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html	4
 https://securityonline.info/cve-2022-3723-google-chrome-0-day-vulnerability/	4
 https://theintercept.com/2022/10/28/iran-protests-phone-surveillance/	4
 https://tria.ge/221028-l6wc6sfcd5/behavioral12	4
+https://learn.microsoft.com/en-us/security/compass/incident-response-playbooks	4
 http://www.cisa.gov/mfa	4
 https://security.apple.com/	4
 https://www.bellingcat.com/resources/2022/10/28/how-we-geolocated-a-photo-of-a-russian-missile-programming-team/	4
+https://github.com/fox-it/dissect.cobaltstrike/releases/tag/v1.0.0	4
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/	4
 http://go.dhs.gov/Zft	4
 https://twitter.com/SwiftOnSecurity/status/1585820615658938368	4
@@ -62,7 +65,6 @@ https://www.youtube.com/channel/UCtzuVwPhBVFAQnes0NrqxBA/videos	3
 https://techcrunch.com/2022/10/27/amazon-prime-video-server-exposed/	3
 https://wordlists-cdn.assetnote.io/data/	3
 https://blog.doyensec.com/2022/10/27/jupytervscode.html	3
-https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module	3
 https://lolbas-project.github.io/lolbas/Binaries/Csc/	3
 https://www.immunit.ch/blog/2022/10/26/ethernet-ghosting-nac-bypass/	3
 https://www.bleepingcomputer.com/news/security/hackers-use-microsoft-iis-web-server-logs-to-control-malware/	3
@@ -79,12 +81,10 @@ https://www.shadowserver.org/what-we-do/network-reporting/device-identification-
 https://twitter.com/TheHackersNews/status/1585949959639117824	3
 https://bit.ly/3DhQCjM	3
 https://buff.ly/3gbozef	3
-https://learn.microsoft.com/en-us/security/compass/incident-response-playbooks	3
 https://www.waterisac.org/cybersecurity-incident-case-studies	3
 https://twitch.tv/defcon_groups	3
 https://bit.ly/3SxZwPR	3
 https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/	3
-https://github.com/fox-it/dissect.cobaltstrike/releases/tag/v1.0.0	3
 https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html	3
 https://securityaffairs.co/wordpress/137722/malware/raspberry-robin-clop-ransomware.html	3
 https://riskybiznews.substack.com/p/risky-biz-news-microsoft-rolls-out	3
@@ -93,6 +93,7 @@ https://crack.sh/get-cracking/	3
 https://twitter.com/elonmusk/status/1586059953311137792	3
 https://mu00d8.me/paper/bars2023fuzztruction.pdf	3
 https://www.duffelblog.com/p/putin-warns-russia-to-stop-giving	3
+https://www.youtube.com/playlist?list=PLiEHUFG7koLsvukxg6wI1yaXRl_pmh3PZ	3
 https://www.bleepingcomputer.com/news/microsoft/microsoft-onedrive-crashes-because-of-recent-windows-10-updates/	3
 https://www.hub.trimarcsecurity.com/post/wild-west-hackin-fest-toolshed-talk-locksmith	3
 https://twitter.com/0xToxin/status/1584611253481533440	3
