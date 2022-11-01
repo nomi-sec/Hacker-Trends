@@ -1,4 +1,4 @@
-https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/	33
+https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/	34
 https://www.openssl.org/news/secadv/20221101.txt	18
 https://securitylabs.datadoghq.com/articles/openssl-november-1-vulnerabilities/	12
 https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/	11
@@ -9,10 +9,10 @@ https://krebsonsecurity.com/2022/10/accused-raccoon-malware-developer-fled-ukrai
 https://www.ncsc.gov.uk/annual-review-2022	9
 https://www.sans.org/u/1nAs	8
 https://github.com/NCSC-NL/OpenSSL-2022	8
+https://www.openssl.org/source/openssl-3.0.7.tar.gz	8
 https://sansurl.com/hackfest-jao	8
 https://darknetdiaries.com/episode/127	8
 https://www.cisa.gov/sites/default/files/publications/CISA_CPG_CHECKLIST_508c.pdf	7
-https://www.openssl.org/source/openssl-3.0.7.tar.gz	7
 https://bit.ly/3FzMVcj	7
 https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/	7
 http://GIMP.org	7
@@ -38,6 +38,7 @@ https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html	5
 https://twitter.com/thezdi/status/1587116785102462983	5
 https://hubs.ly/Q01r79ZW0	5
 https://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html	5
+https://twitter.com/GuidoVranken/status/1587469339724316673	5
 https://thehackernews.com/2022/11/researchers-disclose-details-of.html	5
 https://swisskyrepo.github.io/HardwareAllTheThings/	4
 https://blog.bricked.tech/posts/tmnf/part2/	4
@@ -57,10 +58,12 @@ https://www.kakuyasu.co.jp/corporate/topics/20221101.pdf	4
 https://twitter.com/FoxBug/status/1587416616995762178	4
 https://www.openssl.org/news/vulnerabilities.html	4
 https://bit.ly/3NqmE1H	4
-https://twitter.com/GuidoVranken/status/1587469339724316673	4
 https://twitter.com/NCSC/status/1587353948238774272	4
+https://benzinga.com/z/29482439#.Y2EBPuDVtpE.twitter	4
+https://bazaar.abuse.ch/sample/79733df700b591a3595195cad2eedfe54a70708572dec47d3969aa30b25c2f92/	4
 https://medium.com/dataseries/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322	4
 https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-3/	4
+https://tria.ge/221101-vb8jpaeden	4
 https://bsidescharm.org/cfp	3
 https://therecord.media/cosmiss-vulnerability-found-in-microsoft-azure-developer-tool/	3
 https://pwning.systems/posts/easy-apple-kernel-bug/	3
@@ -78,6 +81,7 @@ https://www.bloomberg.com/news/articles/2022-11-01/twitter-limits-content-enforc
 https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf	3
 https://www.rapid7.com/blog/post/2022/11/01/cve-2022-3786-and-cve-2022-3602-two-high-severity-buffer-overflows-in-openssl-fixed/	3
 https://youtu.be/9NAQX2x3JCw	3
+https://hubs.la/Q01r7_z_0	3
 https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/	3
 https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading	3
 https://twitter.com/mstoned7/status/1587385848378855432	3
@@ -93,6 +97,7 @@ https://www.sans.org/mlp/holiday-hack-challenge/	3
 https://vimeo.com/766074248	3
 https://tria.ge/221101-q8qb6adchl	3
 https://www.bloomberg.com/news/articles/2022-10-27/tesla-engineers-visit-twitter-office-to-review-code-for-musk	3
+https://github.com/blackhillsinfosec/EventLogging	3
 https://twitter.com/VicVijayakumar/status/1587462991955591168	3
 https://www.reddit.com/r/redteamsec/comments/yjajac/nighthawk_021_haunting_blue_mdseclabs/	3
 https://twitter.com/elonmusk/status/1587500060853424129	3
@@ -106,9 +111,8 @@ https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama219_31.10.2022.txt	3
 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-openssl-v3-vulnerability-prepare-with-microsoft-defender-for/ba-p/3666487	3
 https://twitter.com/ORCx41/status/1586951048375275520	3
 https://github.com/openssl/openssl/commit/fe3b639dc19b325846f4f6801f2f4604f56e3de3	3
-https://benzinga.com/z/29482439#.Y2EBPuDVtpE.twitter	3
+https://twitter.com/ustayready/status/1587175075505213447	3
 https://securityaffairs.co/wordpress/137912/security/vmware-cve-2021-39144-exploit.html	3
-https://bazaar.abuse.ch/sample/79733df700b591a3595195cad2eedfe54a70708572dec47d3969aa30b25c2f92/	3
 https://www.nytimes.com/2022/10/31/business/ftc-chegg-data-security-legal-complaint.html	3
 https://twitter.com/USCGSoutheast/status/1586820085116715009	3
 https://www.virustotal.com/gui/url/424e4088f04e6b0f2bebdce9ced426c8fdb063f2fa95e38509bc2ff759e3c418/detection	3
@@ -118,6 +122,5 @@ https://www.politico.com/newsletters/weekly-cybersecurity/2022/10/31/white-house
 https://trac.nginx.org/nginx/ticket/2404	3
 https://twitter.com/iamamoose/status/1587477231009517572	3
 https://twitter.com/taylorswift13/status/1587420273325838336	3
-https://tria.ge/221101-vb8jpaeden	3
 https://www.propublica.org/article/fbi-ransomware-hunting-team-cybercrime	3
 https://thedfirreport.com/2022/10/31/follina-exploit-leads-to-domain-compromise/	3
