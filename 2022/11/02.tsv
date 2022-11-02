@@ -1,5 +1,5 @@
 https://twitter.com/USCGSoutheast/status/1587837506384543757	40
-https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html	14
+https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html	15
 https://twitter.com/Cryptolaemus1/status/1587720793584472065	12
 https://survey.sans.org/jfe/form/SV_eXuwVrkCVdeoKMu	12
 https://securitylabs.datadoghq.com/articles/openssl-november-1-vulnerabilities/	10
@@ -7,6 +7,7 @@ http://crt.sh	10
 https://www.bleepingcomputer.com/news/security/dropbox-discloses-breach-after-hacker-stole-130-github-repositories/	10
 https://urlhaus.abuse.ch/browse/tag/emotet/	9
 https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox	9
+https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-5-month-break/	9
 https://twitter.com/VK_Intel/status/1414637181826633730	8
 https://twitter.com/Cryptolaemus1/status/1587792659275448320	7
 https://tria.ge/221102-lh8zcsagb6/behavioral1	7
@@ -18,6 +19,7 @@ https://twitter.com/elonmusk/status/1587627120355934208	6
 https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/	6
 https://github.com/colmmacc/CVE-2022-3602	6
 https://tria.ge/221102-kjt16abcbp	6
+https://twitter.com/datadoghq/status/1587490953790717954	6
 https://mp.weixin.qq.com/s/v2wiJe-YPG0ng87ffBB9FQ	6
 https://thehackernews.com/2022/11/chinese-hackers-using-new-stealthy.html	6
 https://www.businesswire.com/news/home/20221102005333/en/Binary-Defense-Raises-36-Million-From-Invictus-Growth-Partners-to-Propel-Rapid-Expansion-as-the-Most-Trusted-MDR-Platform	6
@@ -27,10 +29,10 @@ https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-1m-pl
 https://github.com/visma-prodsec/confused	5
 https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/	5
 https://twitter.com/CNBC/status/1587520695755591681	5
-https://twitter.com/datadoghq/status/1587490953790717954	5
 https://www.youtube.com/watch?v=-mHjTEp5SAc&list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ&index=2	5
 https://www.bleepingcomputer.com/news/security/openssl-fixes-two-high-severity-vulnerabilities-what-you-need-to-know/	5
 https://tria.ge/221102-mlz2asbhdj	5
+https://www.bleepingcomputer.com/news/security/vodafone-italy-discloses-data-breach-after-reseller-hacked/	5
 https://www.washingtonpost.com/politics/2022/11/01/capitol-police-cameras-caught-break-in-pelosi-home-no-one-was-watching/	5
 https://therecord.media/world-leaders-make-fresh-vows-to-fight-global-ransomware-threat/	5
 https://msrc-blog.microsoft.com/2022/11/01/microsoft-mitigates-vulnerability-in-jupyter-notebooks-for-azure-cosmos-db/	5
@@ -49,11 +51,11 @@ https://twitter.com/jschauma/status/1587601339072249856	4
 https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec	4
 https://tria.ge/221102-v5363adbck/behavioral6	4
 https://twitter.com/PaulbernalUK/status/1587353418406010881	4
-https://www.bleepingcomputer.com/news/security/vodafone-italy-discloses-data-breach-after-reseller-hacked/	4
 https://www.hackread.com/amazon-prime-video-viewing-habits/	4
 https://twitter.com/tomgara/status/1587640766696140800	4
 https://news.mynavi.jp/itsearch/seminar/744	4
 https://bazaar.abuse.ch/sample/93fa81492d3ae3b89770fbd5164afc2785116b6f8733eaaa7fe3d0a396424f21/	4
+https://eshard.com/posts/pixel6bootloader-2	4
 https://www.sans.org/u/1nBb	4
 https://rindphi.github.io/isla/	4
 https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html	4
@@ -64,12 +66,12 @@ https://www.bleepingcomputer.com/news/security/us-govt-employees-exposed-to-mobi
 http://urlscan.io	4
 https://twitter.com/elonmusk/status/1587498907336118274	4
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama220_02.11.2022.txt	4
-https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-5-month-break/	4
 https://www.youtube.com/watch?v=tGmaO8agfY4	3
 https://twitter.com/Cryptolaemus1/status/1587744621639086080	3
 https://www.fujitsu-general.com/jp/info/fgl20221102/index.html	3
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part	3
 https://twitter.com/vp/status/1587483381176193024	3
+https://twitter.com/BleepinComputer/status/1587882079966167040	3
 https://cdn.discordapp.com/attachments/842906809999556654/1037365490949042256/nt.idc	3
 https://blog.sonarsource.com/checkmk-rce-chain-1/	3
 https://github.com/eldraco/Sapito	3
@@ -77,13 +79,17 @@ https://www.scmagazine.com/brief/privacy/data-breach-hits-multi-color-corporatio
 https://escapingtech.com/tech/opinions/what-twitter-got-wrong-and-how-to-fix-it.html	3
 https://www.spiderfoot.net/intel471-acquires-spiderfoot/	3
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis	3
+https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-hit-in-socgholish-supply-chain-attack/	3
+https://twitter.com/NCSC/status/1587355263371251714	3
 https://www.rferl.org/a/russian-hacker-data-breach-released-us-prison/32111024.html	3
 https://twitter.com/netresec/status/1580263703852699648	3
 https://asec.ahnlab.com/en/40907/	3
 https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf	3
 https://redsiege.com/wedoff	3
+http://ncsc.gov.uk/collection/annual-review-2022	3
 http://ow.ly/Fq6W50Ls9MU	3
 https://www.bleepingcomputer.com/news/security/dozens-of-pypi-packages-caught-dropping-w4sp-info-stealing-malware/	3
+https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/	3
 https://bazaar.abuse.ch/sample/d2e229f7b947a970e3e102a72c3029ae532306c846186696bf275abf9a182a97/	3
 https://www.helpnetsecurity.com/2022/11/02/dropbox-data-breach/	3
 https://www.youtube.com/watch?v=HWVplPyfCDg	3
@@ -97,7 +103,6 @@ https://www.youtube.com/watch?v=aK0xPGMG0NI&list=PLliknDIoYszt5m1kz1vNY90LnR6VMu
 https://netresec.com/?b=22A38f9	3
 https://bsideschs.ticketbud.com/ws-intro2pen	3
 https://www.fincen.gov/news/news-releases/fincen-analysis-reveals-ransomware-reporting-bsa-filings-increased-significantly	3
-https://eshard.com/posts/pixel6bootloader-2	3
 https://tria.ge/221102-kp8rhabcgp/static1	3
 https://twitter.com/cryptolaemus1/status/1587720793584472065	3
 https://www.openssl.org/news/vulnerabilities.html	3
@@ -116,6 +121,7 @@ https://thehackernews.com/2022/11/researchers-disclose-details-of.html	3
 https://bazaar.abuse.ch/browse/tag/update-hilifimyanmar-com/	3
 https://twitter.com/hshaban/status/1587664200234680320	3
 https://tria.ge/221101-x5hapsfcdk	3
+http://cisa.gov/rumorcontrol#rumor27	3
 https://twitter.com/dsiroker/status/1587415342896148480	3
 http://cisa.gov/securing-public-gatherings	3
 https://www.cyberscoop.com/ransomware-payments-cost-treasury/	3
