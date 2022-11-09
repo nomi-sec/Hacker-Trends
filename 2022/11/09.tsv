@@ -6,11 +6,11 @@ https://github.com/C0axx/CanaryHunter	9
 https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html	9
 https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming	9
 https://research.nccgroup.com/2022/11/09/tales-of-windows-detection-opportunities-for-an-implant-framework/	9
+https://github.com/alfarom256/CVE-2022-3699/	8
 https://idov31.github.io/2022/08/04/lord-of-the-ring0-p2.html	8
 https://idov31.github.io/2022/10/30/lord-of-the-ring0-p3.html	8
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/	8
 https://www.washingtonpost.com/technology/2022/11/08/trustcor-internet-addresses-government-connections/	8
-https://github.com/alfarom256/CVE-2022-3699/	7
 https://twitter.com/esthercrawford/status/1590109344976470016	7
 https://securelist.com/apt-trends-report-q3-2022/107787/	7
 https://www.zimperium.com/blog/the-case-of-cloud9-chrome-botnet/	6
@@ -22,7 +22,9 @@ https://chromereleases.googleblog.com/2022/11/stable-channel-update-for-desktop.
 https://eclypsium.com/2022/11/09/pwned-balancers-f5-and-citrix-for-persistent-c2/	5
 https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/	5
 https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html	5
+https://support.citrix.com/article/CTX463706/citrix-gateway-and-citrix-adc-security-bulletin-for-cve202227510-cve202227513-and-cve202227516	5
 https://twitter.com/swiftonsecurity/status/1590168048107126784	5
+https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38033	5
 https://www.sans.org/posters/windows-forensic-analysis/	5
 https://twitter.com/filip_dragovic/status/1590052248260055041	5
 https://thehackernews.com/2022/11/experts-warn-of-browser-extensions.html	5
@@ -35,6 +37,7 @@ https://twitter.com/filip_dragovic/status/1590104354727436290	4
 http://cs.co/6019Mam65	4
 https://www.sans.org/u/1n2F	4
 https://twitter.com/i/spaces/1RDGlabMNOgJL	4
+https://thehackernews.com/2022/11/install-latest-windows-update-asap.html	4
 https://www.vmware.com/security/advisories/VMSA-2022-0028.html	4
 https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/section-52-releases-an-open-source-forensics-tool-for-siemens/ba-p/3670646	4
 https://msrc-blog.microsoft.com/2022/11/08/202211-security-update/	4
@@ -42,8 +45,6 @@ https://www.bleepingcomputer.com/news/security/15-000-sites-hacked-for-massive-g
 https://github.com/quarkslab/conf-presentations/blob/master/Hexacon-2022/fuzzing_NVIDIA_drivers-tdore.pdf	4
 https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/	4
 https://thehackernews.com/2022/11/amadey-bot-spotted-deploying-lockbit-30.html	4
-https://support.citrix.com/article/CTX463706/citrix-gateway-and-citrix-adc-security-bulletin-for-cve202227510-cve202227513-and-cve202227516	4
-https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38033	4
 https://www.sans.org/u/1nC4	4
 https://www.trendmicro.com/en_us/research/22/k/deimosc2-what-soc-analysts-and-incident-responders-need-to-know.html	4
 https://riskybiznews.substack.com/p/risky-biz-news-the-spyware-industry	4
@@ -61,7 +62,6 @@ https://www.radare2.online	3
 https://www.justice.gov/opa/pr/man-sentenced-more-17-years-prison-attempting-provide-material-support-isis	3
 https://www.youtube.com/watch?v=qUMBST-SZ0U	3
 https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/	3
-https://thehackernews.com/2022/11/install-latest-windows-update-asap.html	3
 https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558	3
 https://twitter.com/ESETresearch/status/1590279782318878720	3
 https://twitter.com/vxunderground/status/1590143917538045953	3
