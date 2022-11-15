@@ -1,14 +1,14 @@
-https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp	36
+https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp	39
 https://dec0ne.github.io/research/2022-11-14-Undetected-Lsass-Dump-Workflow/	12
-https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/	11
+https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/	12
 https://twitter.com/PortSwiggerRes/status/1592517844851228672	10
 https://thehackernews.com/2022/11/researchers-say-china-state-backed.html	7
 https://unit42.paloaltonetworks.com/typhon-reborn-stealer/	7
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority	7
 https://www.bleepingcomputer.com/news/security/chinese-hackers-target-government-agencies-and-defense-orgs/	6
 https://www.hypn.za.net/blog/2022/11/12/Hacking-Salesforce-backed-WebApps/	6
 https://thehackernews.com/2022/11/google-to-pays-391-million-privacy-fine.html	6
 https://netblocks.org/reports/internet-disruptions-registered-as-russia-moves-in-on-ukraine-W80p4k8K	6
-https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority	6
 https://bazaar.abuse.ch/sample/440d84b5d539d7724898e4127df3d5f0d68cefb5bc14f09b13b2e657a3dc7a08/	6
 https://blog.impalabs.com/2211_hyperpom.html	6
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB05_15.11.2022.txt	6
@@ -24,6 +24,7 @@ https://twitter.com/digital_jpn/status/1591995136560730113	4
 https://therecord.media/majority-of-dod-cyber-incident-reports-are-incomplete-gao-finds/	4
 https://www.bleepingcomputer.com/news/security/whoosh-confirms-data-breach-after-hackers-sell-72m-user-records/	4
 https://blog.reversinglabs.com/blog/writing-detailed-yara-rules-for-malware-detection	4
+https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/	4
 https://securelist.com/dtrack-targeting-europe-latin-america/107798/	4
 https://www.reuters.com/technology/exclusive-russian-software-disguised-american-finds-its-way-into-us-army-cdc-2022-11-14/	4
 https://asec.ahnlab.com/en/39828/	4
@@ -43,6 +44,7 @@ https://securelist.com/advanced-threat-predictions-for-2023/107939/	4
 http://SEKOIA.IO	4
 https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/	4
 https://cybersecurity.att.com/blogs/security-essentials/stories-from-the-soc-fortinet-authentication-bypass-observed-in-the-wild	4
+https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095/	4
 https://blog.sonarsource.com/checkmk-rce-chain-3/	4
 https://www.atredis.com/blog/2022/10/29/symbolic-triage-making-the-best-of-a-good-situation	4
 https://twitter.com/elonmusk/status/1592177471654604800	4
@@ -56,11 +58,12 @@ https://bazaar.abuse.ch/sample/ed691e37765eca19f59f1b3996afa9283f9625fee71a19e35
 https://therecord.media/alleged-chinese-state-sponsored-group-hacked-certificate-authority-govt-agencies-in-asia/	3
 http://thedfirreport.com/services	3
 https://thedfirreport.com/2022/11/14/bumblebee-zeros-in-on-meterpreter/	3
-https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/	3
+https://twitter.com/visegrad24/status/1592583021911330816	3
 https://skyblue.team/posts/flareon9/	3
 https://github.com/netbiosX/Checklists	3
 https://blog.sonarsource.com/checkmk-rce-chain-2/	3
 https://www.sans.org/u/1n4w	3
+https://morimolymoly.hateblo.jp/entry/2022/11/15/214232	3
 https://blog.detect.dev/posts/road2timeline.html	3
 https://www.cybersecurity-insiders.com/cyber-attack-on-haveibeenpwned-leaks-email-data-to-hackers/	3
 https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html	3
@@ -88,8 +91,8 @@ https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html	3
 https://therecord.media/eu-approves-15-defense-budget-increase-as-ministers-sign-off-on-joint-military-cert/	3
 https://www.usenix.org/system/files/sec23summer_427-shi_ji-prepub.pdf	3
 https://github.com/palera1n/palera1n	3
+https://www.zellic.io/blog/how-to-create-an-ethereum-ctf-challenge	3
 https://twitter.com/troyhunt/status/1592255780027498497	3
-https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095/	3
 https://lnkd.in/e7w_4K-E	3
 https://www.wired.com/story/alphabay-series-part-4-face-to-face/	3
 https://www.welivesecurity.com/wp-content/uploads/2022/11/eset_apt_activity_report_t22022.pdf	3
@@ -102,6 +105,7 @@ https://pastebin.com/hqt4mqhX	3
 https://twitter.com/caseynewton/status/1592539948745650176	3
 https://twitter.com/i/spaces/1zqKVPnEBoAJB	3
 https://twitter.com/debarghya_das/status/1592214346289274880	3
+https://twitter.com/AmichaiStein1/status/1592583028362342403	3
 http://Blackhatmea.com/registration	3
 https://www.bleepingcomputer.com/news/security/new-extortion-scam-threatens-to-damage-sites-reputation-leak-data/	3
 https://twitter.com/portswiggerres/status/1592517844851228672	3
