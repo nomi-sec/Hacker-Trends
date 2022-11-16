@@ -1,7 +1,7 @@
 https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp	16
 https://github.com/dirkjanm/ROADtools	11
+http://ow.ly/EF3A50LFkcn	10
 https://www.cyberwarfare.live/blog/vectored-syscall-poc	9
-http://ow.ly/EF3A50LFkcn	9
 https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/	9
 https://0x36.github.io/CVE-2022-32932/	8
 https://github.com/ufrisk/MemProcFS	8
@@ -31,6 +31,7 @@ https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massiv
 https://twitter.com/stocktalkweekly/status/1592918089771134978	5
 http://www.kitploit.com/2022/11/triplecross-linux-ebpf-rootkit-with.html	5
 https://securelist.com/dtrack-targeting-europe-latin-america/107798/	5
+https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html	5
 https://mp.weixin.qq.com/s/pd6fUs5TLdBtwUHauclDOQ	5
 https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/	5
 https://bazaar.abuse.ch/browse/tag/MassLogger/	5
@@ -46,7 +47,6 @@ https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limite
 https://github.com/aaaddress1/PR0CESS/tree/main/HideMyAss	5
 https://www.bleepingcomputer.com/news/technology/police-dismantle-pirated-tv-streaming-network-with-500-000-users/	4
 https://sansec.io/research/trojanorder-magento	4
-https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html	4
 http://go.dhs.gov/ZPM	4
 https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html	4
 https://twitter.com/CISAJen/status/1592908321711099912	4
@@ -58,6 +58,7 @@ https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-gen
 https://www.helpnetsecurity.com/2022/11/16/5-use-cases-with-a-malware-sandbox/	4
 https://github.com/SigmaHQ/sigma/blob/master/other/godmode_sigma_rule.yml	4
 https://infosec.exchange/@iagox86/109354563637943503	4
+https://twitter.com/copyconstruct/status/1592527230978387968	4
 https://blog.sonarsource.com/checkmk-rce-chain-3/	4
 https://www.bentkowski.info/2022/11/google-roulette/	4
 https://eshard.com/posts/pixel6_bootloader_3	4
@@ -69,6 +70,7 @@ https://wiki.porchetta.industries/news-2022/indestructible-g0thm0g	4
 https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44	4
 https://www.cbc.ca/news/canada/nova-scotia/inside-turmoil-sobeys-ransomware-attack-1.6650636	4
 https://www.cnn.com/2022/11/15/politics/facebook-fact-check-donald-trump/index.html	4
+https://www.mitiga.io/blog/how-mitiga-found-pii-in-exposed-amazon-rds-snapshots	4
 https://msft.it/6017dauVN	4
 https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws	4
 https://twitter.com/leakissner/status/1592937764684980224	4
@@ -109,7 +111,6 @@ https://home.treasury.gov/news/press-releases/jy1104	3
 https://bazaar.abuse.ch/sample/40d050f531b57ebeef82d047638bd11795b203ac9132ff9203d1096843f68e44/	3
 https://twitter.com/PacktPublishing/status/1592895530736275456	3
 https://www.cyjax.com/2022/11/14/fangxiao-a-chinese-threat-actor/	3
-https://twitter.com/copyconstruct/status/1592527230978387968	3
 https://link.medium.com/7GwUnFncZub	3
 https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html	3
 https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/	3
@@ -124,6 +125,5 @@ https://eshard.com/posts/pixel6_bootloader	3
 http://aka.ms/mfatemplates	3
 https://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html	3
 https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/securing-domain-controllers-against-attack#blocking-internet-access-for-domain-controllers	3
-https://www.mitiga.io/blog/how-mitiga-found-pii-in-exposed-amazon-rds-snapshots	3
 https://twitter.com/NASA/status/1592772202289430528	3
 https://defcon.social/	3
