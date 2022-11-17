@@ -1,7 +1,7 @@
 https://github.com/testanull/ProxyNotShell-PoC	20
-https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus/	17
+https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus/	18
+https://jhalon.github.io/chrome-browser-exploitation-2/	12
 https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/	11
-https://jhalon.github.io/chrome-browser-exploitation-2/	11
 http://YSoSerial.Net	11
 https://github.com/tomasz-lisowski/swsim	9
 https://asec.ahnlab.com/en/42037/	9
@@ -16,6 +16,7 @@ https://github.com/pr0xylife/IcedID/blob/main/icedID_16.11.2022.txt	7
 https://bazaar.abuse.ch/sample/fa20a519c10bb39da0463d8364fccb71dc226843c5cd7d71dd225e5b1a4c9a01/	7
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB06_17.11.2022.txt	7
 https://www.fortinet.com/blog/threat-research/new-rapperbot-campaign-ddos-attacks	7
+https://ian.sh/etugra	7
 https://bazaar.abuse.ch/sample/8ca16991684f7384c12b6622b8d1bcd23bc27f186f499c2059770ddd3031f274/	7
 https://www.microsoft.com/en-us/security/blog/2022/11/16/token-tactics-how-to-prevent-detect-and-respond-to-cloud-token-theft/	7
 https://github.com/trustedsec/orpheus	7
@@ -24,7 +25,6 @@ https://thehackernews.com/2022/11/north-korean-hackers-targeting-europe.html	6
 https://securelist.com/dtrack-targeting-europe-latin-america/107798/	6
 https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/	6
 https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/	6
-https://ian.sh/etugra	6
 https://twitter.com/testanull/status/1593069258543894528	6
 https://twitter.com/pr0xylife/status/1593269746534858756	6
 https://krebsonsecurity.com/2022/11/disneyland-malware-team-its-a-puny-world-after-all/	6
@@ -38,6 +38,7 @@ https://thehackernews.com/2022/11/high-severity-vulnerabilities-reported.html	5
 https://urlhaus.abuse.ch/browse/tag/BB06/	4
 https://www.bleepingcomputer.com/news/security/eset-rolls-out-new-consumer-offerings-to-improve-home-security/	4
 https://bazaar.abuse.ch/browse/tag/pw-SK16/	4
+https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/	4
 https://www.cyberscoop.com/nsa-threat-sharing-unclassified-ccc/	4
 https://bazaar.abuse.ch/user/1146430825786986496/	4
 https://twitter.com/irsdl/status/1593035028346605568	4
@@ -45,6 +46,7 @@ https://github.com/rivitna/Malware/tree/main/LockBit3	4
 https://jsac.jpcert.or.jp/en/registration.html	4
 https://www.splunk.com/en_us/blog/security/inside-the-mind-of-a-rat-agent-tesla-detection-and-analysis.html	4
 https://thehackernews.com/2022/11/fbi-wanted-leader-of-notorious-zeus.html	4
+https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy	4
 https://therecord.media/michigan-school-districts-reopen-after-two-day-closure-due-to-ransomware-attack/	4
 https://www.foxnews.com/tech/cyber-attack-major-hospital-system-could-affect-20-million-americans	4
 https://www.bleepingcomputer.com/news/security/f5-fixes-two-remote-code-execution-flaws-in-big-ip-big-iq/	4
@@ -73,7 +75,6 @@ https://twitter.com/Ticketmaster/status/1593333211769106433	3
 https://www.wsj.com/articles/meta-employees-security-guards-fired-for-hijacking-user-accounts-11668697213?st=f71n73j1bcwfplp&reflink=desktopwebshare_permalink	3
 https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis	3
 http://kc7cyber.com	3
-https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/	3
 https://www.justice.gov/usao-edny/press-release/file/1552516/download	3
 https://twitter.com/embee_research/status/1575380832965259265	3
 https://twitter.com/CISAgov/status/1592928384660955136	3
@@ -82,9 +83,10 @@ https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m
 https://twitter.com/jeffstone500/status/1593002241161834497	3
 https://www.cisa.gov/uscert/ncas/alerts/aa22-320a	3
 https://github.com/SigmaHQ/sigma/blob/master/other/godmode_sigma_rule.yml	3
+https://youtu.be/qhhJCLy0YBA	3
 https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return	3
-https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy	3
 https://www.asahi.com/articles/ASQCJ7RCPQCJPOMB005.html	3
+https://twitter.com/elonmusk/status/1593264249731620864	3
 https://twitter.com/Wild_Arms_RandD/status/1593019440836546561	3
 https://bit.ly/3XcPPda	3
 https://twitter.com/LisaBloom/status/1593144267236835330	3
@@ -96,6 +98,7 @@ https://www.bentkowski.info/2022/11/google-roulette/	3
 https://www.bbc.com/news/world-europe-63637625	3
 https://dfir.pubpub.org/pub/xmjxofpd/release/1	3
 https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html	3
+http://go.dhs.gov/ZPz	3
 https://youtu.be/aHJxEHIHq0k	3
 https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44	3
 https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf	3
