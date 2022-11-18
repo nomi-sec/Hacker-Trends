@@ -2,8 +2,8 @@ http://Infosec.exchange	13
 https://twitter.com/MosquitoCapital/status/1593541177965678592	10
 https://therecord.media/ransomware-incidents-now-make-up-majority-of-british-governments-crisis-management-cobra-meetings/	10
 https://twitter.com/zoeschiffer/status/1593391604785504257	10
+https://blog.bushidotoken.net/2022/11/the-continuity-of-conti.html	9
 https://twitter.com/elonmusk/status/1593455727611215872	9
-https://blog.bushidotoken.net/2022/11/the-continuity-of-conti.html	8
 https://bazaar.abuse.ch/sample/820c86717ed36270cd3dd2e4e659d559908ddfbc942686ddcbeec48a321b86c4/	8
 https://bazaar.abuse.ch/sample/616a1c3a65fed4142c80f37a67f87d4d83af6ce28fd842f20c184ed995908894/	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama223_18.11.2022.txt	8
@@ -11,6 +11,7 @@ https://bazaar.abuse.ch/sample/182d599918881d3a50d89f8cea088ce58b899cfde3d611971
 https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/	7
 https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus/	7
 https://github.com/testanull/ProxyNotShell-PoC	6
+https://github.com/antonioCoco/JuicyPotatoNG/issues/4	6
 https://tria.ge/221118-sb92eade6y	6
 https://thehackernews.com/2022/11/hive-ransomware-attackers-extorted-100.html	6
 https://youtu.be/noNx1Dmo3K0	6
@@ -21,7 +22,6 @@ https://xairy.io/articles/syzkaller-external-network	5
 https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/	5
 https://twitter.com/WLesicki/status/1463457325818200070	5
 https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/	5
-https://github.com/antonioCoco/JuicyPotatoNG/issues/4	5
 https://thehackernews.com/2022/11/w4sp-stealer-constantly-targeting.html	5
 https://bazaar.abuse.ch/sample/f17e6e6b3d207b58aff019871da14eb52aec46eaa7ca1a0409fb5b1f834d5c81/	5
 https://bazaar.abuse.ch/sample/c1cc35bebc0eb78fcf54af484936adec1603fdce672c9ac919ef5e739f3a0fd8/	5
@@ -35,12 +35,14 @@ https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-ord
 https://twitter.com/kyliebytes/status/1593391167718113280	5
 https://github.com/executemalware/Malware-IOCs/blob/main/2022-11-17%20Qakbot%20(obama222)%20IOCs	5
 https://twitter.com/elonmusk/status/1593415171149791232	4
+https://www.nytimes.com/2022/11/18/opinion/twitter-yoel-roth-elon-musk.html	4
 https://bazaar.abuse.ch/sample/37b35ed3db1be683015b19afe04ea5428b42e79b78b0529472849c7f7e1cb1b9/	4
 https://fedifinder.glitch.me/	4
 https://twitter.com/AlexMartin/status/1593518464437784577	4
 https://bazaar.abuse.ch/sample/2911bdd99140387cbc8761826aacc3c9de0ccb511255aa58790955d8337e2edf/	4
 https://twitter.com/crep1x/status/1593360365240389633	4
 https://twitter.com/ZoeSchiffer/status/1593649356661436417	4
+https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/	4
 https://bazaar.abuse.ch/sample/29f5ba9dbdfb38947f842c67483392e738ec4f896780bcc9ce0b62837fef7f0b/#intel	4
 https://tria.ge/221118-s4syladf31	4
 https://therecord.media/dhs-secretary-cyberattacks-are-the-most-significant-threat-to-port-infrastructure/	4
@@ -58,7 +60,6 @@ https://twitter.com/elonmusk/status/1593673339826212864	4
 https://github.com/0xe7/WonkaVision	4
 https://t.me/DuckLogs	4
 https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-security-advisory-2022-11-16-1180141667.html	3
-https://www.nytimes.com/2022/11/18/opinion/twitter-yoel-roth-elon-musk.html	3
 https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/	3
 https://twitter.com/jsecurity101/status/1547252373239758855	3
 https://github.com/yeswehack/vulnerable-code-snippets	3
@@ -66,7 +67,6 @@ https://www.vg.no/sport/fotball/i/verbrL/elkjoep-trekker-seg-som-vm-sponsor-gir-
 https://tria.ge/221117-3f196scb2x	3
 https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/	3
 https://t.me/vxunderground	3
-https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/	3
 https://www.helpnetsecurity.com/2022/11/18/cybersecurity-trends-q3-2022/	3
 https://www.helpnetsecurity.com/2022/11/18/pci-ssc-mobile-payment/	3
 https://twitter.com/ArmsControlWonk/status/1593452159365918722	3
