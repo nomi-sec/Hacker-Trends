@@ -1,8 +1,8 @@
-https://malpedia.caad.fkie.fraunhofer.de/details/win.exmatter	12
-https://bazaar.abuse.ch/sample/fd102a2d650e12121782e63be11dc189fc6361c77b683a8d447c97357c071861/	12
-https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672	10
+https://malpedia.caad.fkie.fraunhofer.de/details/win.exmatter	13
+https://bazaar.abuse.ch/sample/fd102a2d650e12121782e63be11dc189fc6361c77b683a8d447c97357c071861/	13
+https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672	11
+https://github.com/hacksysteam/CVE-2022-28672	8
 https://www.inversecos.com/2022/12/how-to-detect-malicious-oauth-device.html	7
-https://github.com/hacksysteam/CVE-2022-28672	7
 https://dr4k0nia.github.io/posts/String-Obfuscation-The-Malware-Way/	6
 https://www.mandiant.com/resources/blog/trojanized-windows-installers-ukrainian-government	6
 https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm	6
@@ -12,6 +12,7 @@ https://github.com/binderlabs/DirCreate2System	5
 https://twitter.com/KimZetter/status/1603162733238591488	5
 http://web.archive.org/web/20221215173935/https://twitter.com/joinmastodon/	4
 https://thehackernews.com/2022/12/minecraft-servers-under-attack.html	4
+https://twitter.com/olafhartong/status/1603740398043922432	4
 https://www.microsoft.com/en-us/security/blog/2022/12/15/mccrash-cross-platform-ddos-botnet-targets-private-minecraft-servers/	4
 https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/	4
 https://thehackernews.com/2022/12/github-announces-free-secret-scanning.html	4
@@ -27,6 +28,7 @@ http://NahamCon.com	3
 https://www.bleepingcomputer.com/news/security/ukrainian-govt-networks-breached-via-trojanized-windows-10-installers/	3
 https://twitter.com/PortSwigger/status/1603397096974983169	3
 https://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/	3
+https://trib.al/V9JEL5O	3
 https://www.hackread.com/hackers-tpg-telecoms-email-host-breach/	3
 https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html	3
 https://www.thehacker.recipes/ad/movement/dacl	3
