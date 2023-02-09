@@ -1,11 +1,11 @@
 https://home.treasury.gov/news/press-releases/jy1256	14
 https://www.bleepingcomputer.com/news/security/new-esxiargs-ransomware-version-prevents-vmware-esxi-recovery/	13
 https://portswigger.net/research/top-10-web-hacking-techniques-of-2022	10
+https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool	10
 https://twitter.com/Unit42_Intel/status/1623349272061136900	9
 https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/	9
 https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors	9
 https://bazaar.abuse.ch/sample/67c61f649ec276eb57fcfe70dbd6e33b4c05440ee10356a3ef10fad9d0e224ef/	9
-https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool	9
 https://therecord.media/ukraine-cyber-resilience-russia-estonia-intelligence-report/	7
 https://www.securesystems.de/blog/offphish-phishing-revisited-in-2023/	7
 https://www.microsoft.com/en-us/security/blog/2023/02/08/solving-one-of-nobeliums-most-novel-attacks-cyberattack-series/	6
@@ -22,6 +22,7 @@ https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html	5
 https://github.com/mandiant/capa/releases/tag/v5.0.0	5
 https://www.virustotal.com/gui/domain/catalog.s.download.windowsupdate.com/relations	5
 https://github.com/TheD1rkMtr/UnhookingPatch	5
+https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html	5
 https://twitter.com/BleepinComputer/status/1623362378912960521	5
 https://therecord.media/hackers-used-fake-websites-to-target-state-agencies-in-ukraine-and-poland/	5
 https://www.huntress.com/blog/investigating-intrusions-from-intriguing-exploits	5
@@ -34,7 +35,6 @@ https://insight-jp.nttsecurity.com/post/102i7af/steelclovergoogle	4
 https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-switch-to-adobe-acrobats-pdf-rendering-engine/	4
 https://www.sans.org/u/1oTU	4
 https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/	4
-https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html	4
 https://arstechnica.com/information-technology/2023/02/mysterious-leak-of-booking-com-reservation-data-is-being-used-to-scam-customers/	4
 https://microsoftedge.github.io/edgevr/posts/How-we-are-securing-our-new-PDF-stack/	4
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3293960/us-south-korean-agencies-partner-to-stopransomware-threat-from-dprk/#.Y-U8Rv2YQYM.twitter	4
@@ -57,6 +57,8 @@ https://github.com/blackorbird/APT_REPORT/blob/master/group123/ScarCruft%20(APT3
 https://twitter.com/kliu128/status/1623472922374574080	4
 https://twitter.com/1ZRR4H/status/1621591855157616642	4
 https://github.com/CronUp/EnAnalisis/blob/main/2023-02-05_ESXiArgs_decompiled	4
+https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/	4
+https://media.defense.gov/2023/Feb/09/2003159161/-1/-1/0/CSA_RANSOMWARE_ATTACKS_ON_CI_FUND_DPRK_ACTIVITIES.PDF	4
 https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html	4
 https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/	3
 https://twitter.com/TwitterDev/status/1623467618400374784	3
@@ -73,6 +75,7 @@ https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/over
 https://twitter.com/bishopfox/status/1623726758481522691	3
 http://ID.me	3
 https://landaire.net/reversing-yaesu-firmware-encryption/	3
+https://bit.ly/40JfCLR	3
 https://dhakal-ananda.com.np/non-technical/2023/02/09/oswe-journey.html	3
 https://bazaar.abuse.ch/browse/tag/agenziaentrate/	3
 https://urlhaus.abuse.ch/url/2534757/	3
@@ -102,6 +105,5 @@ https://api.telegram.org/bot5350270151:AAHiqzi7CQnEGEk3Xi-PyJX8ov0x6B-8S1I/sendD
 https://twitter.com/i/web/status/1623527939899027457	3
 https://bit.ly/3I7jGOF	3
 https://bazaar.abuse.ch/sample/17c51c5c304118f741428ba3894482bf4b052783a923fee0ac730093ffdf241e/	3
-https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/	3
 https://www.twitch.tv/oalabslive	3
 https://www.bleepingcomputer.com/news/security/malicious-google-ads-sneak-aws-phishing-sites-into-search-results/	3
