@@ -1,9 +1,9 @@
 https://home.treasury.gov/news/press-releases/jy1256	14
 https://www.bleepingcomputer.com/news/security/new-esxiargs-ransomware-version-prevents-vmware-esxi-recovery/	13
 https://portswigger.net/research/top-10-web-hacking-techniques-of-2022	10
+https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/	10
 https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool	10
 https://twitter.com/Unit42_Intel/status/1623349272061136900	9
-https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/	9
 https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors	9
 https://bazaar.abuse.ch/sample/67c61f649ec276eb57fcfe70dbd6e33b4c05440ee10356a3ef10fad9d0e224ef/	9
 https://therecord.media/ukraine-cyber-resilience-russia-estonia-intelligence-report/	7
@@ -63,6 +63,7 @@ https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html	4
 https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/	3
 https://twitter.com/TwitterDev/status/1623467618400374784	3
 https://therecord.media/new-info-stealing-malware-used-against-ukraine-organizations/	3
+https://therecord.media/canadian-book-giant-indigo-limited-to-cash-sales-by-cyberattack/	3
 https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/	3
 https://www.bleepingcomputer.com/news/security/android-14-to-block-malware-from-abusing-sensitive-permissions/	3
 https://decoded.avast.io/threatresearch/avast-q4-2022-threat-report/	3
@@ -80,6 +81,7 @@ https://dhakal-ananda.com.np/non-technical/2023/02/09/oswe-journey.html	3
 https://bazaar.abuse.ch/browse/tag/agenziaentrate/	3
 https://urlhaus.abuse.ch/url/2534757/	3
 https://bit.ly/3kWSmtu	3
+https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/	3
 https://github.com/huntresslabs/threat-intel/blob/main/2023/2023-02/2023-02-09-Qakbot-execution.yml	3
 https://open.spotify.com/show/4GiJnv8f4a4ZR6Jc6TQJ3k	3
 https://muha2xmad.github.io/malware-analysis/godfather/	3
@@ -90,8 +92,10 @@ https://bazaar.abuse.ch/browse/tag/Eternity/	3
 http://ow.ly/izlq50MMGJF	3
 https://twitter.com/joetidy/status/1623675005924962307	3
 https://www.kitploit.com/2023/02/winevtlogsanalysis-searching-evtx-logs.html	3
+https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-2-firmware-dump-and-analysis/	3
 https://www.bleepingcomputer.com/news/security/tor-and-i2p-networks-hit-by-wave-of-ongoing-ddos-attacks/	3
 https://twitter.com/joetidy/status/1623674569906176000	3
+https://lnkd.in/eeuKYF-9	3
 https://www.bleepingcomputer.com/news/security/paypal-and-twitter-abused-in-turkey-relief-donation-scams/	3
 https://www.tgsoft.it/news/news_archivio.asp?id=1387	3
 https://www.ipa.go.jp/security/J-CSIP/index.html	3
@@ -99,6 +103,7 @@ https://www.cybereason.com/blog/threat-alert-gootloader-seo-poisoning-and-large-
 https://www.zaproxy.org/docs/desktop/addons/authentication-helper/session-header/	3
 https://twitter.com/virusbtn/status/1623637839031271426	3
 https://www.bleepingcomputer.com/news/security/us-nist-unveils-winning-encryption-algorithm-for-iot-data-protection/	3
+https://hackspacecon.com	3
 https://ryukyushimpo.jp/news/entry-1660072.html	3
 https://malgamy.github.io/malware-analysis/The-Approach-of-TA413-for-Tibetan-Targets/	3
 https://api.telegram.org/bot5350270151:AAHiqzi7CQnEGEk3Xi-PyJX8ov0x6B-8S1I/sendDocument	3
