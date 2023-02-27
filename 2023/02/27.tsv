@@ -5,15 +5,16 @@ https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html	4
 https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html	4
 https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere	4
 https://github.com/ZeroMemoryEx/Amsi-Killer	4
-https://github.com/NUL0x4C/AtomLdr	3
+https://github.com/gtworek/PSBits/blob/master/Misc/BreakChain.c	3
 https://github.com/4ra1n/CVE-2023-21839	3
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#assignable-protocol-with-location	3
 https://www.sentinelone.com/labs/zen-and-the-art-of-smm-bug-hunting-finding-mitigating-and-detecting-uefi-vulnerabilities/	3
 https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html	3
+https://github.com/NUL0x4C/AtomLdr	3
 https://bazaar.abuse.ch/sample/a9ecbbb1a4de3f9019f7955182af88d2ecfbb6fd38da526b31cb8e7d9b62b517/	3
-https://github.com/gtworek/PSBits/blob/master/Misc/BreakChain.c	3
 https://yamatosecurity.connpass.com/event/275368/	3
 http://rb.gy/4l9xgr	3
+https://www.proofpoint.com/us/blog/threat-insight/ta569-socgholish-and-beyond	3
 https://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html	3
 https://blog.impalabs.com/2212_huawei-security-hypervisor.html	3
 https://www.sentinelone.com/labs/moving-from-manual-reverse-engineering-of-uefi-modules-to-dynamic-emulation-of-uefi-firmware/	3
@@ -29,6 +30,7 @@ https://nakedsecurity.sophos.com/2023/02/27/beware-rogue-2fa-apps-in-app-store-a
 https://twitter.com/FuzzySec/status/1625633998901768197	3
 https://labs.k7computing.com/index.php/the-donot-apt/	3
 https://www.tearline.io/posts/your-friendly-neighbourhood-malware-developer	3
+https://wp.me/p84lDr-3G8	3
 https://docs.google.com/document/d/1kqIdlQw7AjY1Pkg9myXbpWDFQYFS7R3aUwk9vXyUXVU/	3
 https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html	3
 https://www.ncsc.gov.uk/blog-post/zero-trust-migration-how-will-i-know-if-i-can-remove-my-vpn	3
