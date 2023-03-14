@@ -1,8 +1,8 @@
-https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf	14
+https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf	15
+https://openai.com/research/gpt-4	14
 https://www.welivesecurity.com/2023/03/14/slow-ticking-time-bomb-tick-apt-group-dlp-software-developer-east-asia/	13
-https://openai.com/research/gpt-4	13
-https://exploit.ph/external-trusts-are-evil.html	12
-https://openai.com/product/gpt-4	11
+https://exploit.ph/external-trusts-are-evil.html	13
+https://openai.com/product/gpt-4	12
 https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html	10
 https://www.vice.com/en/article/qjvd9q/ransomware-group-claims-hack-of-amazons-ring	9
 https://www.bleepingcomputer.com/news/security/fortinet-new-fortios-bug-used-as-zero-day-to-attack-govt-networks/	8
@@ -14,6 +14,9 @@ https://www.sweetscape.com/010editor/incident.html	6
 https://www.newsweek.com/ukraine-drafting-new-law-legalizing-volunteer-hacker-cyber-army-red-cross-1786814	6
 https://twitter.com/JAMESWT_MHT/status/1635544232466305024?s=2062.173.142.51	6
 https://www.microsoft.com/en-us/security/blog/2023/03/13/dev-1101-enables-high-volume-aitm-campaigns-with-open-source-phishing-kit/	6
+https://bazaar.abuse.ch/sample/80aad667f60f6283a3195a937fca2591299bbcecfd3c76ad4215a40961718b01/	6
+https://hubs.la/Q01GMZBS0	6
+https://github.com/curated-intel/Ukraine-Cyber-Operations	6
 https://twitter.com/vxunderground/status/1635427567271329792	6
 https://www.post.lu/en/business/blog/articles/cybersecurite/technical-corner/recherche-de-vulnerabilites-part-1-	6
 https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html	6
@@ -24,9 +27,6 @@ https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-o
 https://urlhaus.abuse.ch/browse/tag/MISE/	5
 https://twitter.com/Hacker0x01/status/1635375201583071232	5
 https://docs.saferwall.com/blog/virtualization-internals-part-2-vmware-and-virtualization-using-binary-translation/	5
-https://bazaar.abuse.ch/sample/80aad667f60f6283a3195a937fca2591299bbcecfd3c76ad4215a40961718b01/	5
-https://hubs.la/Q01GMZBS0	5
-https://github.com/curated-intel/Ukraine-Cyber-Operations	5
 https://twitter.com/BleepinComputer/status/1635409968265412609	5
 https://www.trustedsec.com/blog/red-vs-blue-kerberos-ticket-times-checksums-and-you/	5
 https://tria.ge/230314-l2766sgg51	5
@@ -52,6 +52,7 @@ https://medium.com/@D00MFist/generate-keys-or-generate-dylib-loads-c99ed48f323d	
 https://careers.google.com/jobs/results/114369247640986310/	4
 https://twitter.com/i/web/status/1635591550171332608	4
 https://twitter.com/blackgirlshack/status/1635326296493551619	4
+https://therecord.media/zoll-data-breach-cyberattack	4
 https://thehackernews.com/2023/03/microsoft-warns-of-large-scale-use-of.html	4
 https://www.sans.org/u/1o2r	4
 https://www.sans.org/u/1o2c	4
@@ -87,10 +88,10 @@ https://exploitpack.com	3
 https://www.youtube.com/watch?v=d7_xF5963Wg	3
 http://github.com/projectdiscovery/fuzzing-templates	3
 https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html	3
+https://securityaffairs.com/143466/cyber-crime/dev-1101-phishing-kit.html	3
 https://www.washingtonpost.com/politics/2023/03/14/us-government-provides-cyber-budget-specifics/	3
 https://therecord.media/ring-denies-ransomware-attack-alphv	3
 https://twitch.tv/c3rb3ru5d3d53c	3
-https://therecord.media/zoll-data-breach-cyberattack	3
 https://www.bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/	3
 https://twitter.com/uk_daniel_card/status/1635586754966347776	3
 https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html	3
