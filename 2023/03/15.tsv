@@ -1,15 +1,15 @@
 https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/	52
-https://twitter.com/MDSecLabs/status/1635791863478091778	30
+https://twitter.com/MDSecLabs/status/1635791863478091778	31
 https://posts.specterops.io/uncovering-windows-events-b4b9db7eac54	14
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-zero-day-used-by-russian-hackers-since-april-2022/	13
 https://exploit.ph/external-trusts-are-evil.html	10
+https://twitter.com/_CPResearch_/status/1636049035726405632	9
 https://blogs.blackberry.com/en/2023/03/nobelium-targets-eu-governments-assisting-ukraine	9
+https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama243_15.03.2023.txt	8
 https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/	8
-https://twitter.com/_CPResearch_/status/1636049035726405632	8
+https://www.cobaltstrike.com/blog/revisiting-the-udrl-part-1-simplifying-development/	8
 https://threatfox.abuse.ch/browse/malware/elf.kaiji/	8
-https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama243_15.03.2023.txt	7
 https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass/	7
-https://www.cobaltstrike.com/blog/revisiting-the-udrl-part-1-simplifying-development/	7
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB19_15.03.2023.txt	7
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23397	7
 https://twitter.com/i/web/status/1635990148792893442	7
@@ -22,6 +22,7 @@ https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-lau
 https://www.welivesecurity.com/2023/03/14/slow-ticking-time-bomb-tick-apt-group-dlp-software-developer-east-asia/	6
 https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/	6
 https://msrc.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/	6
+https://access.redhat.com/security/cve/CVE-2023-1390	6
 https://research.checkpoint.com/2023/dotrunpex-demystifying-new-virtualized-net-injector-used-in-the-wild/	6
 https://bazaar.abuse.ch/sample/2623024aba1ee994dcb82e937a8beb59abbebf51b6aa4cde8434bb56458b47da/	5
 https://www.bleepingcomputer.com/news/security/first-known-dero-cryptojacking-operation-seen-targeting-kubernetes/	5
@@ -33,10 +34,10 @@ https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html	5
 https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html	5
 https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/	5
 https://www.hackthebox.com/events/cyber-apocalypse-2023	5
-https://access.redhat.com/security/cve/CVE-2023-1390	5
 https://vimeo.com/808160973	5
 https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/	5
 https://youtu.be/Nl3pjrh1dEM	4
+https://github.com/delivr-to/detections/blob/main/yara-rules/msg_cve_2023_23397.yar	4
 https://github.com/akto-api-security/akto	4
 https://www.bleepingcomputer.com/news/security/rubrik-confirms-data-theft-in-goanywhere-zero-day-attack/	4
 https://github.com/scrt/cve-2022-42475	4
@@ -44,6 +45,7 @@ https://redteamsorcery.teachable.com/p/windows-services-for-red-teamers	4
 https://ghst.ly/3lgZ26c	4
 https://bgcd.co/3TmfZca	4
 https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html	4
+https://delivr.to/payloads?id=494a2718-a012-45d5-9fe8-27465b0c1809	4
 https://www.justice.gov/opa/pr/justice-department-investigation-leads-takedown-darknet-cryptocurrency-mixer-processed-over-3	4
 https://msft.it/6018504d4	4
 https://cdn.openai.com/papers/gpt-4.pdf	4
@@ -58,6 +60,7 @@ https://bazaar.abuse.ch/sample/80aad667f60f6283a3195a937fca2591299bbcecfd3c76ad4
 https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html	4
 https://github.com/curated-intel/Ukraine-Cyber-Operations	4
 https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/	4
+https://microsoft.github.io/CSS-Exchange/Security/CVE-2023-23397/	4
 https://www.cnn.com/2023/03/15/politics/russian-hackers-europe-military-organizations-microsoft/index.html	4
 https://0x434b.dev/linksys-ea6100_pt1/	4
 https://twitter.com/NCSC/status/1635688414128242689	4
@@ -67,7 +70,7 @@ https://twitter.com/opensips/status/1636019758242856964	3
 https://www.washingtonpost.com/politics/2023/03/15/silicon-valley-bank-collapse-poses-challenge-cybersecurity-defenders-firms/	3
 https://twitter.com/mdseclabs/status/1635791863478091778	3
 https://twitter.com/abel1ma/status/1636121052526039040	3
-https://github.com/delivr-to/detections/blob/main/yara-rules/msg_cve_2023_23397.yar	3
+https://www.securityweek.com/microsoft-pins-outlook-zero-day-attacks-on-russian-actor-offers-detection-script/	3
 https://twitter.com/ntsuji/status/1635840970754510851	3
 https://www.economist.com/international/2023/03/14/russias-allies-are-a-motley-and-shrinking-crew	3
 http://tinyurl.com/wispdefcon2023	3
@@ -81,7 +84,6 @@ https://twitter.com/blackorbird/status/1620995786648739841	3
 https://twitter.com/GillianBNews/status/1635397817526267904	3
 https://www.virustotal.com/gui/file/a5a37841ce19eb8c9df90cc73b5a70684179b7b1de9bd0a197f32835e225305e	3
 https://helpx.adobe.com/security/products/coldfusion/apsb23-25.html	3
-https://delivr.to/payloads?id=494a2718-a012-45d5-9fe8-27465b0c1809	3
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#navigation-navigate-method	3
 https://blog.talosintelligence.com/yorotrooper-espionage-campaign-cis-turkey-europe/	3
 https://www.securityweek.com/data-security-firm-rubrik-targeted-with-goanywhere-zero-day-exploit/	3
@@ -101,12 +103,13 @@ https://therecord.media/rubrik-hackers-zero-day-fortra	3
 https://twitter.com/domchell/status/1635999068282408962	3
 https://securitylab.github.com/advisories/GHSL-2022-121_GHSL-2022-123_Apolloconfig/	3
 https://twitter.com/JSECTEAM/status/1635859724754120705	3
+https://uncoder.io/	3
 http://ow.ly/jxYu50NiWak	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2023-03-14%20IcedID%20(Bokbot)%20IOCs	3
 https://techcrunch.com/2023/03/15/police-shut-down-dark-web-crypto-laundering-service-linked-to-ftx-hack/	3
-https://microsoft.github.io/CSS-Exchange/Security/CVE-2023-23397/	3
 https://github.com/executemalware/Malware-IOCs/blob/main/2023-03-14%20Qakbot%20(BB19)%20IOCs	3
 https://gist.github.com/usualsuspect/891392114006046a02efbfcf3e4c6f1c	3
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-074a	3
 https://therecord.media/cisa-us-agency-breached-by-cybercriminals	3
+https://twitter.com/bugcrowd/status/1636079901898862593	3
 https://www.linkedin.com/feed/update/urn:li:activity:7041747867765469184	3
