@@ -2,10 +2,10 @@ https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-ic
 https://www.theguardian.com/technology/2023/mar/30/vulkan-files-leak-reveals-putins-global-and-domestic-cyberwarfare-tactics	12
 https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.tls.certificates.leaf_data.subject.common_name%3A+%E2%80%9Cforen.zik%E2%80%9D	10
 https://twitter.com/i/web/status/1641676761283850241	10
+https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/	8
 https://twitter.com/Steph3nSims/status/1641549518297772033	8
+https://github.com/twitter/the-algorithm	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama247_31.03.2023.txt	8
-https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/	7
-https://github.com/twitter/the-algorithm	7
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats	7
 https://thehackernews.com/2023/03/3cx-supply-chain-attack-heres-what-we.html	6
 https://www.genbeta.com/seguridad/avast-recopilo-vendio-datos-privados-navegacion-millones-usuarios-detallados-que-permiten-identificarlos	6
@@ -51,6 +51,7 @@ https://www.virustotal.com/gui/url/00c2a8ae2c29b56e2a8150c66a14deca924c2e43bf524
 https://www.independent.co.uk/tech/chatgpt-ban-italy-gdpr-data-protection-b2311738.html	4
 https://arxiv.org/abs/2303.17564	4
 https://twitter.com/BlueTeamCon/status/1641666385032929280	4
+https://www.huntress.com/blog/contextualizing-events-enabling-defense-what-3cx-means	4
 https://ti.to/steelcon/2023	4
 https://thehackernews.com/2023/03/cyber-police-of-ukraine-busted-phishing.html	4
 https://twitter.com/nekono_naha/status/1636168537361502209	4
@@ -60,6 +61,7 @@ https://twitter.com/SBousseaden/status/1485283092008951815	4
 https://urlhaus.abuse.ch/url/2592658/	4
 https://www.sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/	4
 https://bazaar.abuse.ch/browse/tag/BR-2963/	4
+https://twitter.com/fr0gger_/status/1641668394155151366	4
 https://twitter.com/ffmpeg/status/1641481591254921216	4
 https://app.any.run/tasks/c212e16c-660a-48f8-86cc-4b37f7fee513	4
 http://dlvr.it/SlmsL7	3
@@ -93,7 +95,6 @@ https://twitter.com/i/web/status/1641742738864459779	3
 https://r-7.co/3zktmjF	3
 https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis	3
 https://hackerone.com/reports/1928279	3
-https://www.huntress.com/blog/contextualizing-events-enabling-defense-what-3cx-means	3
 https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-elementor-pro-wordpress-plugin-with-11m-installs/	3
 https://thehackernews.com/2023/03/researchers-detail-severe-super.html	3
 https://twitter.com/silascutler/status/1641911912022589440	3
