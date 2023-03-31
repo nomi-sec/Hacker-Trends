@@ -1,7 +1,7 @@
 https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/	14
 https://www.theguardian.com/technology/2023/mar/30/vulkan-files-leak-reveals-putins-global-and-domestic-cyberwarfare-tactics	12
-https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.tls.certificates.leaf_data.subject.common_name%3A+%E2%80%9Cforen.zik%E2%80%9D	9
-https://twitter.com/i/web/status/1641676761283850241	9
+https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.tls.certificates.leaf_data.subject.common_name%3A+%E2%80%9Cforen.zik%E2%80%9D	10
+https://twitter.com/i/web/status/1641676761283850241	10
 https://twitter.com/Steph3nSims/status/1641549518297772033	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama247_31.03.2023.txt	8
 https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/	7
@@ -15,14 +15,17 @@ https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html	5
 https://www.cisa.gov/news-events/news/joint-statement-strategic-dialogue-cybersecurity-civil-society-under-threat-transnational-repression	5
 https://docs.google.com/forms/d/1-JT2AjreIfn4fmxPt__NJefhAssSjnMBGf2cKpKsuEY/edit	5
 https://blog.sekoia.io/sekoia-io-analysis-of-the-vulkanfiles-leak/	5
+https://www.sans.org/cyber-security-courses/red-team-operations-adversary-emulation/	5
 https://research.samsung.com/blog/UTopia-From-unit-tests-to-fuzzing	5
 https://www.nextron-systems.com/2023/03/31/using-thor-lite-to-scan-for-indicators-of-lazarus-activity-related-to-the-3cx-compromise/	5
 https://hubs.la/Q01JPD5j0	5
 https://www.antiphishing.jp/news/alert/myna_20230331.html	5
+https://github.com/twitter/the-algorithm	5
 https://twitter.com/JAMESWT_MHT/status/1641782661503918081?s=20	5
 https://github.com/Samsung/UTopia	5
 https://enterprise-sharing.ft.com/redeem/75e5e3d7-72c9-4b51-8ea9-dcfd99c42765	5
 https://www.theguardian.com/business/2023/mar/31/capita-it-systems-fail-cyber-attack-nhs-fears	4
+https://www.forbes.com/sites/tomcoughlin/2023/03/31/world-backup-day-is-a-reminder-to-back-up-your-world/?sh=5b45b0ef8e4e	4
 https://therecord.media/bmw-says-play-ransomware-only-hit-local-dealership	4
 https://www.bleepingcomputer.com/news/security/winter-vivern-hackers-exploit-zimbra-flaw-to-steal-nato-emails/	4
 https://twitter.com/malwrhunterteam/status/1641573035076403204	4
@@ -47,7 +50,6 @@ https://www.washingtonpost.com/national-security/2023/03/30/russian-cyberwarfare
 https://www.virustotal.com/gui/url/00c2a8ae2c29b56e2a8150c66a14deca924c2e43bf52405336bab8a10cf9f6e5/telemetry	4
 https://www.independent.co.uk/tech/chatgpt-ban-italy-gdpr-data-protection-b2311738.html	4
 https://arxiv.org/abs/2303.17564	4
-https://github.com/twitter/the-algorithm	4
 https://twitter.com/BlueTeamCon/status/1641666385032929280	4
 https://ti.to/steelcon/2023	4
 https://thehackernews.com/2023/03/cyber-police-of-ukraine-busted-phishing.html	4
@@ -64,7 +66,6 @@ http://dlvr.it/SlmsL7	3
 http://Bing.com	3
 https://twitter.com/matthew_d_green/status/1641791403108843521	3
 https://player.captivate.fm/episode/c0fa6a33-f77c-4a86-8393-aa66340a16dd/	3
-https://www.forbes.com/sites/tomcoughlin/2023/03/31/world-backup-day-is-a-reminder-to-back-up-your-world/?sh=5b45b0ef8e4e	3
 https://blog.krakz.fr/articles/bumblebee/	3
 https://www.eventbrite.com/e/hack-space-con-23-cybersecurity-space-aero-defense-hacker-conference-tickets-516298802617	3
 https://twitter.com/alyssam_infosec/status/1641761413029847041	3
@@ -78,9 +79,9 @@ https://github.com/channyein1337/jsleak	3
 https://www.trendmicro.com/en_us/research/23/c/information-on-attacks-involving-3cx-desktop-app.html	3
 https://www.proofpoint.com/us/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability	3
 https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research	3
-https://www.sans.org/cyber-security-courses/red-team-operations-adversary-emulation/	3
 https://www.ipa.go.jp/news/2022/announce/topic_20230331.html	3
 https://www.youtube.com/watch?v=cCf3Km_j5bY	3
+https://twitter.com/i/web/status/1641875618039238656	3
 https://vul.360.net/archives/690	3
 http://cyberiqs.com/latestnews	3
 https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html	3
@@ -91,6 +92,7 @@ https://twitter.com/i/web/status/1641742738864459779	3
 https://r-7.co/3zktmjF	3
 https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis	3
 https://hackerone.com/reports/1928279	3
+https://www.huntress.com/blog/contextualizing-events-enabling-defense-what-3cx-means	3
 https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-elementor-pro-wordpress-plugin-with-11m-installs/	3
 https://thehackernews.com/2023/03/researchers-detail-severe-super.html	3
 https://twitter.com/jrpentester/status/1641583186131005442	3
