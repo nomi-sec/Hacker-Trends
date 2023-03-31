@@ -1,10 +1,10 @@
 https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/	14
 https://www.theguardian.com/technology/2023/mar/30/vulkan-files-leak-reveals-putins-global-and-domestic-cyberwarfare-tactics	12
 https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=services.tls.certificates.leaf_data.subject.common_name%3A+%E2%80%9Cforen.zik%E2%80%9D	10
+https://github.com/twitter/the-algorithm	10
 https://twitter.com/i/web/status/1641676761283850241	10
 https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/	8
 https://twitter.com/Steph3nSims/status/1641549518297772033	8
-https://github.com/twitter/the-algorithm	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama247_31.03.2023.txt	8
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats	7
 https://thehackernews.com/2023/03/3cx-supply-chain-attack-heres-what-we.html	6
@@ -26,6 +26,7 @@ https://github.com/Samsung/UTopia	5
 https://enterprise-sharing.ft.com/redeem/75e5e3d7-72c9-4b51-8ea9-dcfd99c42765	5
 https://www.theguardian.com/business/2023/mar/31/capita-it-systems-fail-cyber-attack-nhs-fears	4
 https://www.forbes.com/sites/tomcoughlin/2023/03/31/world-backup-day-is-a-reminder-to-back-up-your-world/?sh=5b45b0ef8e4e	4
+https://www.bleepingcomputer.com/news/technology/twitter-open-sources-recommendation-algorithm-code/	4
 https://therecord.media/bmw-says-play-ransomware-only-hit-local-dealership	4
 https://www.bleepingcomputer.com/news/security/winter-vivern-hackers-exploit-zimbra-flaw-to-steal-nato-emails/	4
 https://twitter.com/malwrhunterteam/status/1641573035076403204	4
@@ -79,6 +80,7 @@ https://koosg.medium.com/unlimited-advanced-hunting-for-microsoft-365-defender-w
 https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847	3
 https://github.com/channyein1337/jsleak	3
 https://youtu.be/kqa4gIV5kD0	3
+https://securereload.tech/Phishing/Lists/Latest/	3
 https://www.trendmicro.com/en_us/research/23/c/information-on-attacks-involving-3cx-desktop-app.html	3
 https://www.proofpoint.com/us/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability	3
 https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research	3
@@ -110,3 +112,4 @@ https://translegislation.com/	3
 https://twitter.com/wietze/status/1641788290310316033	3
 https://xtech.nikkei.com/atcl/nxt/news/18/14920/	3
 https://github.com/DragoQCC/HardHatC2	3
+https://bit.ly/3TZdBIq	3
