@@ -1,14 +1,14 @@
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21817	18
+https://research.checkpoint.com/2023/queuejumper-critical-unauthorized-rce-vulnerability-in-msmq-service/	15
 https://citizenlab.ca/2023/04/spyware-vendor-quadream-exploits-victims-customers/	14
-https://research.checkpoint.com/2023/queuejumper-critical-unauthorized-rce-vulnerability-in-msmq-service/	13
 https://gist.github.com/monoxgas/f615514fb51ebb55a7229f3cf79cf95b	12
 https://msft.it/6010gy5fA	11
+https://techcommunity.microsoft.com/t5/windows-it-pro-blog/by-popular-demand-windows-laps-available-now/ba-p/3788747	10
 https://informnapalm.org/en/hacked-russian-gru-officer/	10
+https://openai.com/blog/bug-bounty-program	10
 https://twitter.com/NahamSec/status/1645819746062053382	9
 https://securelist.com/nokoyawa-ransomware-attacks-with-windows-zero-day/109483/	9
-https://openai.com/blog/bug-bounty-program	9
 http://openai.com/blog/bug-bounty-program	8
-https://techcommunity.microsoft.com/t5/windows-it-pro-blog/by-popular-demand-windows-laps-available-now/ba-p/3788747	8
 https://thehackernews.com/2023/04/cryptocurrency-stealer-malware.html	8
 https://twitter.com/GCHQ/status/1645728669598400512	8
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama250_11.04.2023.txt	7
@@ -29,6 +29,7 @@ https://mp.weixin.qq.com/s/RHbsCLzahLP0zGgC3N5pPQ	5
 https://www.bleepingcomputer.com/news/security/iphones-hacked-via-invisible-calendar-invites-to-drop-quadream-spyware/	5
 https://github.com/H4K6/CVE-2023-0179-PoC	5
 https://www.thehacker.recipes/ad/movement/kerberos/forged-tickets/rodc-golden-tickets	5
+https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/	5
 https://www.willsroot.io/2022/12/entrybleed.html	4
 https://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html	4
 https://www.ipa.go.jp/security/guide/vuln/guideforecsite.html	4
@@ -52,7 +53,6 @@ https://techcommunity.microsoft.com/t5/sysinternals-blog/psexec-v2-43-sysmon-v14
 https://www.antisyphontraining.com/intro-to-offensive-tooling-w-chris-traynor/	4
 http://cisa.gov/zero-trust-maturity-model	4
 https://www.bleepingcomputer.com/news/security/3cx-confirms-north-korean-hackers-behind-supply-chain-attack/	4
-https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/	4
 https://gist.github.com/LinusHenze/728db96a836b6817ecb727cfbde606b3	3
 http://hivepro.com/80k-qnap-devices-vulnerable-to-cyberattack/	3
 https://twitter.com/_CPResearch_/status/1645836723660771328	3
@@ -79,6 +79,7 @@ https://github.com/0xb11a1/yetAnotherObfuscator	3
 https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome	3
 https://urlscan.io/result/6fad763f-57c4-498e-9e7d-6c551c3e4343/	3
 http://cyberiqs.com/latestnews	3
+https://twitter.com/discord/status/1645522780337885184	3
 https://www.openwall.com/lists/oss-security/2023/01/13/2	3
 https://twitter.com/esqueer_/status/1645534892409884681	3
 https://www.theregister.com/2023/04/10/apple_fix_ios_macos/	3
