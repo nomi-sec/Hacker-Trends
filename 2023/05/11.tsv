@@ -5,13 +5,13 @@ https://www.akamai.com/blog/security-research/important-outlook-vulnerability-by
 https://twitter.com/i/web/status/1656555358142226432	9
 https://www.malwarebytes.com/blog/threat-intelligence/2023/05/redstinger	9
 https://drive.google.com/file/d/1Pj7hSvsj0qvegdIUvABa9KUEKOrLzu2p/view?usp=drivesdk	8
+https://github.com/mr-pmillz/gofireprox	8
 https://thehackernews.com/2023/05/babuk-source-code-sparks-9-new.html	8
 https://crnkovic.dev/testing-converso/	7
 https://twitter.com/jbradley89/status/1649434597309005824	7
 https://learn.microsoft.com/en-us/windows/win32/gdi/regions	7
 https://lolbas-project.github.io/lolbas/Binaries/Conhost/	7
 https://posts.specterops.io/c2-and-the-docker-dance-mythic-3-0s-marvelous-microservice-moves-f6e6e91356e2	7
-https://github.com/mr-pmillz/gofireprox	7
 https://www.vice.com/en/article/88xgjz/inside-italian-mafias-encrypted-phone-no1bc	7
 http://Agreement.zip	7
 https://twitter.com/danjconn/status/1656531851182329856	7
@@ -25,7 +25,9 @@ https://research.nccgroup.com/2023/04/24/hitbams-your-not-so-home-office-soho-ha
 https://twitter.com/a_greenberg/status/1656514003793846272	6
 https://github.com/BushidoUK/Breach-Report-Collection	6
 https://therecord.media/uk-increasingly-concerned-of-ransomware-victims-keeping-quiet-ncsc	6
+https://help.twitter.com/en/using-twitter/encrypted-direct-messages	6
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a	5
+https://github.com/awslabs/snapchange	5
 https://www.bleepingcomputer.com/news/security/twitter-rolls-out-encrypted-dms-but-only-for-paying-accounts/	5
 https://twitter.com/i/web/status/1656591648732708865	5
 https://www.youtube.com/watch?v=vvUrSHLsNxI	5
@@ -36,9 +38,7 @@ https://twitter.com/DragosInc/status/1656266401877839873	5
 https://twitter.com/MDSecLabs/status/1656685670490951680	5
 https://www.ncsc.gov.uk/blog-post/why-more-transparency-around-cyber-attacks-is-a-good-thing-for-everyone	5
 https://twitter.com/msuiche/status/1656082701223620608	5
-https://help.twitter.com/en/using-twitter/encrypted-direct-messages	5
 https://aws.amazon.com/blogs/opensource/announcing-snapchange-an-open-source-kvm-backed-snapshot-fuzzing-framework/	4
-https://github.com/awslabs/snapchange	4
 https://twitter.com/msuiche/status/1656438634671935489	4
 https://www.bleepingcomputer.com/news/google/google-brings-dark-web-monitoring-to-all-us-gmail-users/	4
 https://github.com/ufrisk/MemProcFS	4
@@ -100,6 +100,7 @@ https://www.ipa.go.jp/security/J-CSIP/index.html	3
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29344	3
 https://twitter.com/_msw_/status/1656367221747118094	3
 https://www.tgsoft.it/news/news_archivio.asp?id=1430	3
+https://twitter.com/steverobson04/status/1656644951978004483	3
 https://www.databreachtoday.com/malware-taps-generative-ai-to-rewrite-code-avoid-detection-a-21972	3
 https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-who-extorted-the-firm-gets-six-years-in-prison/	3
 https://hex-rays.com/blog/plugin-focus-ntrays/?utm_source=Social-Media-Post&utm_medium=Twitter&utm_campaign=Plugin-Focus-ntrays	3
