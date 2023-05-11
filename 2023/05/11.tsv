@@ -1,9 +1,9 @@
-https://blog.assetnote.io/2023/05/10/sitecore-round-two/	15
+https://blog.assetnote.io/2023/05/10/sitecore-round-two/	16
 https://twitter.com/markrussinovich/status/1656416376125538304	11
+https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api	9
 https://twitter.com/i/web/status/1656555358142226432	9
 https://www.malwarebytes.com/blog/threat-intelligence/2023/05/redstinger	9
 https://www.mdsec.co.uk/2023/05/nighthawk-0-2-4-taking-out-the-trash/	9
-https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api	8
 https://drive.google.com/file/d/1Pj7hSvsj0qvegdIUvABa9KUEKOrLzu2p/view?usp=drivesdk	8
 https://thehackernews.com/2023/05/babuk-source-code-sparks-9-new.html	8
 https://crnkovic.dev/testing-converso/	7
@@ -21,9 +21,11 @@ https://www.sans.org/u/1p0c	6
 https://github.com/binarly-io/FwHunt/blob/main/rules/SupplyChain/IntelAlderLakeLeak.yml	6
 https://twitter.com/a_greenberg/status/1656514003793846272	6
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a	5
+https://www.bleepingcomputer.com/news/security/twitter-rolls-out-encrypted-dms-but-only-for-paying-accounts/	5
 https://www.youtube.com/watch?v=vvUrSHLsNxI	5
 https://thehackernews.com/2023/05/why-honeytokens-are-future-of-intrusion.html	5
 https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_BB27_11.05.2023.txt	5
+https://www.esentire.com/blog/esentire-threat-intelligence-malware-analysis-vidar-stealer	5
 https://github.com/fortra/impacket/pull/1391	5
 https://twitter.com/ericgeller/status/1656647131661320195	5
 https://twitter.com/DragosInc/status/1656266401877839873	5
@@ -31,10 +33,10 @@ https://research.nccgroup.com/2023/04/24/hitbams-your-not-so-home-office-soho-ha
 https://therecord.media/uk-increasingly-concerned-of-ransomware-victims-keeping-quiet-ncsc	5
 https://www.ncsc.gov.uk/blog-post/why-more-transparency-around-cyber-attacks-is-a-good-thing-for-everyone	5
 https://twitter.com/msuiche/status/1656082701223620608	5
+https://help.twitter.com/en/using-twitter/encrypted-direct-messages	5
 https://aws.amazon.com/blogs/opensource/announcing-snapchange-an-open-source-kvm-backed-snapshot-fuzzing-framework/	4
 https://github.com/awslabs/snapchange	4
 https://twitter.com/msuiche/status/1656438634671935489	4
-https://www.bleepingcomputer.com/news/security/twitter-rolls-out-encrypted-dms-but-only-for-paying-accounts/	4
 https://www.bleepingcomputer.com/news/google/google-brings-dark-web-monitoring-to-all-us-gmail-users/	4
 https://twitter.com/i/web/status/1656591648732708865	4
 https://github.com/ufrisk/MemProcFS	4
@@ -54,7 +56,6 @@ https://github.com/BushidoUK/Breach-Report-Collection	4
 https://twitter.com/alexmartin/status/1656622126206517250	4
 https://thehackernews.com/2023/05/github-extends-push-protection-to.html	4
 https://therecord.media/nca-wins-encrochat-case-hacked-messaging-platform	4
-https://help.twitter.com/en/using-twitter/encrypted-direct-messages	4
 http://avh.arm.com	3
 https://www.ipa.go.jp/security/j-csip/ug65p9000000nkvm-att/fy22-q4-report.pdf	3
 https://github.com/gabriellandau/PPLFault	3
@@ -72,7 +73,6 @@ https://www.huntress.com/blog/advanced-cyberchef-tips-asyncrat-loader	3
 https://github.com/ex16x41/bugbounty/blob/main/WebFrameworks-Exposures.md	3
 https://hubs.la/Q01Pj-S60	3
 https://twitter.com/binary_defense/status/1656687970278158337	3
-https://www.esentire.com/blog/esentire-threat-intelligence-malware-analysis-vidar-stealer	3
 https://twitter.com/cybersecstu/status/1656565365063708673	3
 https://github.com/dru1d-foofus/GetLAPSPassword/	3
 https://github.com/susMdT/effective-waffle/tree/main	3
@@ -85,6 +85,7 @@ https://twitter.com/cybersecstu/status/1649540021437734912	3
 https://www.youtube.com/watch?v=TKIEXwOcbfc	3
 https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/	3
 http://Regexper.com	3
+https://twitter.com/hexacon_fr/status/1656271151868399619	3
 https://www.ipa.go.jp/security/J-CSIP/index.html	3
 https://www.shodan.io/search?query=http.html_hash%3A501510358+ssl.jarm%3A%2221d14d00021d21d21c42d43d0000007abc6200da92c2a1b69c0a56366cbe21%22	3
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29344	3
@@ -95,6 +96,7 @@ https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-who-extorted-
 https://hex-rays.com/blog/plugin-focus-ntrays/?utm_source=Social-Media-Post&utm_medium=Twitter&utm_campaign=Plugin-Focus-ntrays	3
 https://www.youtube.com/watch?v=eNgIAl2fwGU	3
 https://therecord.media/marines-cyber-chief-stuck-in-senate-nomination-pileup-jay-matos-tommy-tuberville	3
+https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.3_build	3
 https://breakdev.org/evilginx-3-0-evilginx-mastery/	3
 https://about.gitlab.com/blog/2023/05/09/building-gitlab-with-gitlab-api-fuzzing-workflow/	3
 https://www.bleepingcomputer.com/news/security/rapperbot-ddos-malware-adds-cryptojacking-as-new-revenue-stream/	3
