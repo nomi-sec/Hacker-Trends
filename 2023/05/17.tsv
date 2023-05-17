@@ -1,7 +1,7 @@
 https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/	16
 https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5	14
-https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c	13
-https://github.com/trustedsec/PPLFaultDumpBOF	11
+https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c	14
+https://github.com/trustedsec/PPLFaultDumpBOF	12
 http://gtfobins.github.io	10
 http://malapi.io	10
 http://unprotect.it	10
@@ -25,6 +25,9 @@ https://twitter.com/i/web/status/1658588895012069377	6
 https://www.mandiant.com/resources/blog/sim-swapping-abuse-azure-serial	6
 https://github.com/gabriellandau/PPLFault	5
 https://github.com/singularseclab/Slides/blob/main/2023/find_and_exploit_race_condition_bugs_in_modern_JS_engines-zer0con2023.pdf	5
+https://blog.cerbero.io/?p=2709	5
+https://bishopfox.com/blog/exploit-cve-2022-42475	5
+https://intrusiontruth.wordpress.com/2023/05/17/missing-links/	5
 http://Twitch.tv/2OCStream	5
 https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/	5
 https://blog.sekoia.io/apt28-leverages-multiple-phishing-techniques-to-target-ukrainian-civil-society/	5
@@ -36,11 +39,11 @@ https://xtraining.kaspersky.com/codebreakers/?reseller=gl_xtr-codebreakers_pro_o
 http://blog.pi3.com.pl/?p=931	4
 https://link.medium.com/GAZ7576uQzb	4
 https://www.synacktiv.com/publications/a-study-on-windows-http-authentication-part-ii	4
-https://blog.cerbero.io/?p=2709	4
-https://bishopfox.com/blog/exploit-cve-2022-42475	4
+https://twitter.com/i/web/status/1658863958160228353	4
+https://twitter.com/i/web/status/1658740985302491136	4
 https://www.cnn.com/2023/05/16/politics/us-reward-russian-hacker/index.html	4
 https://www.synacktiv.com/publications/dissecting-ntlm-epa-with-love-building-a-mitm-proxy	4
-https://intrusiontruth.wordpress.com/2023/05/17/missing-links/	4
+https://www.team-cymru.com/post/visualizing-qakbot-infrastructure	4
 https://www.vice.com/en/article/m7bge3/dhs-uses-ai-tool-babel-x-babel-street-social-media-citizens-refugees	4
 https://bazaar.abuse.ch/browse/tag/architettura/	4
 https://thehackernews.com/2023/05/state-sponsored-sidewinder-hacker.html	4
@@ -48,6 +51,7 @@ http://bard.google.com	4
 https://thehackernews.com/2023/05/threat-group-unc3944-abusing-azure.html	4
 https://thehackernews.com/2023/05/us-offers-10-million-bounty-for-capture.html	4
 https://bit.ly/3WcwsB6	4
+https://urlhaus.abuse.ch/url/2633723/	4
 https://thehackernews.com/2023/05/serious-unpatched-vulnerability.html	4
 https://arstechnica.com/information-technology/2023/05/microsoft-is-scanning-the-inside-of-password-protected-zip-files-for-malware/	4
 https://discord.gg/oalabs	4
@@ -55,6 +59,7 @@ https://www.hexacorn.com/blog/2021/05/02/throwing-a-lolbin-tar-ball/	4
 https://www.twitch.tv/oalabslive	4
 https://www.securesystems.de/blog/active-directory-spotlight-attacking-the-microsoft-configuration-manager/	3
 https://twitter.com/i/web/status/1658854243984371712	3
+https://twitter.com/gabsmashh/status/1658847303300444164	3
 https://crnkovic.dev/testing-converso/	3
 https://redteamsorcery.teachable.com/p/red-teamer	3
 https://hackerone.com/reports/1837309	3
@@ -68,9 +73,7 @@ https://www.bleepingcomputer.com/news/security/hackers-infect-tp-link-router-fir
 https://mp-weixin-qq-com.translate.goog/s/QTSefcnpZ9AeG0v2SIpwuA?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en	3
 https://mp.weixin.qq.com/s/QTSefcnpZ9AeG0v2SIpwuA	3
 https://hubs.la/Q01Pds5S0	3
-https://twitter.com/i/web/status/1658863958160228353	3
 https://noperator.dev/posts/zip-snip/	3
-https://twitter.com/i/web/status/1658740985302491136	3
 https://twitter.com/i/web/status/1658666291308163072	3
 https://reversing.info/posts/hyperdeceit/	3
 https://www.cobaltstrike.com/blog/cobalt-strike-and-yara-can-i-have-your-signature/	3
@@ -86,9 +89,9 @@ https://thehackernews.com/2023/05/oilalpha-emerging-houthi-linked-cyber.html	3
 http://github.com/hakluke/hakrawler	3
 https://krebsonsecurity.com/2023/05/russian-hacker-wazawaka-indicted-for-ransomware/	3
 https://twitter.com/ctbeiser/status/1658616040224604160	3
+http://ow.ly/oEWS50Oqo6c	3
 https://ekadoya.com/blogs/news/i-information	3
 https://github.com/WerWolv/ImHex	3
-https://urlhaus.abuse.ch/url/2633723/	3
 https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution	3
 https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/	3
 https://app.any.run/tasks/7fa4ffd1-a9b1-4725-be4e-c1c9ef87840f#	3
