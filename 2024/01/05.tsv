@@ -1,4 +1,5 @@
 https://gchq.github.io/CyberChef/#recipe=YARA_Rules('rule%20beepboop%20%7B%5Cnstrings:%5Cn$mz%20%3D%20%22mz%22%20nocase%5Cn$s1%20%3D%20%22beep%22%5Cn$s2%20%3D%20%22boop%22%20%5Cncondition:%5Cnfilesize%20%3C%201000%5Cnand%20$mz%20at%200%20%5Cnand%20all%20of%20them%5Cn%7D',false,false,false,true,true,true)&input=bXogdGVzdCBtYXRlcmlhbCAKdGhhdCB5b3UgYXJlIHNjYW5uaW5nCnNvbWV0aGluZyBzb21ldGhpbmcgCmJlZXAgYm9vcCBjb21wdXRlcg	6
+https://securityonline.info/gtfonow-automatic-privilege-escalation-for-misconfigured-capabilities-sudo-and-suid-binaries/	5
 https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html	5
 https://thehackernews.com/2024/01/new-bandook-rat-variant-resurfaces.html	5
 https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html	5
@@ -9,7 +10,6 @@ https://www.bleepingcomputer.com/news/security/russian-hackers-wiped-thousands-o
 http://ransomch.at	4
 https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html	4
 https://www.bleepingcomputer.com/news/security/memorial-university-recovers-from-cyberattack-delays-semester-start/	4
-https://securityonline.info/gtfonow-automatic-privilege-escalation-for-misconfigured-capabilities-sudo-and-suid-binaries/	4
 https://speakerdeck.com/shhnjk/same-origin-cross-context-scripting	3
 https://www.securityweek.com/new-spectralblur-macos-backdoor-linked-to-north-korea/	3
 https://www.bleepingcomputer.com/news/security/breachforums-admin-jailed-again-for-using-a-vpn-unmonitored-pc/	3
@@ -20,7 +20,8 @@ https://www.securityweek.com/russia-hacked-residential-cameras-in-ukraine-to-spy
 https://swisskyrepo.github.io/InternalAllTheThings/	3
 https://www.bleepingcomputer.com/news/security/ivanti-warns-critical-epm-bug-lets-hackers-hijack-enrolled-devices/	3
 https://www.virustotal.com/gui/file/15ce7d3c879975ca81777cf58f47409283e34ec1fe8e966fde608bc7eda16646	3
+https://www.securityweek.com/ivanti-patches-critical-vulnerability-in-endpoint-manager/	3
 https://securityconversations.com/episode/danny-adamitis-on-an-unkillable-router-botnet-used-by-chinese-gov-hackers/	3
 https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6	3
-https://www.securityweek.com/ivanti-patches-critical-vulnerability-in-endpoint-manager/	3
+https://www.bleepingcomputer.com/news/security/us-charged-19-suspects-linked-to-xdedic-cybercrime-marketplace/	3
 https://securityaffairs.com/156939/security/myestatepoint-property-search-android-app-leaks-user-passwords.html	3
