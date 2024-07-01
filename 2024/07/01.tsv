@@ -1,5 +1,5 @@
 https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt	11
-https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server	7
+https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server	9
 https://www.bleepingcomputer.com/news/security/router-makers-support-portal-responds-with-metamask-phishing/	4
 https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html	4
 https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html	4
@@ -7,9 +7,12 @@ https://go.theregister.com/feed/www.theregister.com/2024/07/01/infosec_in_brief/
 https://gmo-cybersecurity.com/news/20240701-2/	3
 https://go.theregister.com/feed/www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/	3
 https://securityonline.info/cve-2024-6387-critical-openssh-unauthenticated-rce-flaw-regresshion-exposes-millions-of-linux-systems/	3
+https://www.openssh.com/txt/release-9.8	3
 https://www.openwall.com/lists/oss-security/2024/07/01/3	3
+https://blog.snapattack.com/a-detection-engineers-guide-to-sccm-misconfiguration-abuse-50fa059a446e	3
 https://thehackernews.com/2024/07/juniper-networks-releases-critical.html	3
 https://www.securityweek.com/prudential-financial-data-breach-impacts-2-5-million/	3
+https://www.bleepingcomputer.com/news/security/new-regresshion-openssh-rce-bug-gives-root-on-linux-servers/	3
 https://github.com/VirusTotal/yara-x/releases/tag/v0.5.0	3
 https://www.securityweek.com/teamviewer-hack-officially-attributed-to-russian-cyberspies/	3
 https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html	3
